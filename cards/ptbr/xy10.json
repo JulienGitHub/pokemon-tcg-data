@@ -1,0 +1,6393 @@
+[
+    {
+        "id": "xy10_1",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 80,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shuckle",
+        "name": "Shuckle",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Esconda uma Fruta",
+                "text": "Compre 2 cards. Coloque um card da sua mão debaixo do seu baralho.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Embrulho",
+                "text": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente será Paralisado.",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "1",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/1.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/1_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_2",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Burmy",
+        "evolvesInto": [
+            "Mothim",
+            "Wormadam"
+        ],
+        "name": "Burmy",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Dependurar",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "2",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/2.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/2_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_3",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 120,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Burmy",
+        "name": "Wormadam",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Clarão Solar",
+                "text": "Cure 20 de danos de cada um dos seus Pokémon.",
+                "cost": "G",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Folha Cortante",
+                "text": "Jogue uma moeda. Se sair cara, este ataque causará 30 de danos adicionais.",
+                "cost": "GCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "3",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/3.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/3_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_4",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 90,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Burmy",
+        "name": "Mothim",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Lufada de Vento",
+                "text": "",
+                "cost": "CCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] As Wormadam Primeiro",
+                "text": "Tantas vezes quanto desejar durante sua vez de jogar <i>(antes de atacar),</i> você pode mover 1 contador de danos de 1 de suas Wormadam para outro dos seus Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "4",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/4.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/4_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_5",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Snivy",
+        "evolvesInto": [
+            "Servine"
+        ],
+        "name": "Snivy",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Borrão",
+                "text": "Cure 10 de danos deste Pokémon.",
+                "cost": "G",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "5",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/5.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/5_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_6",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 70,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Snivy",
+        "evolvesInto": [
+            "Serperior",
+            "Serperior ex"
+        ],
+        "name": "Servine",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Chicote de Vinha",
+                "text": "",
+                "cost": "G",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Sufocamento de Serpente",
+                "text": "Ao jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você pode jogar uma moeda. Se sair cara, o Pokémon Ativo do seu oponente será Paralisado."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "6",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/6.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/6_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_7",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 140,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Snivy",
+        "name": "Serperior",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Enroscar",
+                "text": "Durante sua próxima vez de jogar, os ataques deste Pokémon causarão 60 de danos adicionais ao Pokémon Ativo do seu oponente <i>(antes da aplicação de Fraqueza e Resistência).</i>",
+                "cost": "C",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Ataque Cortante",
+                "text": "Este Pokémon não poderá usar o Ataque Cortante na sua próxima vez de jogar.",
+                "cost": "G",
+                "damage": "80",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "7",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/7.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/7_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_8",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Deerling",
+        "evolvesInto": [
+            "Sawsbuck"
+        ],
+        "name": "Deerling",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Encontre um Amigo",
+                "text": "Procure em seu baralho um Pokémon, revele-o e coloque-o em sua mão. Em seguida, embaralhe seus cards.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "8",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/8.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/8_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_9",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 120,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Moltres",
+        "name": "Moltres",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Combustão",
+                "text": "",
+                "cost": "R",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Chama Voadora",
+                "text": "Você pode causar 40 de danos adicionais. Se fizer isso, este Pokémon causará 20 de danos a ele mesmo.",
+                "cost": "RRCC",
+                "damage": "80+",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "9",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/9.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/9_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_10",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fennekin",
+        "evolvesInto": [
+            "Braixen"
+        ],
+        "name": "Fennekin",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Fogo Fátuo",
+                "text": "",
+                "cost": "R",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Cauda Chicote",
+                "text": "Jogue uma moeda. Se sair cara, o Pokémon Defensor não poderá atacar durante a próxima vez de jogar do seu oponente.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "10",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/10.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/10_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_11",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 50,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fennekin",
+        "evolvesInto": [
+            "Braixen"
+        ],
+        "name": "Fennekin",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Vem Jogar",
+                "text": "Jogue uma moeda. Se sair cara, troque 1 dos Pokémon no Banco do seu oponente pelo Pokémon Ativo desse oponente.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "11",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/11.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/11_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_12",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fennekin",
+        "evolvesInto": [
+            "Delphox"
+        ],
+        "name": "Braixen",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Chama Destruidora",
+                "text": "Jogue uma moeda. Se sair cara, descarte uma Energia ligada ao Pokémon Ativo do seu oponente.",
+                "cost": "R",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Fita de Fogo Crepitante",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "12",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/12.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/12_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_13",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 140,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fennekin",
+        "evolvesInto": [
+            "Delphox BREAK"
+        ],
+        "name": "Delphox",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Chamas Tremeluzentes",
+                "text": "O Pokémon Ativo do seu oponente agora está Adormecido.",
+                "cost": "R",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Tempestade Psíquica",
+                "text": "Este ataque causa 20 de danos vezes a quantidade de Energia ligada a todos os Pokémon em jogo.",
+                "cost": "CCC",
+                "damage": "20Ã",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "13",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/13.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/13_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_14",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "BREAK"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 180,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fennekin",
+        "name": "Delphox TURBO",
+        "rarity": "BreakRare",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "[Ability] A Bruxa de Chamas",
+                "text": "Uma vez durante sua vez de jogar <i>(antes de atacar),</i> você pode procurar em seu baralho um card de Energia fire e o ligar a 1 dos seus Pokémon. Em seguida, embaralhe seus cards."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "14",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/14.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/14_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_15",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 80,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Seel",
+        "evolvesInto": [
+            "Dewgong"
+        ],
+        "name": "Seel",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Neve Congelada",
+                "text": "",
+                "cost": "W",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "15",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/15.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/15_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_16",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Seel",
+        "name": "Dewgong",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Hálito Congelante",
+                "text": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente será Paralisado. Se sair coroa, o Pokémon Ativo do seu oponente ficará Adormecido.",
+                "cost": "W",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Raio Aurora",
+                "text": "",
+                "cost": "WCCC",
+                "damage": "100",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "16",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/16.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/16_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_17",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Restored"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 80,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Espiral Arcaico",
+        "evolvesInto": [
+            "Omastar"
+        ],
+        "name": "Omanyte",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Revólver d'Água",
+                "text": "",
+                "cost": "W",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "17",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/17.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/17_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_18",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Espiral Arcaico",
+        "evolvesInto": [
+            "Omastar BREAK"
+        ],
+        "name": "Omastar",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Ataque Giratório",
+                "text": "",
+                "cost": "WC",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Raio Restaurador",
+                "text": "Uma vez durante sua vez de jogar <i>(antes de atacar),</i> você pode procurar em seu baralho um Pokémon Restaurado e colocá-lo no seu Banco. Em seguida, embaralhe seus cards."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "18",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/18.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/18_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_19",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "BREAK"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 140,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Espiral Arcaico",
+        "name": "Omastar TURBO",
+        "rarity": "BreakRare",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "[Ability] Tentáculo Perigoso",
+                "text": "Uma vez durante sua vez de jogar <i>(antes de atacar),</i> você pode trocar 1 dos Pokémon ex_atk no Banco do seu oponente pelo Pokémon Ativo desse oponente."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "19",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/19.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/19_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_20",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 170,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Glaceon-EX",
+        "name": "Glaceon-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Segunda Mordida",
+                "text": "Este ataque causa 10 de danos adicionais para cada contador de danos no Pokémon Ativo do seu oponente.",
+                "cost": "WC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Raio de Cristal",
+                "text": "Durante a próxima vez de jogar do seu oponente, previna todos os danos causados a este Pokémon por ataques de Pokémon de Evolução.",
+                "cost": "WCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "20",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/20.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/20_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_21",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 130,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kyurem Branco",
+        "name": "Kyurem Branco",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Gelo em Chamas",
+                "text": "Se este Pokémon possuir alguma Energia fire ligada a ele, este ataque causará 20 de danos a 2 dos Pokémon no Banco do seu oponente. <i>(Não aplique Fraqueza e Resistência a Pokémon no Banco.)</i>",
+                "cost": "WC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Queimadura de Neve",
+                "text": "Este Pokémon não poderá atacar durante sua próxima vez de jogar.",
+                "cost": "WWC",
+                "damage": "130",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "21",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/21.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/21_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_22",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Binacle",
+        "evolvesInto": [
+            "Barbaracle"
+        ],
+        "name": "Binacle",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Balanço",
+                "text": "Jogue 2 moedas. Este ataque causa 20 de danos adicionais para cada cara.",
+                "cost": "WC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "22",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/22.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/22_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_23",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 100,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Binacle",
+        "name": "Barbaracle",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Golpe de Garra",
+                "text": "",
+                "cost": "WWC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Bloqueio da Mão",
+                "text": "Se você tiver um card de Estádio em jogo, o seu oponente não poderá ligar nenhum card de Energia Especial da própria mão aos Pokémon dele(a)."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "23",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/23.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/23_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_24",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 70,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Rotom",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Extrair Energia",
+                "text": "Procure em seu baralho um card de Energia básica e ligue-o a este Pokémon. Em seguida, embaralhe seus cards.",
+                "cost": "L",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Magiplasma",
+                "text": "Mova 2 contadores de danos de cada um dos seus Pokémon ao Pokémon Ativo do seu oponente.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "24",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/24.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/24_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Metal",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_25",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 160,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Alakazam-EX",
+        "evolvesInto": [
+            "M Alakazam-EX"
+        ],
+        "name": "Alakazam-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Supressão",
+                "text": "Coloque 3 contadores de danos em cada um dos Pokémon do seu oponente que possui alguma Energia ligada a ele.",
+                "cost": "PC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Cinese",
+                "text": "Ao jogar <b>M</b>-Alakazam ex_atk da sua mão para evoluir este Pokémon, antes de evolui-lo, você pode colocar 2 contadores de danos no Pokémon Ativo do seu oponente e 3 contadores de danos em 1 dos Pokémon no Banco do seu oponente."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "25",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/25.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/25_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_26",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 210,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Alakazam-EX",
+        "name": "M Alakazam-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Força Zen",
+                "text": "Este ataque causa 30 de danos adicionais para cada contador de danos no Pokémon Ativo do seu oponente.",
+                "cost": "PC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "26",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/26.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/26_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_27",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Koffing",
+        "evolvesInto": [
+            "Galarian Weezing",
+            "Weezing"
+        ],
+        "name": "Koffing",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Divisão",
+                "text": "Procure em seu baralho até 2 Koffing e coloque-os no seu Banco. Em seguida, embaralhe seus cards.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "27",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/27.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/27_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_28",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 110,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Koffing",
+        "name": "Weezing",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Balão Bomba",
+                "text": "Jogue 2 moedas. Para cada cara, descarte 2 cards de cima do baralho do seu oponente.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Líquido Denso",
+                "text": "Ambos os Pokémon Ativos agora estão Confusos e Envenenados.",
+                "cost": "PCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "28",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/28.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/28_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_29",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 50,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mew",
+        "name": "Mew",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Encontro",
+                "text": "Procure em seu baralho um Pokémon, revele-o e coloque-o em sua mão. Em seguida, embaralhe seus cards.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Memórias do Começo",
+                "text": "Este Pokémon pode usar os ataques de qualquer um dos seus Pokémon Básicos em jogo. (Você ainda precisa da Energia necessária para usar cada ataque.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "29",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/29.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/29_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_30",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Spoink",
+        "evolvesInto": [
+            "Grumpig"
+        ],
+        "name": "Spoink",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pulo de Foguete",
+                "text": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                "cost": "P",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "30",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/30.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/30_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_31",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 100,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Spoink",
+        "name": "Grumpig",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Saltar na Plateia",
+                "text": "Coloque um Pokémon Básico da pilha de descarte do seu oponente no Banco dele(a). Em seguida, coloque 3 contadores de danos naquele Pokémon.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Jogar de Volta",
+                "text": "Seu oponente troca o próprio Pokémon Ativo por 1 dos Pokémon no Banco dele(a).",
+                "cost": "PP",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "31",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/31.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/31_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_32",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Gothita",
+        "evolvesInto": [
+            "Gothorita"
+        ],
+        "name": "Gothita",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Feixe Psíquico",
+                "text": "O Pokémon Ativo do seu oponente agora está Confuso.",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "32",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/32.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/32_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_33",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 30,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Solosis",
+        "evolvesInto": [
+            "Duosion"
+        ],
+        "name": "Solosis",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Miniconexão",
+                "text": "Se Solosis estiver no seu Banco, este ataque causará 30 de danos adicionais.",
+                "cost": "PC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "33",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/33.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/33_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_34",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Solosis",
+        "evolvesInto": [
+            "Reuniclus"
+        ],
+        "name": "Duosion",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Conexão Dupla",
+                "text": "Se Solosis estiver no seu Banco, este ataque causará 30 de danos adicionais. Se Duosion estiver no seu Banco, este ataque causará 60 de danos adicionais.",
+                "cost": "PC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "34",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/34.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/34_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_35",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 90,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Solosis",
+        "name": "Reuniclus",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Fusão de Conexão",
+                "text": "Se Solosis estiver no seu Banco, este ataque causará 30 de danos adicionais. Se Duosion estiver no seu Banco, este ataque causará 60 de danos adicionais. Se Reuniclus estiver no seu Banco, este ataque causará 90 de danos adicionais.",
+                "cost": "PC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "35",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/35.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/35_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_36",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 40,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Diglett",
+        "evolvesInto": [
+            "Dugtrio"
+        ],
+        "name": "Diglett",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Aríete",
+                "text": "",
+                "cost": "F",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "36",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/36.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/36_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_37",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 100,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cubone",
+        "evolvesInto": [
+            "Marowak BREAK"
+        ],
+        "name": "Marowak",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Ossomerangue",
+                "text": "Jogue 2 moedas. Este ataque causa 60 de danos vezes o número de caras.",
+                "cost": "FC",
+                "damage": "60Ã",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Guarda-costas",
+                "text": "Previne todos os efeitos de ataques causados a você ou a sua mão pelo Pokémon do seu oponente. Remove quaisquer efeitos existentes."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "37",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/37.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/37_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_38",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Restored"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 80,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Cúpula Arcaico",
+        "evolvesInto": [
+            "Kabutops"
+        ],
+        "name": "Kabuto",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Tiro de Lama",
+                "text": "",
+                "cost": "F",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "38",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/38.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/38_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_39",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 150,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Cúpula Arcaico",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Agarrar",
+                "text": "Cure deste Pokémon a mesma quantidade de danos que você causou ao Pokémon Ativo do seu oponente.",
+                "cost": "CC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Tesoura X",
+                "text": "Jogue uma moeda. Se sair cara, este ataque causará 60 de danos adicionais.",
+                "cost": "FCC",
+                "damage": "80+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "39",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/39.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/39_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_40",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Larvitar",
+        "evolvesInto": [
+            "Pupitar"
+        ],
+        "name": "Larvitar",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Carga Indomável",
+                "text": "Este Pokémon causa 10 de danos a ele mesmo.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "40",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/40.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/40_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_41",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 50,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Larvitar",
+        "evolvesInto": [
+            "Pupitar"
+        ],
+        "name": "Larvitar",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Masca-Montanhas",
+                "text": "Descarte o card de cima do baralho do seu oponente.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Soco Saca-rolha",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "41",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/41.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/41_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_42",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 80,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Larvitar",
+        "evolvesInto": [
+            "Tyranitar",
+            "Tyranitar ex",
+            "Tyranitar-GX"
+        ],
+        "name": "Pupitar",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Castigar",
+                "text": "Jogue uma moeda. Se sair cara, este ataque causará 20 de danos adicionais. Se sair coroa, este Pokémon causará 20 de danos a ele mesmo.",
+                "cost": "C",
+                "damage": "20+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "42",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/42.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/42_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_43",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 180,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Regirock-EX",
+        "name": "Regirock-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Levantamento de Rocha",
+                "text": "Durante a próxima vez de jogar do seu oponente, qualquer dano causado a este Pokémon por ataques será reduzido em 20 <i>(após a aplicação de Fraqueza e Resistência)</i>.",
+                "cost": "FFF",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Poder Regi",
+                "text": "Os ataques dos seus Pokémon fighting (exceto Regirock ex_atk) causam 10 de danos adicionais ao Pokémon Ativo do seu oponente <i>(antes da aplicação de Fraqueza e Resistência).</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "43",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/43.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/43_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_44",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 110,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Burmy",
+        "name": "Wormadam",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Spray de Areia",
+                "text": "",
+                "cost": "F",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Erupções Gêmeas",
+                "text": "Se Mothim estiver no seu Banco, este ataque causará 60 de danos adicionais.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "44",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/44.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/44_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_45",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 70,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Riolu",
+        "evolvesInto": [
+            "Lucario",
+            "Lucario ex",
+            "Lucario-GX",
+            "Mega Lucario ex"
+        ],
+        "name": "Riolu",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Bordoada Dupla",
+                "text": "Jogue 2 moedas. Este ataque causa 10 de danos vezes o número de caras.",
+                "cost": "C",
+                "damage": "10Ã",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "45",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/45.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/45_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_46",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Riolu",
+        "evolvesInto": [
+            "Lucario",
+            "Lucario ex",
+            "Lucario-GX",
+            "Mega Lucario ex"
+        ],
+        "name": "Riolu",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Soco Destruidor",
+                "text": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                "cost": "F",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "46",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/46.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/46_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_47",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 110,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Riolu",
+        "name": "Lucario",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Abater",
+                "text": "",
+                "cost": "F",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Chute Magnum",
+                "text": "",
+                "cost": "FCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "47",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/47.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/47_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_48",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 70,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Hawlucha",
+        "name": "Hawlucha",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Cambalhota para Trás",
+                "text": "Compre um card.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Golpe Enfeitiçado",
+                "text": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente será Paralisado.",
+                "cost": "FC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "48",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/48.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/48_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_49",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 80,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Carbink BREAK"
+        ],
+        "name": "Carbink",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Gume de Pedra",
+                "text": "Jogue uma moeda. Se sair cara, este ataque causará 30 de danos adicionais.",
+                "cost": "FFC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Guardião de Energia",
+                "text": "As Energias básicas ligadas ao seu Pokémon Básico não podem ser descartadas por efeitos de ataques, Habilidades ou cards de Treinador do seu oponente."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "49",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/49.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/49_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_50",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Carbink BREAK"
+        ],
+        "name": "Carbink",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Gema Poderosa",
+                "text": "",
+                "cost": "FC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Salvaguarda",
+                "text": "Previne todos os efeitos de ataques, inclusive danos, causados a este Pokémon pelo Pokémon ex_atk </i>do seu oponente."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "50",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/50.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/50_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_51",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "BREAK"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 110,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Carbink TURBO",
+        "rarity": "BreakRare",
+        "attacks": [
+            {
+                "name": "Presente de Diamante",
+                "text": "Ligue 2 cards de Energia da sua pilha de descarte a 1 dos seus Pokémon fighting.",
+                "cost": "F",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "51",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/51.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/51_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_52",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zygarde",
+        "name": "Zygarde",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Vigilância",
+                "text": "Troque 1 dos Pokémon no Banco do seu oponente pelo Pokémon Ativo desse oponente.",
+                "cost": "F",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Rompimento de Aura",
+                "text": "Se o Pokémon Defensor for um Pokémon darkness ou fairy, ele não poderá atacar durante a próxima vez de jogar do seu oponente.",
+                "cost": "FCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "52",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/52.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/52_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_53",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 120,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zygarde",
+        "name": "Zygarde",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Estrondo",
+                "text": "O Pokémon Defensor não poderá recuar durante a próxima vez de jogar do seu oponente.",
+                "cost": "FC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Geogolpe",
+                "text": "Este ataque causa 10 de danos a cada um dos seus Pokémon no Banco. <i>(Não aplique Fraqueza e Resistência a Pokémon no Banco.)</i>",
+                "cost": "FFC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "53",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/53.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/53_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_54",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 190,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zygarde-EX",
+        "name": "Zygarde-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Pulso da Terra",
+                "text": "Se houver algum card de Estádio em jogo, este ataque causará 20 de danos adicionais.",
+                "cost": "F",
+                "damage": "20+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Célula de Tempestade",
+                "text": "Cure 30 de danos deste Pokémon.",
+                "cost": "FC",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Ira da Terra",
+                "text": "",
+                "cost": "FFC",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "54",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/54.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/54_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_55",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 170,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Umbreon-EX",
+        "name": "Umbreon-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Véu da Escuridão",
+                "text": "Descarte tantos cards quanto desejar da sua mão. Em seguida, compre esse mesmo número de cards.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Momentos Finais",
+                "text": "Se o Pokémon de Megaevolução do seu oponente for Nocauteado por danos causados por este ataque, pegue mais 2 cards de Prêmio.",
+                "cost": "DCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "55",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/55.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/55_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_56",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 160,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Larvitar",
+        "name": "Tyranitar",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Montanha Sombria",
+                "text": "Descarte 2 cards de cima do seu baralho. Este ataque causa 50 de danos adicionais para cada card de Apoiador descartado desta forma.",
+                "cost": "DDDDD",
+                "damage": "150+",
+                "convertedEnergyCost": 5
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Rugido Furioso",
+                "text": "Ao jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá ligar 1 Energia darkness da sua pilha de descarte a este Pokémon para cada card de Prêmio recebido por seu oponente."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "56",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/56.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/56_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_57",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Mandibuzz"
+        ],
+        "name": "Vullaby",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Encarar",
+                "text": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente será Paralisado.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Vento Dilacerante",
+                "text": "",
+                "cost": "DCC",
+                "damage": "40",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "57",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/57.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/57_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_58",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 110,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Mandibuzz BREAK"
+        ],
+        "name": "Mandibuzz",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Queda Óssea",
+                "text": "Este ataque causa 60 de danos a 1 dos Pokémon do seu oponente que possui uma Habilidade. <i>(Não aplique Fraqueza e Resistência a Pokémon no Banco.)</i>",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Vento Dilacerante",
+                "text": "",
+                "cost": "DCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "58",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/58.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/58_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_59",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 100,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Burmy",
+        "name": "Wormadam",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Revidar",
+                "text": "Este ataque causa 20 de danos vezes o número de contadores de danos neste Pokémon.",
+                "cost": "M",
+                "damage": "20Ã",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Cabeça de Ferro",
+                "text": "Jogue uma moeda até sair coroa. Este ataque causa 20 de danos adicionais para cada cara.",
+                "cost": "MCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "59",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/59.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/59_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_60",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bronzor",
+        "evolvesInto": [
+            "Bronzong"
+        ],
+        "name": "Bronzor",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Defesa de Ferro",
+                "text": "Jogue uma moeda. Se sair cara, todos os efeitos dos ataques causados a este Pokémon serão prevenidos, inclusive danos, durante a próxima vez de jogar do seu oponente.",
+                "cost": "M",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Martelada",
+                "text": "",
+                "cost": "MC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "60",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/60.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/60_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_61",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 100,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bronzor",
+        "evolvesInto": [
+            "Bronzong BREAK"
+        ],
+        "name": "Bronzong",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Aperto Protetor",
+                "text": "Durante a próxima vez de jogar do seu oponente, qualquer dano causado a este Pokémon por ataques será reduzido em 20 <i>(após a aplicação de Fraqueza e Resistência)</i>.",
+                "cost": "MCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Forte Metálico",
+                "text": "Previne todos os efeitos de ataques do seu oponente, inclusive danos, causados a seus Pokémon no Banco."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "61",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/61.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/61_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_62",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "BREAK"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 130,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bronzor",
+        "name": "Bronzong TURBO",
+        "rarity": "BreakRare",
+        "attacks": [
+            {
+                "name": "Chuva Metálica",
+                "text": "Descarte tantas Energias metal ligadas a este Pokémon quanto desejar. Para cada Energia descartada desta forma, escolha 1 dos Pokémon do seu oponente e cause 30 de danos nele. Não aplique Fraqueza e Resistência (você poderá escolher o mesmo Pokémon mais de uma vez).",
+                "cost": "MC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "62",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/62.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/62_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_63",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 110,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Riolu",
+        "name": "Lucario",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Onda de Vácuo",
+                "text": "Os danos deste ataque não são afetados por Fraqueza ou Resistência.",
+                "cost": "M",
+                "damage": "50",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Luta Solo",
+                "text": "Se você tiver menos Pokémon em jogo do que seu oponente, este ataque causará 60 de danos adicionais para cada Pokémon a menos que tenha em jogo.",
+                "cost": "MC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "63",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/63.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/63_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_64",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 180,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Genesect-EX",
+        "name": "Genesect-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Detonador Rápido",
+                "text": "Descarte tantas Energias metal ligadas a este Pokémon quanto desejar. Este ataque causa 20 de danos adicionais para cada card de Energia descartado desta forma.",
+                "cost": "MMM",
+                "damage": "100+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Disco Trocado",
+                "text": "Uma vez durante sua vez de jogar <i>(antes de atacar),</i> você pode colocar um card de Ferramenta Pokémon ligado a este Pokémon em sua mão."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "64",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/64.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/64_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_65",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 70,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jigglypuff",
+        "evolvesInto": [
+            "Wigglytuff",
+            "Wigglytuff ex",
+            "Wigglytuff-GX"
+        ],
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pancada",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Rolagem",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "65",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/65.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/65_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_66",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 100,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jigglypuff",
+        "name": "Wigglytuff",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Expandir",
+                "text": "Durante a próxima vez de jogar do seu oponente, qualquer dano causado a este Pokémon por ataques será reduzido em 30 <i>(após a aplicação de Fraqueza e Resistência)</i>.",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Tapa Duplo",
+                "text": "Jogue 2 moedas. Este ataque causa 60 de danos vezes o número de caras.",
+                "cost": "CCC",
+                "damage": "60Ã",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "66",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/66.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/66_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_67",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 80,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mr. Mime",
+        "name": "Mr. Mime",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Mímica",
+                "text": "Embaralhe a sua mão no seu baralho. Em seguida, compre o número de cards equivalente ao número de cards na mão do seu oponente.",
+                "cost": "Y",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Malabarismo",
+                "text": "Jogue 4 moedas. Este ataque causa 20 de danos vezes o número de caras.",
+                "cost": "CC",
+                "damage": "20Ã",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "67",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/67.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/67_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_68",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 70,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Snubbull",
+        "evolvesInto": [
+            "Granbull"
+        ],
+        "name": "Snubbull",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Balbúrdia",
+                "text": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                "cost": "YC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "68",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/68.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/68_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_69",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 220,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Altaria-EX",
+        "name": "M Altaria-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Névoa Purificadora",
+                "text": "Se este Pokémon possuir qualquer Energia Especial ligada a ele, este ataque causará 30 de danos adicionais e curará 30 de danos de cada um dos seus Pokémon.",
+                "cost": "YCC",
+                "damage": "100+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "69",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/69.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/69_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_70",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 50,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cottonee",
+        "evolvesInto": [
+            "Whimsicott",
+            "Whimsicott ex",
+            "Whimsicott-GX"
+        ],
+        "name": "Cottonee",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Vento de Fada",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "70",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/70.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/70_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_71",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 90,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cottonee",
+        "name": "Whimsicott",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Passos Quietos",
+                "text": "Mova uma Energia deste Pokémon para 1 dos seus Pokémon no Banco.",
+                "cost": "Y",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "71",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/71.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/71_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_72",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 150,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Diancie-EX",
+        "evolvesInto": [
+            "M Diancie-EX"
+        ],
+        "name": "Diancie-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Palco Maravilha",
+                "text": "Se houver algum card de Estádio em jogo, este ataque causará 50 de danos adicionais.",
+                "cost": "YCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Véu de Brilhante",
+                "text": "Enquanto este Pokémon for seu Pokémon Ativo, qualquer dano causado em seu Pokémon por um ataque do seu oponente, será reduzido em 30 <i>(após a aplicação de Fraqueza e Resistência).</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "72",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/72.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/72_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_73",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 170,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kingdra-EX",
+        "name": "Kingdra-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Tempestade Enorme",
+                "text": "Descarte qualquer card de Estádio em jogo.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Trilha do Dragão",
+                "text": "Este ataque causa 30 de danos adicionais para cada Energia básica lightning ligada a este Pokémon.",
+                "cost": "WCCC",
+                "damage": "60+",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "73",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/73.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/73_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_74",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 70,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Meowth",
+        "evolvesInto": [
+            "Persian",
+            "Persian-GX"
+        ],
+        "name": "Meowth",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Golpe Surpresa",
+                "text": "Este ataque causa 50 de danos a 1 dos Pokémon do seu oponente que já possui contadores de danos. <i>(Não aplique Fraqueza e Resistência a Pokémon no Banco.)</i>",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "74",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/74.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/74_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_75",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 120,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kangaskhan",
+        "name": "Kangaskhan",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Soco Bebê",
+                "text": "",
+                "cost": "CC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Mega Soco",
+                "text": "",
+                "cost": "CCCC",
+                "damage": "100",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "75",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/75.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/75_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_76",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Restored"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 120,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Âmbar Velho Arcaico",
+        "name": "Aerodactyl",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Mordida",
+                "text": "",
+                "cost": "C",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Vento de Jato",
+                "text": "Descarte uma Energia Especial ligada ao Pokémon Ativo do seu oponente.",
+                "cost": "CC",
+                "damage": "120",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "76",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/76.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/76_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_77",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 140,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Snorlax",
+        "name": "Snorlax",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Dar Voltas Dormindo",
+                "text": "Este ataque pode ser usado mesmo que este Pokémon esteja Adormecido. Se estiver Adormecido, este ataque causará 90 de danos adicionais.",
+                "cost": "CCC",
+                "damage": "30+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Engolir",
+                "text": "Cure deste Pokémon a mesma quantidade de danos que você causou ao Pokémon Ativo do seu oponente.",
+                "cost": "CCCC",
+                "damage": "50",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "77",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/77.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/77_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_78",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 120,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lugia",
+        "evolvesInto": [
+            "Lugia BREAK"
+        ],
+        "name": "Lugia",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Queimadura Intensificante",
+                "text": "Se o Pokémon Ativo do seu oponente for um Pokémon ex_atk, este ataque causará 60 de danos adicionais.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Pressão",
+                "text": "Enquanto este Pokémon for seu Pokémon Ativo, qualquer dano causado por ataques do Pokémon Ativo do seu oponente, será reduzido em 20 <i>(após a aplicação de Fraqueza e Resistência).</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "78",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/78.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/78_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_79",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "BREAK"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 150,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lugia",
+        "name": "Lugia TURBO",
+        "rarity": "BreakRare",
+        "attacks": [
+            {
+                "name": "Clarão da Destruição",
+                "text": "Descarte 2 Energias ligadas a este Pokémon.",
+                "cost": "CCCC",
+                "damage": "150",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "79",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/79.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/79_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_80",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Whismur",
+        "evolvesInto": [
+            "Loudred"
+        ],
+        "name": "Whismur",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pancada",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Circular",
+                "text": "Este ataque causa 10 de danos vezes o número de seus Pokémon que possuem o ataque Circular.",
+                "cost": "CC",
+                "damage": "10Ã",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "80",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/80.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/80_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_81",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Whismur",
+        "evolvesInto": [
+            "Exploud"
+        ],
+        "name": "Loudred",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Chute Poderoso",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Pisotear",
+                "text": "Jogue uma moeda. Se sair cara, este ataque causará 40 de danos adicionais.",
+                "cost": "CCC",
+                "damage": "40+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "81",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/81.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/81_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_82",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 140,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Whismur",
+        "name": "Exploud",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Cacofonia",
+                "text": "Ao final da vez de jogar do seu oponente, descarte o Pokémon Defensor e todos os cards ligados a ele.",
+                "cost": "CCC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Emboscada",
+                "text": "Jogue uma moeda. Se sair cara, este ataque causará 40 de danos adicionais.",
+                "cost": "CCC",
+                "damage": "80+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "82",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/82.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/82_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_83",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 170,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Altaria-EX",
+        "evolvesInto": [
+            "M Altaria-EX"
+        ],
+        "name": "Altaria-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Ganho Poderoso",
+                "text": "Se este Pokémon foi curado durante esta vez de jogar, este ataque causará 60 de danos adicionais e curará 30 de danos deste Pokémon.",
+                "cost": "CC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Vento Brilhante",
+                "text": "Durante a próxima vez de jogar do seu oponente, este Pokémon não terá Fraqueza.",
+                "cost": "CCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "83",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/83.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/83_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_84",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 180,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Audino-EX",
+        "evolvesInto": [
+            "M Audino-EX"
+        ],
+        "name": "Audino-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Bofetada Drenagem",
+                "text": "Cure 20 de danos deste Pokémon.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Fazer a \"Ola",
+                "text": "Este ataque causa 10 de danos adicionais para cada Pokémon no seu Banco.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "84",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/84.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/84_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_85",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 220,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Audino-EX",
+        "name": "M Audino-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Sinfonia Mágica",
+                "text": "Se você jogou um card de Apoiador da sua mão durante esta vez de jogar, este ataque causará 50 de danos a 1 dos Pokémon no Banco do seu oponente. <i>(Não aplique Fraqueza e Resistência a Pokémon no Banco.)</i>",
+                "cost": "CCC",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "85",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/85.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/85_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_86",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 60,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Minccino",
+        "evolvesInto": [
+            "Cinccino"
+        ],
+        "name": "Minccino",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Limpar",
+                "text": "Descarte um card de Ferramenta Pokémon ligado a 1 Pokémon do seu oponente.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "86",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/86.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/86_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_87",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 50,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Minccino",
+        "evolvesInto": [
+            "Cinccino"
+        ],
+        "name": "Minccino",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Ataque de Cauda",
+                "text": "",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "87",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/87.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/87_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_88",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Minccino",
+        "name": "Cinccino",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Cobiça",
+                "text": "Seu oponente revela a própria mão. Escolha um card que encontrar e coloque-o embaixo do baralho do seu oponente.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Último Recurso",
+                "text": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                "cost": "C",
+                "damage": "60",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "88",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/88.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/88_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_89",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Minccino",
+        "name": "Cinccino",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Varrida da Cura",
+                "text": "Cure 90 de danos de 1 dos seus Pokémon no Banco.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Jogar Longe",
+                "text": "Jogue uma moeda. Se sair cara, este ataque causará 30 de danos adicionais.",
+                "cost": "CC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "89",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/89.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/89_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_90",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Elo Espiritual de Alakazam",
+        "rarity": "Uncommon",
+        "rules": [
+            "Sua vez de jogar não terminará se o Pokémon ao qual este card está ligado tornar-se <b>M</b>-Alakazam ex_atk."
+        ],
+        "number": "90",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/90.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/90_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_91",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Elo Espiritual de Altaria",
+        "rarity": "Uncommon",
+        "rules": [
+            "Sua vez de jogar não terminará se o Pokémon ao qual este card está ligado tornar-se <b>M</b>-Altaria ex_atk."
+        ],
+        "number": "91",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/91.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/91_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_92",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Elo Espiritual de Audino",
+        "rarity": "Uncommon",
+        "rules": [
+            "Sua vez de jogar não terminará se o Pokémon ao qual este card está ligado tornar-se <b>M</b>-Audino ex_atk."
+        ],
+        "number": "92",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/92.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/92_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_93",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Colher Torcida",
+        "rarity": "Uncommon",
+        "rules": [
+            "Previne todos os efeitos dos ataques do seu oponente, exceto danos, causados ao Pokémon ao qual este card está ligado. (Efeitos existentes não são removidos.)"
+        ],
+        "number": "93",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/93.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/93_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_94",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Torre do Caos",
+        "rarity": "Uncommon",
+        "rules": [
+            "\u0003Escolha para onde este card ficará voltado antes de jogá-lo. O Pokémon deste jogador ↓ não pode ficar Confuso ou Envenenado. (Se estes Pokémon já estiverem Confusos ou Envenenados, remova estas Condições Especiais.)Escolha para onde este card ficará voltado antes de jogá-lo. O Pokémon deste jogador ↓ não pode ficar Adormecido ou Paralisado. (Se estes Pokémon já estiverem Adormecidos ou Paralisados, remova estas Condições Especiais.)"
+        ],
+        "number": "94",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/94.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/94_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_95",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Spray da Involução",
+        "name": "Spray da Involução",
+        "rarity": "Uncommon",
+        "rules": [
+            "Reverte 1 dos seus Pokémon evoluídos e coloca o card de Evolução de Estágio mais alto na sua mão. (Aquele Pokémon não pode evoluir nesta vez de jogar.)"
+        ],
+        "number": "95",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/95.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/95_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_96",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Cúpula de Kabuto",
+        "evolvesInto": [
+            "Kabuto"
+        ],
+        "name": "Fóssil Cúpula de Kabuto",
+        "rarity": "Uncommon",
+        "rules": [
+            "Olhe os 7 cards debaixo do seu baralho. Você poderá revelar um Kabuto que encontrar lá e colocá-lo em seu Banco. Embaralhe os demais cards de volta."
+        ],
+        "number": "96",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/96.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/96_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_97",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Bolsa de Energia",
+        "rarity": "Uncommon",
+        "rules": [
+            "Se o Pokémon ao qual este card está ligado for Nocauteado por danos causados pelo ataque de um oponente, coloque todas as Energias básicas ligadas a aquele Pokémon em sua mão."
+        ],
+        "number": "97",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/97.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/97_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_98",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Energia Redefinida",
+        "name": "Energia Redefinida",
+        "rarity": "Uncommon",
+        "rules": [
+            "Coloque tantas Energias ligadas aos seus Pokémon quanto desejar em sua mão."
+        ],
+        "number": "98",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/98.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/98_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_99",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bolinha de Fada",
+        "name": "Bolinha de Fada",
+        "rarity": "Uncommon",
+        "rules": [
+            "Cure 50 de danos de 1 dos seus Pokémon que possui qualquer Energia fairy ligada a ele."
+        ],
+        "number": "99",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/99.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/99_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_100",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Jardim das Fadas",
+        "rarity": "Uncommon",
+        "rules": [
+            "Qualquer Pokémon que possuir alguma Energia fairy ligada a ele <i>(seu e do seu oponente)</i> não terá Custo para Recuar."
+        ],
+        "number": "100",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/100.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/100_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_101",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kit de Escavação de Fósseis",
+        "name": "Kit de Escavação de Fósseis",
+        "rarity": "Uncommon",
+        "rules": [
+            "Coloque 2 cards de Fóssil Espiral de Omanyte, Fóssil Cúpula de Kabuto ou Âmbar Velho de Aerodactyl da sua pilha de descarte em sua mão."
+        ],
+        "number": "101",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/101.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/101_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_102",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Espiral de Omanyte",
+        "evolvesInto": [
+            "Omanyte"
+        ],
+        "name": "Fóssil Espiral de Omanyte",
+        "rarity": "Uncommon",
+        "rules": [
+            "Olhe os 7 cards debaixo do seu baralho. Você poderá revelar um Omanyte que encontrar lá e colocá-lo em seu Banco. Embaralhe os demais cards de volta."
+        ],
+        "number": "102",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/102.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/102_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_103",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Especialidade da Garota",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "103",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/103.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/103_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_104",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Megapegador",
+        "name": "Megapegador",
+        "rarity": "Uncommon",
+        "rules": [
+            "Troque 1 dos Pokémon de Megaevolução no Banco do seu oponente pelo Pokémon Ativo desse oponente."
+        ],
+        "number": "104",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/104.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/104_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_105",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "N",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "105",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/105.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/105_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_106",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Âmbar Velho de Aerodactyl",
+        "evolvesInto": [
+            "Aerodactyl"
+        ],
+        "name": "Âmbar Velho de Aerodactyl",
+        "rarity": "Uncommon",
+        "rules": [
+            "Olhe os 7 cards debaixo do seu baralho. Você poderá revelar um Aerodactyl que encontrar lá e colocá-lo em seu Banco. Embaralhe os demais cards de volta."
+        ],
+        "number": "106",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/106.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/106_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_107",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Fã Clube Pokémon",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "107",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/107.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/107_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_108",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Memória Poderosa",
+        "rarity": "Uncommon",
+        "rules": [
+            "O Zygarde ex_atk ao qual este card está ligado, pode também usar o ataque deste card. <i>(Você ainda precisa da Energia necessária para usar este ataque.)</i>",
+            "Descarte 3 Energias ligadas a este Pokémon."
+        ],
+        "number": "108",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/108.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/108_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_109",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Receptor Aleatório",
+        "name": "Receptor Aleatório",
+        "rarity": "Uncommon",
+        "rules": [
+            "Revele os cards de cima do seu baralho até revelar um card de Apoiador. Coloque-o em sua mão. Embaralhe os demais cards de volta."
+        ],
+        "number": "109",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/109.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/109_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_110",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Terra Queimada",
+        "rarity": "Uncommon",
+        "rules": [
+            "Uma vez durante a vez de jogar de cada jogador, esse jogador pode descartar um card de Energia fire ou fighting da própria mão. Se fizer isso, esse jogador deverá comprar 2 cards."
+        ],
+        "number": "110",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/110.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/110_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_111",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Shauna",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "111",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/111.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/111_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_112",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Obra da Equipe Rocket",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "112",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/112.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/112_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_113",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Ultra Bola",
+        "rarity": "Uncommon",
+        "rules": [
+            "Descarte 2 cards da sua mão. (Se você não puder descartar 2 cards, não poderá jogar esse card.) Procure um Pokémon em seu baralho, revele-o e coloque-o em sua mão. Em seguida, embaralhe seus cards."
+        ],
+        "number": "113",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/113.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/113_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_114",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special Energy"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Energia Incolor Dupla",
+        "rarity": "Uncommon",
+        "rules": [
+            "A Energia Incolor Dupla fornece Energias colorlesscolorless."
+        ],
+        "number": "114",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/114.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/114_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_115",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special Energy"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Energia Intensa",
+        "rarity": "Uncommon",
+        "rules": [
+            "\u0004Este card só pode ser ligado a Pokémon fighting. Este card fornece Energia fighting somente quando está ligado a um Pokémon fighting.Os ataques do Pokémon fighting ao qual este card está ligado causam 20 de danos adicionais ao Pokémon Ativo do seu oponente <i>(antes da aplicação de Fraqueza e Resistência).</i>(Se este card estiver ligado a qualquer coisa diferente de um Pokémon fighting, descarte-o.)"
+        ],
+        "number": "115",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/115.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/115_hires.webp"
+        }
+    },
+    {
+        "id": "xy10_116",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 170,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Glaceon-EX",
+        "name": "Glaceon-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Segunda Mordida",
+                "text": "Este ataque causa 10 de danos adicionais para cada contador de danos no Pokémon Ativo do seu oponente.",
+                "cost": "WC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Raio de Cristal",
+                "text": "Durante a próxima vez de jogar do seu oponente, previna todos os danos causados a este Pokémon por ataques de Pokémon de Evolução.",
+                "cost": "WCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "116",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/116.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/116_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_117",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 160,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Alakazam-EX",
+        "evolvesInto": [
+            "M Alakazam-EX"
+        ],
+        "name": "Alakazam-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Supressão",
+                "text": "Coloque 3 contadores de danos em cada um dos Pokémon do seu oponente que possui alguma Energia ligada a ele.",
+                "cost": "PC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Cinese",
+                "text": "Ao jogar <b>M</b>-Alakazam ex_atk da sua mão para evoluir este Pokémon, antes de evolui-lo, você pode colocar 2 contadores de danos no Pokémon Ativo do seu oponente e 3 contadores de danos em 1 dos Pokémon no Banco do seu oponente."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "117",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/117.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/117_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_118",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 210,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Alakazam-EX",
+        "name": "M Alakazam-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Força Zen",
+                "text": "Este ataque causa 30 de danos adicionais para cada contador de danos no Pokémon Ativo do seu oponente.",
+                "cost": "PC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "118",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/118.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/118_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_119",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 170,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Umbreon-EX",
+        "name": "Umbreon-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Véu da Escuridão",
+                "text": "Descarte tantos cards quanto desejar da sua mão. Em seguida, compre esse mesmo número de cards.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Momentos Finais",
+                "text": "Se o Pokémon de Megaevolução do seu oponente for Nocauteado por danos causados por este ataque, pegue mais 2 cards de Prêmio.",
+                "cost": "DCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "119",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/119.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/119_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_120",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 180,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Genesect-EX",
+        "name": "Genesect-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Detonador Rápido",
+                "text": "Descarte tantas Energias metal ligadas a este Pokémon quanto desejar. Este ataque causa 20 de danos adicionais para cada card de Energia descartado desta forma.",
+                "cost": "MMM",
+                "damage": "100+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Disco Trocado",
+                "text": "Uma vez durante sua vez de jogar <i>(antes de atacar),</i> você pode colocar um card de Ferramenta Pokémon ligado a este Pokémon em sua mão."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "120",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/120.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/120_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_121",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 220,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Altaria-EX",
+        "name": "M Altaria-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Névoa Purificadora",
+                "text": "Se este Pokémon possuir qualquer Energia Especial ligada a ele, este ataque causará 30 de danos adicionais e curará 30 de danos de cada um dos seus Pokémon.",
+                "cost": "YCC",
+                "damage": "100+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "121",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/121.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/121_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_122",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 170,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kingdra-EX",
+        "name": "Kingdra-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Tempestade Enorme",
+                "text": "Descarte qualquer card de Estádio em jogo.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Trilha do Dragão",
+                "text": "Este ataque causa 30 de danos adicionais para cada Energia básica lightning ligada a este Pokémon.",
+                "cost": "WCCC",
+                "damage": "60+",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "122",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/122.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/122_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_123",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 170,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Altaria-EX",
+        "evolvesInto": [
+            "M Altaria-EX"
+        ],
+        "name": "Altaria-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Ganho Poderoso",
+                "text": "Se este Pokémon foi curado durante esta vez de jogar, este ataque causará 60 de danos adicionais e curará 30 de danos deste Pokémon.",
+                "cost": "CC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Vento Brilhante",
+                "text": "Durante a próxima vez de jogar do seu oponente, este Pokémon não terá Fraqueza.",
+                "cost": "CCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "123",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/123.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/123_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy10_124",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "name": "Obra da Equipe Rocket",
+        "rarity": "RareUltra",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "124",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/124.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/124_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy10_125",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 160,
+        "Release Date": "2016-05-02T17:00:00.0000000Z",
+        "Craftable Date": "2016-05-02 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Alakazam-EX",
+        "evolvesInto": [
+            "M Alakazam-EX"
+        ],
+        "name": "Alakazam-EX",
+        "rarity": "RareSecret",
+        "attacks": [
+            {
+                "name": "Supressão",
+                "text": "Coloque 3 contadores de danos em cada um dos Pokémon do seu oponente que possui alguma Energia ligada a ele.",
+                "cost": "PC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Cinese",
+                "text": "Ao jogar <b>M</b>-Alakazam ex_atk da sua mão para evoluir este Pokémon, antes de evolui-lo, você pode colocar 2 contadores de danos no Pokémon Ativo do seu oponente e 3 contadores de danos em 1 dos Pokémon no Banco do seu oponente."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "125",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/ptbr/xy10/125.webp",
+            "large": "https://images.pokedata.ovh/ptbr/xy10/125_hires.webp"
+        },
+        "resistances": []
+    }
+]
