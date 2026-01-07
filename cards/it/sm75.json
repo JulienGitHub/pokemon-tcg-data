@@ -1,0 +1,4219 @@
+[
+    {
+        "id": "sm7-5_1",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 70,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Charmeleon"
+        ],
+        "name": "Charmander",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Rogodenti",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato.",
+                "cost": "RC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "1",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/1.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/1_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_2",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Charizard",
+            "Charizard ex",
+            "Charizard-GX"
+        ],
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Lanciafiamme",
+                "text": "Scarta un'Energia assegnata a questo Pokémon.",
+                "cost": "RRC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Lottatore Ardente",
+                "text": "Quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon durante il tuo turno, puoi scartare le prime cinque carte del tuo mazzo. Se fra queste ci sono delle carte Energia fire, assegnale a questo Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "2",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/2.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/2_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_3",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 160,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Charizard",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Bomba Incendiaria",
+                "text": "Scarta un'Energia assegnata a questo Pokémon.",
+                "cost": "RRC",
+                "damage": "130",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Fiamma Risoluta",
+                "text": "Gli attacchi di questo Pokémon infliggono 30 danni in più al Pokémon attivo del tuo avversario per ogni suo Pokémon gx_atk e Pokémon ex_atk in gioco."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "3",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/3.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/3_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_4",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 60,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Torchic",
+        "evolvesInto": [
+            "Combusken"
+        ],
+        "name": "Torchic",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Scottata",
+                "text": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene bruciato.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "4",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/4.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/4_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_5",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Torchic",
+        "evolvesInto": [
+            "Blaziken",
+            "Blaziken ex",
+            "Blaziken-GX"
+        ],
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Affondo",
+                "text": "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
+                "cost": "CC",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Naturcura",
+                "text": "Ogni volta che assegni una carta Energia a questo Pokémon dalla tua mano, rimuovi tutte le condizioni speciali che lo influenzano."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "5",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/5.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/5_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_6",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 150,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Torchic",
+        "name": "Blaziken",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Correnti di Fuoco",
+                "text": "Scarta un'Energia fire assegnata a questo Pokémon. Questo attacco infligge 20 danni a ciascun Pokémon nella panchina del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.</i>",
+                "cost": "RCC",
+                "damage": "90",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Accendifuoco",
+                "text": "Una sola volta durante il tuo turno, <i>prima di attaccare</i>, puoi assegnare a uno dei tuoi Pokémon in panchina una carta Energia fire dalla tua pila degli scarti."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "6",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/6.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/6_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_7",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "Prism Star"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 90,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Victini {*}",
+        "name": "Victini {*}",
+        "rarity": "Prism",
+        "attacks": [
+            {
+                "name": "Infinito",
+                "text": "Questo attacco infligge 20 danni per ogni carta Energia base nella tua pila degli scarti. Poi rimischia quelle carte nel tuo mazzo.",
+                "cost": "RR",
+                "damage": "20Ã",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "7",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/7.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/7_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_8",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 70,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Darumaka",
+        "evolvesInto": [
+            "Darmanitan"
+        ],
+        "name": "Darumaka",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Sfuriadanni",
+                "text": "Lancia una moneta finché non esce croce. Questo attacco infligge 30 danni in più ogni volta che esce testa.",
+                "cost": "CC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "8",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/8.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/8_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_9",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 130,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Darumaka",
+        "name": "Darmanitan",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Fuocaiuto",
+                "text": "Assegna a piacimento ai tuoi Pokémon fino a tre carte Energia fire dalla tua mano.",
+                "cost": "R",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Darmani-Mani",
+                "text": "Lancia quattro volte una moneta. Questo attacco infligge 50 danni in più ogni volta che esce testa.",
+                "cost": "RRC",
+                "damage": "30+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "9",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/9.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/9_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_10",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 110,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Heatmor",
+        "name": "Heatmor",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Scottata",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato.",
+                "cost": "R",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Incenerespiro",
+                "text": "Se il Pokémon attivo del tuo avversario non è bruciato, questo attacco non ha effetto.",
+                "cost": "RR",
+                "damage": "120",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "10",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/10.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/10_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_11",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "GX"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 180,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Reshiram-GX",
+        "name": "Reshiram-GX",
+        "rarity": "RareHoloGX",
+        "attacks": [
+            {
+                "name": "Nitrocarica",
+                "text": "Cerca nel tuo mazzo fino a due carte Energia fire e assegnale a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Torre Ustionante",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato.",
+                "cost": "RRRC",
+                "damage": "110",
+                "convertedEnergyCost": 4
+            },
+            {
+                "name": "Vermiglio-GX",
+                "text": "Puoi assegnare a piacimento ai tuoi Pokémon fino a cinque carte Energia fire dalla tua mano. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "RRRC",
+                "damage": "180",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "11",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/11.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/11_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_12",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 60,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Litten",
+        "evolvesInto": [
+            "Torracat"
+        ],
+        "name": "Litten",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Sfuriate",
+                "text": "Lancia tre volte una moneta. Questo attacco infligge 10 danni ogni volta che esce testa.",
+                "cost": "R",
+                "damage": "10Ã",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "12",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/12.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/12_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_13",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 60,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Salazzle",
+            "Salazzle-GX"
+        ],
+        "name": "Salandit",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Cerca Famiglia",
+                "text": "Cerca nel tuo mazzo un Pokémon Base e mettilo nella tua panchina. Poi rimischia le carte del tuo mazzo.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Scavazanne",
+                "text": "",
+                "cost": "RC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "13",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/13.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/13_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_14",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 110,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Salazzle",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Anello di Fuoco",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato. Durante il prossimo turno del tuo avversario, quel Pokémon non può ritirarsi.",
+                "cost": "R",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Lanciafiamme",
+                "text": "Scarta un'Energia assegnata a questo Pokémon.",
+                "cost": "RC",
+                "damage": "80",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "14",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/14.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/14_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_15",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 40,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Horsea",
+        "evolvesInto": [
+            "Seadra"
+        ],
+        "name": "Horsea",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Spruzzo",
+                "text": "Questo attacco infligge 20 danni a uno dei Pokémon del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina</i>.",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "15",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/15.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/15_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_16",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 50,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Horsea",
+        "evolvesInto": [
+            "Seadra"
+        ],
+        "name": "Horsea",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Idropompa",
+                "text": "Questo attacco infligge 10 danni in più per ogni Energia water assegnata a questo Pokémon.",
+                "cost": "C",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "16",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/16.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/16_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_17",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Horsea",
+        "evolvesInto": [
+            "Kingdra",
+            "Kingdra ex",
+            "Kingdra-GX"
+        ],
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Idropompa",
+                "text": "Questo attacco infligge 20 danni in più per ogni Energia water assegnata a questo Pokémon.",
+                "cost": "C",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "17",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/17.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/17_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_18",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "GX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 230,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Horsea",
+        "name": "Kingdra-GX",
+        "rarity": "RareHoloGX",
+        "attacks": [
+            {
+                "name": "Idropompa",
+                "text": "Questo attacco infligge 50 danni in più per ogni Energia water assegnata a questo Pokémon.",
+                "cost": "C",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Tornaindietro",
+                "text": "Scambia questo Pokémon con uno della tua panchina.",
+                "cost": "W",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Maelstrom-GX",
+                "text": "Questo attacco infligge 40 danni a ciascuno dei Pokémon del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina</i>. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "18",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/18.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/18_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_19",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 30,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Magikarp",
+        "evolvesInto": [
+            "Dark Gyarados",
+            "Gyarados",
+            "Gyarados ex",
+            "Gyarados-GX"
+        ],
+        "name": "Magikarp",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Acquasplash",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 10 danni in più.",
+                "cost": "W",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "19",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/19.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/19_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_20",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 160,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Magikarp",
+        "name": "Gyarados",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Codafuria",
+                "text": "Puoi scartare una carta Stadio in gioco.",
+                "cost": "WWC",
+                "damage": "160",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Subbuglio",
+                "text": "Se questo Pokémon è il tuo Pokémon attivo e viene danneggiato da un attacco del tuo avversario, <i>anche se viene messo KO</i>, metti due segnalini danno su ognuno dei tuoi Pokémon in panchina."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "20",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/20.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/20_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_21",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lapras",
+        "name": "Lapras",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Idrodardo",
+                "text": "Questo attacco infligge 20 danni a uno dei Pokémon nella panchina del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.</i>",
+                "cost": "W",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Idropompa",
+                "text": "Questo attacco infligge 10 danni in più per ogni Energia water assegnata a questo Pokémon.",
+                "cost": "CCC",
+                "damage": "70+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "21",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/21.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/21_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_22",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 60,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Croconaw"
+        ],
+        "name": "Totodile",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Fulmisguardo",
+                "text": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Sfuriate",
+                "text": "Lancia tre volte una moneta. Questo attacco infligge 10 danni ogni volta che esce testa.",
+                "cost": "W",
+                "damage": "10Ã",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "22",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/22.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/22_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_23",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Feraligatr"
+        ],
+        "name": "Croconaw",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Azione",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Spazzare Via",
+                "text": "Scarta le prime tre carte del tuo mazzo.",
+                "cost": "WWC",
+                "damage": "90",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "23",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/23.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/23_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_24",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 160,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Feraligatr",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Corrente Impetuosa",
+                "text": "Questo attacco infligge 20 danni in più per ogni carta Energia water nella tua pila degli scarti. Poi rimischia quelle carte nel tuo mazzo.",
+                "cost": "WW",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Diluvio",
+                "text": "Durante il tuo turno, <i>prima di attaccare</i>, puoi scartare una carta Energia water che hai in mano tutte le volte che vuoi."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "24",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/24.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/24_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_25",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Wooper",
+        "evolvesInto": [
+            "Quagsire"
+        ],
+        "name": "Wooper",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Carica",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Spruzzapioggia",
+                "text": "",
+                "cost": "WC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "25",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/25.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/25_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_26",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Wooper",
+        "name": "Quagsire",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Idropompa",
+                "text": "Questo attacco infligge 20 danni in più per ogni Energia water assegnata a questo Pokémon.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Sciacquare",
+                "text": "Durante il tuo turno, <i>prima di attaccare</i>, puoi spostare un'Energia water da uno dei tuoi Pokémon in panchina al tuo Pokémon attivo tutte le volte che vuoi."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "26",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/26.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/26_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_27",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Corsola",
+        "name": "Corsola",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Sparabolle",
+                "text": "Questo attacco infligge 20 danni a uno dei Pokémon del tuo avversario per ogni Energia water assegnata a questo Pokémon. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina</i><i>.</i>",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "27",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/27.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/27_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_28",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 30,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Feebas",
+        "evolvesInto": [
+            "Milotic",
+            "Milotic ex"
+        ],
+        "name": "Feebas",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Spruzzapioggia",
+                "text": "",
+                "cost": "W",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Immergersi",
+                "text": "Fintanto che questo Pokémon è nella tua panchina, previeni tutti i danni inflitti a questo Pokémon da qualsiasi attacco, <i>sia tuo che del tuo avversario</i>."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "28",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/28.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/28_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_29",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Feebas",
+        "name": "Milotic",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Ondaurora",
+                "text": "Il Pokémon attivo del tuo avversario viene confuso.",
+                "cost": "W",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Spartiacque",
+                "text": "Questo attacco infligge 40 danni a due dei Pokémon nella panchina del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.</i>",
+                "cost": "WWW",
+                "damage": "40",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "29",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/29.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/29_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_30",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Phione",
+        "name": "Phione",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Idropulsar",
+                "text": "Il Pokémon attivo del tuo avversario viene addormentato.",
+                "cost": "WW",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Richiamo del Mare",
+                "text": "I tuoi Pokémon water non possono venire confusi. Se tali Pokémon sono già confusi, rimuovine la condizione speciale."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "30",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/30.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/30_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_31",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 30,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Wishiwashi",
+        "name": "Wishiwashi",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pistolacqua",
+                "text": "",
+                "cost": "W",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Raduno",
+                "text": "I tuoi Wishiwashi gx_atk in gioco hanno 20 PS in più e i loro attacchi infliggono 20 danni in più al Pokémon attivo del tuo avversario, <i>prima di aver applicato debolezza e resistenza</i>."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "31",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/31.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/31_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_32",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 60,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Trapinch",
+        "evolvesInto": [
+            "Vibrava"
+        ],
+        "name": "Trapinch",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Mini Terremoto",
+                "text": "Questo attacco infligge 10 danni a ciascuno dei tuoi Pokémon in panchina. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina</i>.",
+                "cost": "F",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "32",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/32.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/32_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_33",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 160,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Deino",
+        "evolvesInto": [
+            "Hydreigon BREAK"
+        ],
+        "name": "Hydreigon",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Distruzione Oscura",
+                "text": "Puoi scartare un'Energia assegnata a questo Pokémon. Se lo fai, scarta un'Energia assegnata al Pokémon attivo del tuo avversario.",
+                "cost": "DDC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Falcidia",
+                "text": "Una sola volta durante il tuo turno, <i>prima di attaccare</i>, puoi scegliere tre dei tuoi Pokémon in panchina. Poi scarta gli altri tuoi Pokémon in panchina."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "33",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/33.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/33_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "sm7-5_34",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 60,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Dragonair"
+        ],
+        "name": "Dratini",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Avvolgibotta",
+                "text": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
+                "cost": "L",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "34",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/34.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/34_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_35",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 70,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Dragonair"
+        ],
+        "name": "Dratini",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Codabotta",
+                "text": "",
+                "cost": "WC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "35",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/35.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/35_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_36",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 100,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Dragonite",
+            "Dragonite ex",
+            "Dragonite-GX"
+        ],
+        "name": "Dragonair",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Codadrago",
+                "text": "Lancia due volte una moneta. Questo attacco infligge 60 danni ogni volta che esce testa.",
+                "cost": "CCC",
+                "damage": "60Ã",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Cascata",
+                "text": "",
+                "cost": "WLCC",
+                "damage": "80",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "36",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/36.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/36_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_37",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 250,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Dragonite-GX",
+        "rarity": "RareHoloGX",
+        "attacks": [
+            {
+                "name": "Dragartigli",
+                "text": "",
+                "cost": "L",
+                "damage": "70",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Gigaimpatto",
+                "text": "Questo Pokémon non può attaccare durante il tuo prossimo turno.",
+                "cost": "WLCC",
+                "damage": "200",
+                "convertedEnergyCost": 4
+            },
+            {
+                "name": "Dragotrasporto-GX",
+                "text": "Prendi tre Pokémon dragon dalla tua pila degli scarti e mettili nella tua panchina. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "CCC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "37",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/37.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/37_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_38",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 80,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Trapinch",
+        "evolvesInto": [
+            "Flygon",
+            "Flygon ex",
+            "Flygon-GX"
+        ],
+        "name": "Vibrava",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Muro del Suono",
+                "text": "I danni di questo attacco non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+                "cost": "FC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "38",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/38.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/38_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_39",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 140,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Trapinch",
+        "name": "Flygon",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Sabbiotomba",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+                "cost": "FFC",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Dragoguardia",
+                "text": "Previeni tutti gli effetti degli attacchi del tuo avversario, esclusi i danni, inflitti ai tuoi Pokémon dragon. <i>Gli effetti esistenti non vengono rimossi</i>."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "39",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/39.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/39_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_40",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 80,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Swablu",
+        "name": "Altaria",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Perforare",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Fanfara",
+                "text": "Gli attacchi dei tuoi Pokémon dragon infliggono 20 danni in più al Pokémon attivo del tuo avversario, <i>prima di aver applicato debolezza e resistenza</i>."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "40",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/40.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/40_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_41",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 200,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Swablu",
+        "name": "Altaria-GX",
+        "rarity": "RareHoloGX",
+        "attacks": [
+            {
+                "name": "Tono Limpido",
+                "text": "Durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon gx_atk e dei Pokémon ex_atk.",
+                "cost": "YC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Muro del Suono",
+                "text": "I danni di questo attacco non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+                "cost": "WYC",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Euforia-GX",
+                "text": "Il Pokémon attivo del tuo avversario viene addormentato. Cura tutti i tuoi Pokémon da tutti i danni. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "YC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "41",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/41.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/41_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_42",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 60,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bagon",
+        "evolvesInto": [
+            "Shelgon"
+        ],
+        "name": "Bagon",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Calcio Rischioso",
+                "text": "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Occhio di Drago",
+                "text": "Il Pokémon attivo del tuo avversario viene addormentato.",
+                "cost": "RW",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "42",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/42.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/42_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_43",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 80,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bagon",
+        "evolvesInto": [
+            "Salamence",
+            "Salamence ex",
+            "Salamence-GX"
+        ],
+        "name": "Shelgon",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Rotolamento",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Guardia di Energia",
+                "text": "Se questo Pokémon ha delle Energie base assegnate, subisce 20 danni in meno dagli attacchi, <i>dopo aver applicato debolezza e resistenza</i>."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "43",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/43.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/43_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_44",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 250,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bagon",
+        "name": "Salamence-GX",
+        "rarity": "RareHoloGX",
+        "attacks": [
+            {
+                "name": "Splendifiamma",
+                "text": "Scarta due Energie assegnate a questo Pokémon.",
+                "cost": "RWCC",
+                "damage": "200",
+                "convertedEnergyCost": 4
+            },
+            {
+                "name": "Getto di Fiamma-GX",
+                "text": "Questo attacco infligge 120 danni a uno dei Pokémon del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina. Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "RCC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Dragopassaggio",
+                "text": "I tuoi Pokémon in gioco non hanno costo di ritirata, a eccezione dei Pokémon gx_atk e dei Pokémon ex_atk."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "44",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/44.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/44_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_45",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 110,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Druddigon",
+        "name": "Druddigon",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Dragartigli",
+                "text": "",
+                "cost": "RWC",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Cartavetro",
+                "text": "Se questo Pokémon è il tuo Pokémon attivo e viene danneggiato da un attacco del tuo avversario, <i>anche se viene messo KO</i>, metti tre segnalini danno sul Pokémon attaccante."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "45",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/45.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/45_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_46",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 130,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zekrom",
+        "name": "Zekrom",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Tritatutto",
+                "text": "I danni di questo attacco non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+                "cost": "LCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Lucesiluro",
+                "text": "Lancia una moneta. Se esce croce, questo Pokémon infligge 50 danni a se stesso.",
+                "cost": "LLCC",
+                "damage": "150",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "46",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/46.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/46_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_47",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 130,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kyurem",
+        "name": "Kyurem",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Oltraggio",
+                "text": "Questo attacco infligge 10 danni in più per ogni segnalino danno presente su questo Pokémon.",
+                "cost": "CC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Congelancia",
+                "text": "Questo attacco infligge 20 danni a uno dei Pokémon nella panchina del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina.</i>",
+                "cost": "WWC",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "47",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/47.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/47_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_48",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 190,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kyurem Branco-GX",
+        "name": "Kyurem Bianco-GX",
+        "rarity": "RareHoloGX",
+        "attacks": [
+            {
+                "name": "Tritatutto",
+                "text": "I danni di questo attacco non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+                "cost": "R",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Lama Furente",
+                "text": "Se questo Pokémon ha dei segnalini danno, questo attacco infligge 80 danni in più.",
+                "cost": "RWC",
+                "damage": "80+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Dragonova-GX",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato e paralizzato. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "RRWC",
+                "damage": "200",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "48",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/48.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/48_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_49",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 130,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zygarde",
+        "name": "Zygarde",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Rombo",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+                "cost": "F",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Lama Furente",
+                "text": "Se questo Pokémon ha dei segnalini danno, questo attacco infligge 60 danni in più.",
+                "cost": "FCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "49",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/49.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/49_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_50",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 110,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Turtonator",
+        "name": "Turtonator",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Getto Esplosivo",
+                "text": "Scarta tutte le Energie fire che vuoi assegnate ai tuoi Pokémon. Questo attacco infligge 50 danni per ogni carta che hai scartato in questo modo.",
+                "cost": "RRR",
+                "damage": "50Ã",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "50",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/50.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/50_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_51",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 120,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Drampa",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Saggezza del Drago",
+                "text": "Assegna a uno dei tuoi Pokémon dragon una carta Energia base dalla tua pila degli scarti.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Granvoce",
+                "text": "",
+                "cost": "CCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "51",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/51.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/51_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_52",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 60,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jangmo-o",
+        "evolvesInto": [
+            "Hakamo-o"
+        ],
+        "name": "Jangmo-o",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Irrigidimento",
+                "text": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce 20 danni in meno dagli attacchi, <i>dopo aver applicato debolezza e resistenza</i>.",
+                "cost": "L",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Dragartigli",
+                "text": "",
+                "cost": "FC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "52",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/52.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/52_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_53",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 90,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jangmo-o",
+        "evolvesInto": [
+            "Kommo-o",
+            "Kommo-o-GX"
+        ],
+        "name": "Hakamo-o",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pressadifesa",
+                "text": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce 30 danni in meno dagli attacchi, <i>dopo aver applicato debolezza e resistenza</i>.",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Dragartigli",
+                "text": "",
+                "cost": "LFC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "53",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/53.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/53_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_54",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 160,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jangmo-o",
+        "name": "Kommo-o",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Pressadifesa",
+                "text": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce 30 danni in meno dagli attacchi, <i>dopo aver applicato debolezza e resistenza</i>.",
+                "cost": "LC",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Montante Furioso",
+                "text": "Se questo Pokémon ha otto o più segnalini danno, questo attacco infligge 120 danni in più.",
+                "cost": "FCC",
+                "damage": "90+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "54",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/54.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/54_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_55",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 120,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kangaskhan",
+        "name": "Kangaskhan",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Stratagemma",
+                "text": "Pesca una carta.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Bottintesta",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Pugni Rapidi",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "55",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/55.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/55_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_56",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 50,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Swablu",
+        "evolvesInto": [
+            "Altaria",
+            "Altaria ex",
+            "Altaria-GX"
+        ],
+        "name": "Swablu",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Tassa",
+                "text": "Pesca una carta.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Beccata",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "56",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/56.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/56_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "sm7-5_57",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 50,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Swablu",
+        "evolvesInto": [
+            "Altaria",
+            "Altaria ex",
+            "Altaria-GX"
+        ],
+        "name": "Swablu",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Canto",
+                "text": "Il Pokémon attivo del tuo avversario viene addormentato.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "57",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/57.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/57_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "sm7-5_58",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "name": "Ultimo Tentativo di Blaine",
+        "rarity": "RareHolo",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "58",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/58.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/58_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_59",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "name": "Unghia del Drago",
+        "rarity": "Uncommon",
+        "rules": [
+            "Se il Pokémon dragon a cui è assegnata questa carta è il tuo Pokémon attivo e viene danneggiato da un attacco del tuo avversario, <i>anche se viene messo KO</i>, metti tre segnalini danno sul Pokémon attaccante."
+        ],
+        "number": "59",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/59.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/59_hires.webp"
+        }
+    },
+    {
+        "id": "sm7-5_60",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sílex-de-fogo",
+        "name": "Pietra Pirica",
+        "rarity": "Uncommon",
+        "rules": [
+            "Puoi giocare questa carta solo se scarti altre due carte che hai in mano. Cerca nel tuo mazzo fino a quattro carte Energia fire, mostrale e aggiungile a quelle che hai in mano. Poi rimischia le carte del tuo mazzo."
+        ],
+        "number": "60",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/60.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/60_hires.webp"
+        }
+    },
+    {
+        "id": "sm7-5_61",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Prism Star",
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "name": "Lance {*}",
+        "rarity": "Prism",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "61",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/61.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/61_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_62",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Boia de Substituição",
+        "name": "Ciambella di Scambio",
+        "rarity": "Uncommon",
+        "rules": [
+            "Scambia il tuo Pokémon attivo water con uno dei tuoi Pokémon in panchina. Se lo fai, cura il Pokémon che hai spostato in panchina da 30 danni."
+        ],
+        "number": "62",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/62.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/62_hires.webp"
+        }
+    },
+    {
+        "id": "sm7-5_63",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "name": "Parco del Vulcano Wela",
+        "rarity": "Uncommon",
+        "rules": [
+            "Ogni volta che un giocatore lancia una moneta per la condizione speciale di bruciato tra un turno e l'altro, quella condizione speciale non viene rimossa anche se esce testa."
+        ],
+        "number": "63",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/63.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/63_hires.webp"
+        }
+    },
+    {
+        "id": "sm7-5_64",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "name": "Lyris",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "64",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/64.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/64_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_65",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "GX"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 180,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Reshiram-GX",
+        "name": "Reshiram-GX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Nitrocarica",
+                "text": "Cerca nel tuo mazzo fino a due carte Energia fire e assegnale a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Torre Ustionante",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato.",
+                "cost": "RRRC",
+                "damage": "110",
+                "convertedEnergyCost": 4
+            },
+            {
+                "name": "Vermiglio-GX",
+                "text": "Puoi assegnare a piacimento ai tuoi Pokémon fino a cinque carte Energia fire dalla tua mano. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "RRRC",
+                "damage": "180",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "65",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/65.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/65_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_66",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "GX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 230,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Horsea",
+        "name": "Kingdra-GX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Idropompa",
+                "text": "Questo attacco infligge 50 danni in più per ogni Energia water assegnata a questo Pokémon.",
+                "cost": "C",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Tornaindietro",
+                "text": "Scambia questo Pokémon con uno della tua panchina.",
+                "cost": "W",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Maelstrom-GX",
+                "text": "Questo attacco infligge 40 danni a ciascuno dei Pokémon del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina</i>. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "66",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/66.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/66_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_67",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 250,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Dragonite-GX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Dragartigli",
+                "text": "",
+                "cost": "L",
+                "damage": "70",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Gigaimpatto",
+                "text": "Questo Pokémon non può attaccare durante il tuo prossimo turno.",
+                "cost": "WLCC",
+                "damage": "200",
+                "convertedEnergyCost": 4
+            },
+            {
+                "name": "Dragotrasporto-GX",
+                "text": "Prendi tre Pokémon dragon dalla tua pila degli scarti e mettili nella tua panchina. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "CCC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "67",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/67.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/67_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_68",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 200,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Swablu",
+        "name": "Altaria-GX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Tono Limpido",
+                "text": "Durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon gx_atk e dei Pokémon ex_atk.",
+                "cost": "YC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Muro del Suono",
+                "text": "I danni di questo attacco non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+                "cost": "WYC",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Euforia-GX",
+                "text": "Il Pokémon attivo del tuo avversario viene addormentato. Cura tutti i tuoi Pokémon da tutti i danni. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "YC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "68",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/68.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/68_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_69",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "name": "Ultimo Tentativo di Blaine",
+        "rarity": "RareUltra",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "69",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/69.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/69_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_70",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "name": "Lyris",
+        "rarity": "RareUltra",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "70",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/70.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/70_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_71",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "GX"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 180,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Reshiram-GX",
+        "name": "Reshiram-GX",
+        "rarity": "RareRainbow",
+        "attacks": [
+            {
+                "name": "Nitrocarica",
+                "text": "Cerca nel tuo mazzo fino a due carte Energia fire e assegnale a questo Pokémon. Poi rimischia le carte del tuo mazzo.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Torre Ustionante",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato.",
+                "cost": "RRRC",
+                "damage": "110",
+                "convertedEnergyCost": 4
+            },
+            {
+                "name": "Vermiglio-GX",
+                "text": "Puoi assegnare a piacimento ai tuoi Pokémon fino a cinque carte Energia fire dalla tua mano. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "RRRC",
+                "damage": "180",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "71",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/71.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/71_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_72",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 200,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Swablu",
+        "name": "Altaria-GX",
+        "rarity": "RareRainbow",
+        "attacks": [
+            {
+                "name": "Tono Limpido",
+                "text": "Durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon gx_atk e dei Pokémon ex_atk.",
+                "cost": "YC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Muro del Suono",
+                "text": "I danni di questo attacco non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+                "cost": "WYC",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Euforia-GX",
+                "text": "Il Pokémon attivo del tuo avversario viene addormentato. Cura tutti i tuoi Pokémon da tutti i danni. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "YC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "72",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/72.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/72_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_73",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 250,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bagon",
+        "name": "Salamence-GX",
+        "rarity": "RareRainbow",
+        "attacks": [
+            {
+                "name": "Splendifiamma",
+                "text": "Scarta due Energie assegnate a questo Pokémon.",
+                "cost": "RWCC",
+                "damage": "200",
+                "convertedEnergyCost": 4
+            },
+            {
+                "name": "Getto di Fiamma-GX",
+                "text": "Questo attacco infligge 120 danni a uno dei Pokémon del tuo avversario. <i>Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina. Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "RCC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Dragopassaggio",
+                "text": "I tuoi Pokémon in gioco non hanno costo di ritirata, a eccezione dei Pokémon gx_atk e dei Pokémon ex_atk."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "73",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/73.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/73_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_74",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "GX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 190,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kyurem Branco-GX",
+        "name": "Kyurem Bianco-GX",
+        "rarity": "RareRainbow",
+        "attacks": [
+            {
+                "name": "Tritatutto",
+                "text": "I danni di questo attacco non sono influenzati da alcun effetto presente sul Pokémon attivo del tuo avversario.",
+                "cost": "R",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Lama Furente",
+                "text": "Se questo Pokémon ha dei segnalini danno, questo attacco infligge 80 danni in più.",
+                "cost": "RWC",
+                "damage": "80+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Dragonova-GX",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato e paralizzato. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "RRWC",
+                "damage": "200",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "74",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/74.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/74_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "sm7-5_75",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "name": "Unghia del Drago",
+        "rarity": "RareSecret",
+        "rules": [
+            "Se il Pokémon dragon a cui è assegnata questa carta è il tuo Pokémon attivo e viene danneggiato da un attacco del tuo avversario, <i>anche se viene messo KO</i>, metti tre segnalini danno sul Pokémon attaccante."
+        ],
+        "number": "75",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/75.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/75_hires.webp"
+        }
+    },
+    {
+        "id": "sm7-5_76",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sílex-de-fogo",
+        "name": "Pietra Pirica",
+        "rarity": "RareSecret",
+        "rules": [
+            "Puoi giocare questa carta solo se scarti altre due carte che hai in mano.Cerca nel tuo mazzo fino a quattro carte Energia fire, mostrale e aggiungile a quelle che hai in mano. Poi rimischia le carte del tuo mazzo."
+        ],
+        "number": "76",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/76.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/76_hires.webp"
+        }
+    },
+    {
+        "id": "sm7-5_77",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Boia de Substituição",
+        "name": "Ciambella di Scambio",
+        "rarity": "RareSecret",
+        "rules": [
+            "Scambia il tuo Pokémon attivo water con uno dei tuoi Pokémon in panchina. Se lo fai, cura il Pokémon che hai spostato in panchina da 30 danni."
+        ],
+        "number": "77",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/77.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/77_hires.webp"
+        }
+    },
+    {
+        "id": "sm7-5_78",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "GX",
+            "Ultra Beast"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 190,
+        "Release Date": "2018-09-06T17:00:00.0000000Z",
+        "Craftable Date": "2018-09-06 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Ultra Necrozma-GX",
+        "name": "Ultra Necrozma-GX",
+        "rarity": "RareSecret",
+        "attacks": [
+            {
+                "name": "Geyser Fotonico",
+                "text": "Scarta tutte le Energie base psychic assegnate a questo Pokémon. Questo attacco infligge 80 danni in più per ogni carta che hai scartato in questo modo.",
+                "cost": "PM",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Fotodistruzione Celeste-GX",
+                "text": "Puoi usare questo attacco solo se il totale delle carte Premio rimanenti a entrambi i giocatori è sei o meno. Metti sei segnalini danno su ciascuno dei Pokémon del tuo avversario. <i>Non puoi usare più di un attacco gx_atk a partita</i>.",
+                "cost": "PM",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "78",
+        "regulationMark": "SM",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/it/sm7-5/78.webp",
+            "large": "https://images.pokedata.ovh/it/sm7-5/78_hires.webp"
+        },
+        "resistances": []
+    }
+]
