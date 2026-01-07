@@ -1,0 +1,5793 @@
+[
+    {
+        "id": "bw4_1",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pinsir",
+        "name": "Scarabrute",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Pinces Vigoureuses",
+                "text": "Lancez 2 pièces. Pour chaque côté face, défaussez une Énergie attachée au Pokémon Défenseur.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Empoigne Puissante",
+                "text": "Le Pokémon Défenseur ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+                "cost": "GGC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "1",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/1.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/1_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_2",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 40,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Seedot",
+        "evolvesInto": [
+            "Nuzleaf"
+        ],
+        "name": "Grainipiot",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Croche-Pied",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts supplémentaires.",
+                "cost": "C",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "2",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/2.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/2_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Water",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_3",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kricketot",
+        "evolvesInto": [
+            "Kricketune"
+        ],
+        "name": "Crikzik",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Bataille",
+                "text": "",
+                "cost": "G",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Double Coup d'Boule",
+                "text": "Lancez 2 pièces. Cette attaque inflige 10 dégâts supplémentaires pour chaque côté face.",
+                "cost": "GG",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "3",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/3.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/3_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_4",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kricketot",
+        "name": "Mélokrik",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Sommeil Profond",
+                "text": "Le Pokémon Défenseur est maintenant Endormi.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Vampitranche",
+                "text": "Lancez 2 pièces. Cette attaque inflige 40 dégâts multipliés par le nombre de côtés face. Soignez à ce Pokémon la même quantité de dégâts que vous avez infligée au Pokémon Défenseur.",
+                "cost": "GC",
+                "damage": "40x",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "4",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/4.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/4_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_5",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 110,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shaymin-EX",
+        "name": "Shaymin-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Synthèse",
+                "text": "Cherchez une carte Énergie grass dans votre deck et attachez-la à 1 de vos Pokémon. Mélangez ensuite votre deck.",
+                "cost": "G",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Explo-Vengeance",
+                "text": "Inflige 30 dégâts supplémentaires pour chaque carte Récompense que votre adversaire a récupérée.",
+                "cost": "GC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "5",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/5.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/5_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_6",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pansage",
+        "evolvesInto": [
+            "Simisage"
+        ],
+        "name": "Feuillajou",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Canon Graine",
+                "text": "",
+                "cost": "GC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "6",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/6.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/6_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Water",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_7",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pansage",
+        "name": "Feuiloutan",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Collecte",
+                "text": "Piochez 3 cartes.",
+                "cost": "G",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Vampire de Stade",
+                "text": "S'il y a une carte Stade en jeu, cette attaque inflige 30 dégâts supplémentaires et vous soignez 30 dégâts à ce Pokémon.",
+                "cost": "GC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "7",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/7.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/7_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Water",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_8",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 40,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Foongus",
+        "evolvesInto": [
+            "Amoonguss",
+            "Amoonguss ex"
+        ],
+        "name": "Trompignon",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Trouver un Ami",
+                "text": "Lancez une pièce. Si c'est face, cherchez un Pokémon dans votre deck, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Botte Secrète",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts supplémentaires.",
+                "cost": "GC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "8",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/8.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/8_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Water",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_9",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Foongus",
+        "name": "Gaulet",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Botte Secrète",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "GC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Sporprise",
+                "text": "Lorsque vous jouez ce Pokémon de votre main pour faire évoluer 1 de vos Pokémon, vous pouvez utiliser cette capacité spéciale. Dans ce cas, le Pokémon Actif de votre adversaire est maintenant Confus et Empoisonné."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "9",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/9.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/9_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Water",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_10",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Growlithe",
+        "evolvesInto": [
+            "Arcanine",
+            "Arcanine ex"
+        ],
+        "name": "Caninos",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Attisement",
+                "text": "Lancez une pièce. Si c'est face, cherchez une carte Énergie fire dans votre deck et attachez-la à ce Pokémon. Mélangez ensuite votre deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Souffle-Feu",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts supplémentaires.",
+                "cost": "RC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "10",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/10.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/10_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_11",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Growlithe",
+        "evolvesInto": [
+            "Arcanine",
+            "Arcanine ex"
+        ],
+        "name": "Caninos",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Fournaise",
+                "text": "",
+                "cost": "RC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "11",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/11.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/11_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_12",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 130,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Growlithe",
+        "evolvesInto": [
+            "Arcanine BREAK"
+        ],
+        "name": "Arcanin",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Danseflamme",
+                "text": "Lancez une pièce. Si c'est pile, défaussez 2 Énergies attachées à ce Pokémon.",
+                "cost": "RRC",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Crinière Brûlante",
+                "text": "Si ce Pokémon est votre Pokémon Actif et qu'il subit les dégâts d'une attaque de votre adversaire <i>(même si ce Pokémon est mis K.O.),</i> le Pokémon Attaquant est maintenant Brûlé."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "12",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/12.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/12_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_13",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 120,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Growlithe",
+        "evolvesInto": [
+            "Arcanine BREAK"
+        ],
+        "name": "Arcanin",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Mâchouille",
+                "text": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée au Pokémon Défenseur.",
+                "cost": "RC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Explosion de Chaleur",
+                "text": "",
+                "cost": "RCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "13",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/13.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/13_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_14",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 120,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Moltres",
+        "name": "Sulfura",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Flammes Calcinantes",
+                "text": "Le Pokémon Défenseur est maintenant Brûlé.",
+                "cost": "RCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Déflagration",
+                "text": "Défaussez une Énergie fire attachée à ce Pokémon.",
+                "cost": "RCCC",
+                "damage": "90",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "14",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/14.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/14_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_15",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pansear",
+        "evolvesInto": [
+            "Simisear"
+        ],
+        "name": "Flamajou",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Flamboiement",
+                "text": "",
+                "cost": "RC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "15",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/15.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/15_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_16",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pansear",
+        "name": "Flamoutan",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Collecte",
+                "text": "Piochez 3 cartes.",
+                "cost": "R",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Stade en Flammes",
+                "text": "S'il y a une carte Stade en jeu, cette attaque inflige 30 dégâts supplémentaires et le Pokémon Défenseur est maintenant Brûlé.",
+                "cost": "RC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "16",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/16.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/16_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_17",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Darumaka",
+        "evolvesInto": [
+            "Darmanitan"
+        ],
+        "name": "Darumarond",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Enfoncer",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "17",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/17.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/17_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_18",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Litwick",
+        "evolvesInto": [
+            "Lampent"
+        ],
+        "name": "Funécire",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Flamboiement",
+                "text": "",
+                "cost": "R",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "18",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/18.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/18_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_19",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Litwick",
+        "evolvesInto": [
+            "Chandelure"
+        ],
+        "name": "Mélancolux",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Flammèche",
+                "text": "Lancez une pièce. Si c'est pile, défaussez une Énergie attachée à ce Pokémon.",
+                "cost": "RC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "19",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/19.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/19_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_20",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 120,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Litwick",
+        "name": "Lugulabre",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Rebondifeu",
+                "text": "Inflige 30 dégâts à 2 des Pokémon de Banc de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "R",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Feu d'Enfer",
+                "text": "Défaussez toutes les Énergies attachées à ce Pokémon. Le Pokémon Défenseur est maintenant Brûlé.",
+                "cost": "RC",
+                "damage": "80",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "20",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/20.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/20_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_21",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 130,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Reshiram",
+        "name": "Reshiram",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Colère",
+                "text": "Inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur ce Pokémon.",
+                "cost": "CC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Flamme Bleue",
+                "text": "Défaussez 2 Énergies fire attachées à ce Pokémon.",
+                "cost": "RRC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "21",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/21.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/21_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_22",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 180,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Reshiram-EX",
+        "name": "Reshiram-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Griffe Scintillante",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "RCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Flammes de Bravoure",
+                "text": "Lancez une pièce. Si c'est pile, ce Pokémon s'inflige 50 dégâts.",
+                "cost": "RRCC",
+                "damage": "150",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "22",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/22.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/22_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_23",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Staryu",
+        "evolvesInto": [
+            "Starmie",
+            "Starmie-GX"
+        ],
+        "name": "Stari",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Soin",
+                "text": "Défaussez une Énergie attachée à ce Pokémon et soignez tous les dégâts de ce Pokémon.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Pistolet à O",
+                "text": "",
+                "cost": "W",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "23",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/23.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/23_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_24",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Staryu",
+        "evolvesInto": [
+            "Starmie BREAK"
+        ],
+        "name": "Staross",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Onde Folie",
+                "text": "Le Pokémon Défenseur est maintenant Confus.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Météores",
+                "text": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur le Pokémon Défenseur.",
+                "cost": "W",
+                "damage": "50",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "24",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/24.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/24_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_25",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 100,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lapras",
+        "name": "Lokhlass",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Appel à la Famille",
+                "text": "Cherchez 2 Pokémon de base dans votre deck et placez-les sur votre Banc. Mélangez ensuite votre deck.",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Attaque Imprudente",
+                "text": "Ce Pokémon s'inflige 20 dégâts.",
+                "cost": "CC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "25",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/25.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/25_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_26",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lapras",
+        "name": "Lokhlass",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Flèche d'Eau",
+                "text": "Cette attaque inflige 20 dégâts à 1 des Pokémon de votre adversaire.<i> </i><i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "WC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Surf",
+                "text": "",
+                "cost": "WWC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "26",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/26.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/26_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_27",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Articuno",
+        "name": "Artikodin",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Laser Glace",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+                "cost": "WCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Aile Glace",
+                "text": "",
+                "cost": "WCCC",
+                "damage": "80",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "27",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/27.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/27_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_28",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Panpour",
+        "evolvesInto": [
+            "Simipour"
+        ],
+        "name": "Flotajou",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pistolet à O",
+                "text": "",
+                "cost": "WC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "28",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/28.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/28_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_29",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Panpour",
+        "name": "Flotoutan",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Collecte",
+                "text": "Piochez 3 cartes.",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Innondation du Stade",
+                "text": "S'il y a une carte Stade en jeu, cette attaque inflige 30 dégâts supplémentaires et le Pokémon Défenseur est maintenant Endormi.",
+                "cost": "WC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "29",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/29.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/29_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_30",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Basculin",
+        "name": "Bargantua",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Morsure",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Crocs à Vif",
+                "text": "Si, avant que ce Pokémon inflige des dégâts, le Pokémon Défenseur n'a aucun marqueur de dégâts, cette attaque ne fait rien.",
+                "cost": "W",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "30",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/30.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/30_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_31",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Vanillite",
+        "evolvesInto": [
+            "Vanillish"
+        ],
+        "name": "Sorbébé",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Bataille",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Verglas",
+                "text": "",
+                "cost": "WC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "31",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/31.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/31_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_32",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Vanillite",
+        "evolvesInto": [
+            "Vanilluxe"
+        ],
+        "name": "Sorboul",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Verglas",
+                "text": "",
+                "cost": "W",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Vent Glace",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Endormi.",
+                "cost": "WCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "32",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/32.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/32_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_33",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 130,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Vanillite",
+        "name": "Sorbouboul",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Brise-Glace",
+                "text": "Inflige 10 dégâts supplémentaires pour chaque colorless dans le coût de Retraite du Pokémon Défenseur.",
+                "cost": "WCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Sol Verglacé",
+                "text": "Une seule fois pendant votre tour <i>(avant votre attaque),</i> vous pouvez échanger votre Pokémon Actif avec 1 de vos Pokémon de Banc. Dans ce cas, votre adversaire échange son Pokémon Actif avec 1 de ses Pokémon de Banc."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "33",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/33.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/33_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_34",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Frillish",
+        "evolvesInto": [
+            "Jellicent",
+            "Jellicent ex"
+        ],
+        "name": "Viskuse",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Écume",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Crache-Venin",
+                "text": "Le Pokémon Défenseur est maintenant Empoisonné.",
+                "cost": "WC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "34",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/34.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/34_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_35",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Frillish",
+        "name": "Moyade",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Désir de Vengeance",
+                "text": "Si ce Pokémon a subi les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige la même quantité de dégâts au Pokémon Défenseur.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Absorption",
+                "text": "Soignez 30 dégâts à ce Pokémon.",
+                "cost": "WWC",
+                "damage": "30",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "35",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/35.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/35_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_36",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cubchoo",
+        "evolvesInto": [
+            "Beartic"
+        ],
+        "name": "Polarhume",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Reniflement",
+                "text": "Pendant votre prochain tour, les dégâts de base de l'attaque Taloche de ce Pokémon sont de 40.",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Taloche",
+                "text": "",
+                "cost": "WC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "36",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/36.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/36_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_37",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cubchoo",
+        "name": "Polagriffe",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Découragement",
+                "text": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés par des attaques du Pokémon Défenseur sont réduits de 20 <i>(avant application de la Faiblesse et de la Résistance).</i>",
+                "cost": "CC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Embuscade",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "WCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "37",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/37.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/37_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_38",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 180,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kyurem-EX",
+        "name": "Kyurem-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Ailes Gelées",
+                "text": "Défaussez une Énergie spéciale attachée au Pokémon Défenseur.",
+                "cost": "WCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Tempêtegrêle",
+                "text": "Ce Pokémon ne peut pas utiliser Tempêtegrêle pendant votre prochain tour.",
+                "cost": "WWCC",
+                "damage": "120",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "38",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/38.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/38_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_39",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Alolan Raichu",
+            "Raichu",
+            "Raichu-GX"
+        ],
+        "name": "Pikachu",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Éclair",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+                "cost": "L",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Queue Battoir",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "39",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/39.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/39_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_40",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Raichu BREAK"
+        ],
+        "name": "Raichu",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Éclair",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+                "cost": "L",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Souplesse",
+                "text": "Lancez 2 pièces. Cette attaque inflige 80 dégâts multipliés par le nombre de côtés face.",
+                "cost": "LCC",
+                "damage": "80x",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "40",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/40.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/40_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_41",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 120,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zapdos",
+        "name": "Électhor",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Étincelle Surprise",
+                "text": "Cette attaque inflige 50 dégâts à 1 des Pokémon de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "LCC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Rafale d'Éclairs",
+                "text": "Lancez 4 pièces. Cette attaque inflige 50 dégâts multipliés par le nombre de côtés face.",
+                "cost": "LCCC",
+                "damage": "50x",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "41",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/41.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/41_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_42",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shinx",
+        "evolvesInto": [
+            "Luxio"
+        ],
+        "name": "Lixy",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Saut",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts supplémentaires.",
+                "cost": "L",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Choc Statique",
+                "text": "",
+                "cost": "LC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "42",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/42.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/42_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_43",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shinx",
+        "evolvesInto": [
+            "Luxio"
+        ],
+        "name": "Lixy",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Attaque Imprudente",
+                "text": "Ce Pokémon s'inflige 10 dégâts.",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "43",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/43.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/43_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_44",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shinx",
+        "evolvesInto": [
+            "Luxray",
+            "Luxray ex"
+        ],
+        "name": "Luxio",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Saut",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "L",
+                "damage": "20+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Éclair Fou",
+                "text": "Ce Pokémon s'inflige 10 dégâts.",
+                "cost": "LCC",
+                "damage": "60 ",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "44",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/44.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/44_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_45",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shinx",
+        "evolvesInto": [
+            "Luxray",
+            "Luxray ex"
+        ],
+        "name": "Luxio",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Vif Retournement",
+                "text": "Lancez 2 pièces. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+                "cost": "L",
+                "damage": "20x",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Morsure",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "45",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/45.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/45_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_46",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 140,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shinx",
+        "evolvesInto": [
+            "Luxray BREAK"
+        ],
+        "name": "Luxray",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Impact-Flash",
+                "text": "Inflige 20 dégâts à 1 de vos Pokémon.<i> </i><i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "L",
+                "damage": "60",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Mâchouille",
+                "text": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée au Pokémon Défenseur.",
+                "cost": "LLC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "46",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/46.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/46_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_47",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Blitzle",
+        "evolvesInto": [
+            "Zebstrika"
+        ],
+        "name": "Zébibron",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Secousse Tonnerre",
+                "text": "Lancez une pièce. Si c'est pile, ce Pokémon s'inflige 10 dégâts.",
+                "cost": "LC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "47",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/47.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/47_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_48",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Blitzle",
+        "name": "Zéblitz",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Déconnexion",
+                "text": "Votre adversaire ne peut pas jouer de cartes Objet de sa main pendant son prochain tour.",
+                "cost": "LC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Chute d'Éclairs",
+                "text": "Défaussez toutes les Énergies lightning attachées à ce Pokémon. Cette attaque inflige 80 dégâts à 1 des Pokémon de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "LLC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "48",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/48.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/48_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_49",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Emolga",
+        "name": "Emolga",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Rebond",
+                "text": "Échangez ce Pokémon avec 1 de vos Pokémon de Banc.",
+                "cost": "LC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "49",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/49.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/49_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_50",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 130,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zekrom",
+        "name": "Zekrom",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Colère",
+                "text": "Inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur ce Pokémon.",
+                "cost": "CC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "ChargeFoudre",
+                "text": "Ce Pokémon s'inflige 40 dégâts.",
+                "cost": "LLC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "50",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/50.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/50_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_51",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 180,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zekrom-EX",
+        "name": "Zekrom-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Griffe Scintillante",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "LCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Décharge Foudroyante",
+                "text": "Défaussez 2 Énergies attachées à ce Pokémon.",
+                "cost": "LLCC",
+                "damage": "150",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "51",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/51.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/51_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_52",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Grimer",
+        "evolvesInto": [
+            "Muk"
+        ],
+        "name": "Tadmorv",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Glu Fétide",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+                "cost": "PC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "52",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/52.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/52_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_53",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 110,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Grimer",
+        "name": "Grotadmorv",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Enveloppe Douce",
+                "text": "Le Pokémon Défenseur ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+                "cost": "PC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Sécrétion Toxique",
+                "text": "Le Pokémon Défenseur est maintenant Empoisonné. Placez 2 marqueurs de dégâts au lieu d'un sur le Pokémon ciblé entre chaque tour.",
+                "cost": "PCCC",
+                "damage": "60",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "53",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/53.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/53_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_54",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 170,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mewtwo-EX",
+        "evolvesInto": [
+            "M Mewtwo-EX"
+        ],
+        "name": "Mewtwo-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "X Ball",
+                "text": "Inflige 20 dégâts multipliés par le nombre d'Énergies attachées à ce Pokémon et au Pokémon Défenseur.",
+                "cost": "CC",
+                "damage": "20x",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Psykoforce",
+                "text": "Défaussez une Énergie attachée à ce Pokémon.",
+                "cost": "PPC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "54",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/54.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/54_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_55",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Kirlia"
+        ],
+        "name": "Tarsal",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Piqûre Psy",
+                "text": "",
+                "cost": "P",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Claque",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "55",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/55.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/55_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_56",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Gallade",
+            "Gardevoir",
+            "Gardevoir ex",
+            "Gardevoir-GX",
+            "Mega Gardevoir ex"
+        ],
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Claque",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Psyko",
+                "text": "Inflige 10 dégâts supplémentaires pour chaque Énergie attachée au Pokémon Défenseur.",
+                "cost": "PCC",
+                "damage": "40+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "56",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/56.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/56_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_57",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 110,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Gardevoir",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Choc Cérébral",
+                "text": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+                "cost": "PPCC",
+                "damage": "60",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Mirage Psychique",
+                "text": "Chaque Énergie psychic de base attachée à vos Pokémon psychic fournit de l'Énergie psychicpsychic. Vous ne pouvez pas appliquer plus d'une capacité spéciale Mirage Psychique à la fois."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "57",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/57.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/57_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_58",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Munna",
+        "evolvesInto": [
+            "Musharna"
+        ],
+        "name": "Munna",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Collision",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "58",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/58.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/58_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_59",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 100,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Munna",
+        "name": "Mushana",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Rêve Douillet",
+                "text": "Ce Pokémon est maintenant Endormi.",
+                "cost": "PP",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Prédiction",
+                "text": "Une seule fois pendant votre tour <i>(avant votre attaque)</i>, vous pouvez regarder les 2 cartes du dessus de votre deck, en choisir 1 et l'ajouter à votre main. Replacez l'autre carte sur le dessus de votre deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "59",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/59.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/59_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_60",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 110,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Darumaka",
+        "name": "Darumacho",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Pioche Synchro",
+                "text": "Mélangez votre main avec votre deck. Ensuite, piochez un nombre de cartes égal au nombre de cartes dans la main de votre adversaire.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "DaruMax",
+                "text": "Lancez une pièce pour chaque Énergie attachée à ce Pokémon. Cette attaque inflige 50 dégâts multipliés par le nombre de côtés face.",
+                "cost": "CC",
+                "damage": "50x",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "60",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/60.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/60_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_61",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Elgyem",
+        "evolvesInto": [
+            "Beheeyem"
+        ],
+        "name": "Lewsor",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Choc Mental",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+                "cost": "P",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "61",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/61.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/61_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_62",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Elgyem",
+        "evolvesInto": [
+            "Beheeyem BREAK"
+        ],
+        "name": "Neitram",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Contrôle Cérébral",
+                "text": "Votre adversaire montre sa main. Choisissez-y une carte et mettez-la en dessous du deck de votre adversaire.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Rafale Psy",
+                "text": "Le Pokémon Défenseur est maintenant Confus.",
+                "cost": "PCC",
+                "damage": "40",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "62",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/62.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/62_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_63",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Riolu",
+        "evolvesInto": [
+            "Lucario",
+            "Lucario ex",
+            "Lucario-GX",
+            "Mega Lucario ex"
+        ],
+        "name": "Riolu",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Koud'Poing",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Vive-Attaque",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts supplémentaires.",
+                "cost": "FC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "63",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/63.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/63_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_64",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 100,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Riolu",
+        "name": "Lucario",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Aurasphère",
+                "text": "Inflige 20 dégâts à 1 des Pokémon de Banc de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "FF",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Contre-Offensive",
+                "text": "Si ce Pokémon est votre Pokémon Actif et qu'il subit les dégâts d'une attaque de votre adversaire <i>(même si ce Pokémon est mis K.O.)</i>, placez 2 marqueurs de dégâts sur le Pokémon Attaquant."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "64",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/64.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/64_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_65",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Hippopotas",
+        "evolvesInto": [
+            "Hippowdon"
+        ],
+        "name": "Hippopotas",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Sablage",
+                "text": "Cette attaque inflige 20 dégâts à 1 des Pokémon de Banc de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "F",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Morsure",
+                "text": "",
+                "cost": "FCC",
+                "damage": "30",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "65",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/65.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/65_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Lightning",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_66",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 130,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Hippopotas",
+        "name": "Hippodocus",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Canon à Sable",
+                "text": "Vous pouvez déplacer une Énergie de base attachée à ce Pokémon vers 1 de vos Pokémon de Banc.",
+                "cost": "FCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Roule-Pierre",
+                "text": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+                "cost": "FFCC",
+                "damage": "90",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "66",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/66.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/66_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Lightning",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_67",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mienfoo",
+        "evolvesInto": [
+            "Mienshao"
+        ],
+        "name": "Kungfouine",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Triple Éclate",
+                "text": "Lancez 3 pièces. Cette attaque inflige 10 dégâts multipliés par le nombre de côtés face.",
+                "cost": "C",
+                "damage": "10x",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "67",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/67.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/67_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_68",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mienfoo",
+        "name": "Shaofouine",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Mainmise",
+                "text": "Cherchez 2 cartes Outil Pokémon dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Yoga",
+                "text": "Inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur le Pokémon Défenseur.",
+                "cost": "FC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "68",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/68.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/68_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_69",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sneasel",
+        "evolvesInto": [
+            "Weavile",
+            "Weavile-GX"
+        ],
+        "name": "Farfuret",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Angle",
+                "text": "Le Pokémon Défenseur ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+                "cost": "D",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Griffe",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "69",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/69.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/69_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_70",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sneasel",
+        "name": "Dimoret",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Punition Obscure",
+                "text": "S'il n'y a pas de carte Outil Pokémon attachée au Pokémon Défenseur, cette attaque ne fait rien.",
+                "cost": "D",
+                "damage": "90",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Combo-Griffe",
+                "text": "Lancez 3 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+                "cost": "CCC",
+                "damage": "30x",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "70",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/70.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/70_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_71",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 80,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Seedot",
+        "evolvesInto": [
+            "Shiftry",
+            "Shiftry-GX"
+        ],
+        "name": "Pifeuil",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Raclée Surprise",
+                "text": "Déplacez une Énergie attachée au Pokémon Défenseur vers 1 des Pokémon de Banc de votre adversaire.",
+                "cost": "DC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "71",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/71.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/71_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_72",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 130,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Seedot",
+        "name": "Tengalice",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Cyclone",
+                "text": "Votre adversaire échange le Pokémon Défenseur avec 1 de ses Pokémon de Banc.",
+                "cost": "DDC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Éventail Géant",
+                "text": "Lorsque vous jouez ce Pokémon de votre main pour faire évoluer 1 de vos Pokémon, vous pouvez lancer une pièce. Si c'est face, choisissez 1 des Pokémon de votre adversaire. Votre adversaire mélange le Pokémon choisi et toutes les cartes qui lui sont attachées avec son deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "72",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/72.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/72_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_73",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Scrafty"
+        ],
+        "name": "Baggiguane",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Mue",
+                "text": "Soignez 40 dégâts à ce Pokémon.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Coup Rapide",
+                "text": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+                "cost": "DD",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "73",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/73.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/73_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_74",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Baggaïd",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Tête de Roc",
+                "text": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés à ce Pokémon par des attaques sont réduits de 20 <i>(après application de la Faiblesse et de la Résistance)</i>.",
+                "cost": "D",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Marto-Pied",
+                "text": "S'il reste moins de PV à ce Pokémon qu'au Pokémon Défenseur, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "DCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "74",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/74.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/74_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_75",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bronzor",
+        "evolvesInto": [
+            "Bronzong"
+        ],
+        "name": "Archéomire",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Asticotage",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts supplémentaires.",
+                "cost": "MC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Attaque Tournante",
+                "text": "",
+                "cost": "MCC",
+                "damage": "40",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "75",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/75.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/75_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_76",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 110,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bronzor",
+        "evolvesInto": [
+            "Bronzong BREAK"
+        ],
+        "name": "Archéodong",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Supplice de l'Oracle",
+                "text": "Inflige 10 dégâts supplémentaires pour chaque carte dans la main de votre adversaire.",
+                "cost": "MCC",
+                "damage": "30+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Anti-Soin",
+                "text": "Les dégâts ne peuvent être soignés pour aucun Pokémon <i>(les vôtres et ceux de votre adversaire). (Les marqueurs de dégâts peuvent toujours être déplacés.)</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "76",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/76.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/76_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_77",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Ferroseed",
+        "evolvesInto": [
+            "Ferrothorn"
+        ],
+        "name": "Grindur",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Destruction",
+                "text": "Ce Pokémon s'inflige 60 dégâts.",
+                "cost": "MC",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "77",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/77.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/77_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_78",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jigglypuff",
+        "evolvesInto": [
+            "Wigglytuff",
+            "Wigglytuff ex",
+            "Wigglytuff-GX"
+        ],
+        "name": "Rondoudou",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Berceuse",
+                "text": "Le Pokémon Défenseur est maintenant Endormi.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Torgnoles",
+                "text": "Lancez 2 pièces. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+                "cost": "CC",
+                "damage": "20x",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "78",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/78.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/78_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_79",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jigglypuff",
+        "name": "Grodoudou",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Chant Canon",
+                "text": "Inflige 20 dégâts multipliés par le nombre de vos Pokémon possédant l'attaque Chant Canon.",
+                "cost": "CC",
+                "damage": "20x",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Hypnoblast",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Endormi.",
+                "cost": "CCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "79",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/79.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/79_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_80",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 70,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Meowth",
+        "evolvesInto": [
+            "Persian",
+            "Persian-GX"
+        ],
+        "name": "Miaouss",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Double Écorchure",
+                "text": "Lancez 2 pièces. Cette attaque inflige 10 dégâts multipliés par le nombre de côtés face.",
+                "cost": "C",
+                "damage": "10x",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Coup d'Patte",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "80",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/80.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/80_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_81",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Meowth",
+        "name": "Persian",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Machination",
+                "text": "Cherchez une carte dans votre deck puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Griffe Ombre",
+                "text": "Lancez une pièce. Si c'est face, défaussez au hasard une carte de la main de votre adversaire.",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "81",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/81.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/81_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_82",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 180,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Regigigas-EX",
+        "name": "Regigigas-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Giga Pouvoir",
+                "text": "Vous pouvez infliger 20 dégâts supplémentaires. Dans ce cas, ce Pokémon s'inflige 20 dégâts.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Marteau Rageur",
+                "text": "Inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur ce Pokémon.",
+                "cost": "CCCC",
+                "damage": "50+",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "82",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/82.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/82_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_83",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pidove",
+        "evolvesInto": [
+            "Tranquill"
+        ],
+        "name": "Poichigeon",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Espionnage",
+                "text": "Votre adversaire montre sa main.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Tornade",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "83",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/83.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/83_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_84",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 60,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Minccino",
+        "evolvesInto": [
+            "Cinccino"
+        ],
+        "name": "Chinchidou",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Appel à la Famille",
+                "text": "Cherchez un Pokémon de base dans votre deck et placez-le sur votre Banc. Mélangez ensuite votre deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Coup de Queue",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "84",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/84.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/84_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_85",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Minccino",
+        "name": "Pashmilla",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Écho",
+                "text": "Pendant votre prochain tour, l'attaque Écho de ce Pokémon inflige 50 dégâts supplémentaires <i>(avant application de la Faiblesse et de la Résistance)</i>.",
+                "cost": "CCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Pelage Lustré",
+                "text": "Si des dégâts sont infligés à ce Pokémon par des attaques, lancez une pièce. Si c'est face, évitez les dégâts."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "85",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/85.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/85_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_86",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "name": "Rachid",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "86",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/86.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/86_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_87",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "name": "Multi Exp",
+        "rarity": "Uncommon",
+        "rules": [
+            "Lorsque votre Pokémon Actif est mis K.O. par les dégâts d'une attaque de votre adversaire, vous pouvez déplacer 1 carte Énergie de base qui était attachée au Pokémon mis K.O. vers le Pokémon auquel cette carte est attachée."
+        ],
+        "number": "87",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/87.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/87_hires.webp"
+        }
+    },
+    {
+        "id": "bw4_88",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bola Pesada",
+        "name": "Masse Ball",
+        "rarity": "Uncommon",
+        "rules": [
+            "Cherchez dans votre deck un Pokémon avec un coût de Retraite de 3 ou plus, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck."
+        ],
+        "number": "88",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/88.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/88_hires.webp"
+        }
+    },
+    {
+        "id": "bw4_89",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bola de Nível",
+        "name": "Niveau Ball",
+        "rarity": "Uncommon",
+        "rules": [
+            "Cherchez dans votre deck un Pokémon avec 90 PV ou moins, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck."
+        ],
+        "number": "89",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/89.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/89_hires.webp"
+        }
+    },
+    {
+        "id": "bw4_90",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "name": "Centre Pokémon",
+        "rarity": "Uncommon",
+        "rules": [
+            "Une seule fois pendant le tour de chaque joueur, ce joueur peut soigner 20 dégâts à 1 de ses Pokémon de Banc."
+        ],
+        "number": "90",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/90.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/90_hires.webp"
+        }
+    },
+    {
+        "id": "bw4_91",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "name": "Pont Sagiciel",
+        "rarity": "Uncommon",
+        "rules": [
+            "Le coût de Retraite de chaque Pokémon de base en jeu est diminué de colorless."
+        ],
+        "number": "91",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/91.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/91_hires.webp"
+        }
+    },
+    {
+        "id": "bw4_92",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special Energy"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "name": "Double Énergie Incolore",
+        "rarity": "Uncommon",
+        "rules": [
+            "Double Énergie Incolore fournit de l'Énergie colorlesscolorless."
+        ],
+        "number": "92",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/92.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/92_hires.webp"
+        }
+    },
+    {
+        "id": "bw4_93",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special Energy"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 0,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "name": "Énergie Prisme",
+        "rarity": "Uncommon",
+        "rules": [
+            "Cette carte fournit de l'Énergie colorless. Si le Pokémon auquel cette carte est attachée est un Pokémon de base, cette carte fournit n'importe quel type d'Énergie mais ne fournit qu'une Énergie à la fois."
+        ],
+        "number": "93",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/93.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/93_hires.webp"
+        }
+    },
+    {
+        "id": "bw4_94",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 110,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shaymin-EX",
+        "name": "Shaymin-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Synthèse",
+                "text": "Cherchez une carte Énergie grass dans votre deck et attachez-la à 1 de vos Pokémon. Mélangez ensuite votre deck.",
+                "cost": "G",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Explo-Vengeance",
+                "text": "Inflige 30 dégâts supplémentaires pour chaque carte Récompense que votre adversaire a récupérée.",
+                "cost": "GC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "94",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/94.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/94_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_95",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 180,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Reshiram-EX",
+        "name": "Reshiram-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Griffe Scintillante",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "RCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Flammes de Bravoure",
+                "text": "Lancez une pièce. Si c'est pile, ce Pokémon s'inflige 50 dégâts.",
+                "cost": "RRCC",
+                "damage": "150",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "95",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/95.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/95_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_96",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 180,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Kyurem-EX",
+        "name": "Kyurem-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Ailes Gelées",
+                "text": "Défaussez une Énergie spéciale attachée au Pokémon Défenseur.",
+                "cost": "WCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Tempêtegrêle",
+                "text": "Ce Pokémon ne peut pas utiliser Tempêtegrêle pendant votre prochain tour.",
+                "cost": "WWCC",
+                "damage": "120",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "96",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/96.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/96_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_97",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 180,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zekrom-EX",
+        "name": "Zekrom-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Griffe Scintillante",
+                "text": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "LCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Décharge Foudroyante",
+                "text": "Défaussez 2 Énergies attachées à ce Pokémon.",
+                "cost": "LLCC",
+                "damage": "150",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "97",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/97.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/97_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_98",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 170,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mewtwo-EX",
+        "evolvesInto": [
+            "M Mewtwo-EX"
+        ],
+        "name": "Mewtwo-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "X Ball",
+                "text": "Inflige 20 dégâts multipliés par le nombre d'Énergies attachées à ce Pokémon et au Pokémon Défenseur.",
+                "cost": "CC",
+                "damage": "20x",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Psykoforce",
+                "text": "Défaussez une Énergie attachée à ce Pokémon.",
+                "cost": "PPC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "98",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/98.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/98_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_99",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 180,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Regigigas-EX",
+        "name": "Regigigas-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Giga Pouvoir",
+                "text": "Vous pouvez infliger 20 dégâts supplémentaires. Dans ce cas, ce Pokémon s'inflige 20 dégâts.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Marteau Rageur",
+                "text": "Inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur ce Pokémon.",
+                "cost": "CCCC",
+                "damage": "50+",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "99",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/99.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/99_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_100",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 150,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Roitiflam",
+        "rarity": "RareSecret",
+        "attacks": [
+            {
+                "name": "Tacle Feu",
+                "text": "",
+                "cost": "RRCC",
+                "damage": "80",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Tango Infernal",
+                "text": "Autant de fois que vous le voulez pendant votre tour <i>(avant votre attaque)</i>, vous pouvez attacher une carte Énergie fire de votre main à 1 de vos Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "100",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/100.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/100_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_101",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 130,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Litwick",
+        "name": "Lugulabre",
+        "rarity": "RareSecret",
+        "attacks": [
+            {
+                "name": "Lueur Sinistre",
+                "text": "Le Pokémon Défenseur est maintenant Brûlé et Confus.",
+                "cost": "PPC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Ombre Maudite",
+                "text": "Une seule fois pendant votre tour <i>(avant votre attaque),</i> si ce Pokémon est votre Pokémon Actif, vous pouvez placer 3 marqueurs de dégâts sur les Pokémon de votre adversaire, de la manière que vous voulez."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "amount": "×2"
+            }
+        ],
+        "number": "101",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/101.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/101_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "bw4_102",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 100,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zorua",
+        "evolvesInto": [
+            "Zoroark BREAK"
+        ],
+        "name": "Zoroark",
+        "rarity": "RareSecret",
+        "attacks": [
+            {
+                "name": "Machination",
+                "text": "Cherchez une carte dans votre deck puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+                "cost": "D",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Tricherie",
+                "text": "Choisissez 1 des attaques du Pokémon Défenseur et utilisez-la en tant que cette attaque.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "102",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/102.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/102_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "bw4_103",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 150,
+        "Release Date": "2012-02-08T18:00:00.0000000Z",
+        "Craftable Date": "2012-02-08 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Deino",
+        "evolvesInto": [
+            "Hydreigon BREAK"
+        ],
+        "name": "Trioxhydre",
+        "rarity": "RareSecret",
+        "attacks": [
+            {
+                "name": "Lame Folle",
+                "text": "Inflige 40 dégâts à 2 des Pokémon de Banc de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "DDDD",
+                "damage": "60",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Aura de Ténèbres",
+                "text": "Toutes les Énergies attachées à ce Pokémon sont des Énergies darkness au lieu de leur type habituel."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "103",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/bw4/103.webp",
+            "large": "https://images.pokedata.ovh/fr/bw4/103_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Psychic",
+                "amount": "--20"
+            }
+        ]
+    }
+]
