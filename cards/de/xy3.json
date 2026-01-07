@@ -1,0 +1,5973 @@
+[
+    {
+        "id": "xy3_1",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 50,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bellsprout",
+        "evolvesInto": [
+            "Weepinbell"
+        ],
+        "name": "Knofensa",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Rankenhieb",
+                "text": "",
+                "cost": "G",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Abschlag",
+                "text": "Nimm 1 zufällige Karte aus der verdeckten Hand deines Gegners und lege sie auf dessen Ablagestapel.",
+                "cost": "GC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "1",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/1.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/1_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_2",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bellsprout",
+        "evolvesInto": [
+            "Victreebel"
+        ],
+        "name": "Ultrigaria",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Rankenhieb",
+                "text": "",
+                "cost": "GC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Giftspucke",
+                "text": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                "cost": "GCC",
+                "damage": "40",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "2",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/2.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/2_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_3",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 130,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bellsprout",
+        "name": "Sarzenia",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Spiralsauger",
+                "text": "Heile 30 Schadenspunkte bei diesem Pokémon.",
+                "cost": "GCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Wabernder Geruch",
+                "text": "Einmal während deines Zuges <i>(vor deinem Angriff)</i> kannst du 1 an dieses Pokémon angelegte grass-Energie auf deinen Ablagestapel legen. Wenn du das machst, ist das Aktive Pokémon deines Gegners jetzt verwirrt und vergiftet."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "3",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/3.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/3_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_4",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 170,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Heracross-EX",
+        "evolvesInto": [
+            "M Heracross-EX"
+        ],
+        "name": "Skaraborn-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Schutzdruck",
+                "text": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert <i>(nachdem Schwäche und Resistenz verrechnet wurden)</i>.",
+                "cost": "GC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Gigakraft",
+                "text": "Du kannst mit diesem Angriff 40 weitere Schadenspunkte zufügen. Wenn du das machst, fügt dieses Pokémon sich selbst 20 Schadenspunkte zu.",
+                "cost": "GGC",
+                "damage": "80+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "4",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/4.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/4_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_5",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 220,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Heracross-EX",
+        "name": "M Skaraborn-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Urknall-Horn",
+                "text": "Dieser Angriff fügt 180 Schadenspunkte minus 10 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu.",
+                "cost": "GGC",
+                "damage": "180â",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "5",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/5.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/5_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_6",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shroomish",
+        "evolvesInto": [
+            "Breloom"
+        ],
+        "name": "Knilz",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Tackle",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "6",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/6.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/6_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_7",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Eevee",
+        "name": "Folipurba",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Beruhigender Duft",
+                "text": "Das Aktive Pokémon deines Gegners schläft jetzt.",
+                "cost": "G",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Zauberblatt",
+                "text": "Wirf 1 Münze. Bei „Kopf\" fügt dieser Angriff 30 weitere Schadenspunkte zu und heilt 30 Schadenspunkte bei diesem Pokémon.",
+                "cost": "GCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "7",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/7.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/7_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_8",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shelmet",
+        "evolvesInto": [
+            "Accelgor"
+        ],
+        "name": "Schnuthelm",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Draufspringen",
+                "text": "Wirf 1 Münze. Bei „Kopf\" fügt dieser Angriff 10 weitere Schadenspunkte zu.",
+                "cost": "G",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "8",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/8.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/8_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_9",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shelmet",
+        "name": "Hydragil",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Überfall",
+                "text": "Wenn sich dieses Pokémon während dieses Zuges aus Schnuthelm entwickelt hat, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+                "cost": "C",
+                "damage": "20+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Nachbild-Angriff",
+                "text": "Wirf 1 Münze, wenn diesem Pokémon während des nächsten Zuges deines Gegners durch Angriffe Schaden zugefügt wird. Bei „Kopf\" verhindere diesen Schaden.",
+                "cost": "GC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "9",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/9.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/9_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_10",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Magmar",
+        "evolvesInto": [
+            "Magmortar"
+        ],
+        "name": "Magmar",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Ramme",
+                "text": "",
+                "cost": "R",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Glut",
+                "text": "Lege 1 an dieses Pokémon angelegte fire-Energie auf deinen Ablagestapel.",
+                "cost": "RC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "10",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/10.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/10_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_11",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 120,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Magmar",
+        "name": "Magbrant",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Nitroladung",
+                "text": "Durchsuche dein Deck nach 1 fire-Energiekarte und lege sie an dieses Pokémon an. Mische anschließend dein Deck.",
+                "cost": "R",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Doppelsalve",
+                "text": "Wenn sich Elevoltek auf deiner Bank befindet, fügt dieser Angriff 80 weitere Schadenspunkte zu.",
+                "cost": "RCCC",
+                "damage": "80+",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "11",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/11.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/11_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_12",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Torchic",
+        "evolvesInto": [
+            "Combusken"
+        ],
+        "name": "Flemmli",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Ruckzuckhieb",
+                "text": "Wirf 1 Münze. Bei „Kopf\" fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+                "cost": "RC",
+                "damage": "10+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "12",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/12.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/12_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_13",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Torchic",
+        "evolvesInto": [
+            "Blaziken",
+            "Blaziken ex",
+            "Blaziken-GX"
+        ],
+        "name": "Jungglut",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Schlitzer",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Sprunghieb",
+                "text": "Wirf 1 Münze. Bei „Kopf\" fügt dieser Angriff 20 weitere Schadenspunkte zu.",
+                "cost": "RCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "13",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/13.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/13_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_14",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 140,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Torchic",
+        "name": "Lohgock",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Greifer",
+                "text": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+                "cost": "CC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Brandschuss",
+                "text": "Lege 2 an dieses Pokémon angelegte Energien auf deinen Ablagestapel. Dieser Angriff fügt 1 Pokémon deines Gegners 150 Schadenspunkte zu.<i> (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>",
+                "cost": "RRCC",
+                "damage": "",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "14",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/14.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/14_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_15",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Poliwag",
+        "evolvesInto": [
+            "Poliwhirl"
+        ],
+        "name": "Quapsel",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Regenplatscher",
+                "text": "",
+                "cost": "W",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Spiralsog",
+                "text": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt. Es kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+                "cost": "CCC",
+                "damage": "20",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "15",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/15.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/15_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_16",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Poliwag",
+        "evolvesInto": [
+            "Politoed",
+            "Poliwrath"
+        ],
+        "name": "Quaputzi",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Regenplatscher",
+                "text": "",
+                "cost": "W",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Finalhieb",
+                "text": "Wenn auf dem Aktiven Pokémon deines Gegners bereits mindestens 1 Schadensmarke liegt, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
+                "cost": "CCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "16",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/16.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/16_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_17",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 140,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Poliwag",
+        "name": "Quappo",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Überrollen",
+                "text": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu. <i>(Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>",
+                "cost": "CCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Überroller",
+                "text": "Dieses Pokémon fügt sich selbst 30 Schadenspunkte zu.",
+                "cost": "WWCC",
+                "damage": "130",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "17",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/17.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/17_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_18",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 130,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Poliwag",
+        "name": "Quaxo",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Schallwelle",
+                "text": "",
+                "cost": "WCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "Königliche Klänge",
+                "text": "Ignoriere alle colorless-Energien in den Angriffskosten der Attacken deiner Quapsel, Quaputzi und Quappo."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "18",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/18.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/18_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_19",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Eevee",
+        "name": "Glaziola",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Blizzard",
+                "text": "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu. <i>(Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>",
+                "cost": "W",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Eisiger Abgrund",
+                "text": "Wirf 1 Münze. Bei „Kopf\" fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+                "cost": "WCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "19",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/19.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/19_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_20",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 180,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Seismitoad-EX",
+        "name": "Branawarz-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Vibro-Wumme",
+                "text": "Dein Gegner kann während seines nächsten Zuges keine Itemkarten von seiner Hand spielen.",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Granatenhammer",
+                "text": "Dieser Angriff fügt 2 Pokémon auf deiner Bank 30 Schadenspunkte zu. <i>(Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>",
+                "cost": "WWC",
+                "damage": "130",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "20",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/20.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/20_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_21",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cubchoo",
+        "evolvesInto": [
+            "Beartic"
+        ],
+        "name": "Petznief",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Kratzfurie",
+                "text": "Wirf 3 Münzen. Dieser Angriff fügt 10 Schadenspunkte mal der Anzahl „Kopf\" zu.",
+                "cost": "W",
+                "damage": "10x",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Eisesodem",
+                "text": "",
+                "cost": "WWC",
+                "damage": "40",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "21",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/21.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/21_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_22",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 130,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cubchoo",
+        "name": "Siberio",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Iglugriff",
+                "text": "Dieser Angriff fügt 20 weitere Schadenspunkte für jedes colorless-Symbol in den Rückzugskosten des Aktiven Pokémon deines Gegners zu.",
+                "cost": "CC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Gebirgssturz",
+                "text": "Wenn eine Stadionkarte im Spiel ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+                "cost": "WWCC",
+                "damage": "80+",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "22",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/22.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/22_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_23",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Clauncher",
+        "evolvesInto": [
+            "Clawitzer"
+        ],
+        "name": "Scampisto",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Blubber",
+                "text": "Wirf 1 Münze. Bei „Kopf\" ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Krabbhammer",
+                "text": "",
+                "cost": "WCC",
+                "damage": "30",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "23",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/23.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/23_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_24",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 100,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Clauncher",
+        "evolvesInto": [
+            "Clawitzer BREAK"
+        ],
+        "name": "Wummer",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Umkehrschub",
+                "text": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+                "cost": "W",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Spritzkanone",
+                "text": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte water-Energie zu.",
+                "cost": "CCC",
+                "damage": "50+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "24",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/24.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/24_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_25",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Restored"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil de Vela",
+        "evolvesInto": [
+            "Aurorus"
+        ],
+        "name": "Amarino",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Zertrampeln",
+                "text": "",
+                "cost": "W",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Aurorastrahl",
+                "text": "",
+                "cost": "WCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "25",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/25.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/25_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_26",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 130,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil de Vela",
+        "name": "Amagarga",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Eissturm",
+                "text": "Das Aktive Pokémon deines Gegners schläft jetzt.",
+                "cost": "WCCC",
+                "damage": "70",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Eisschild",
+                "text": "Schaden, der deinen water-Pokémon, an denen water-Energie angelegt ist, durch einen gegnerischen Angriff zugefügt wird, wird um 20 Schadenspunkte reduziert <i>(nachdem Schwäche und Resistenz verrechnet wurden).</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "26",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/26.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/26_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_27",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Alolan Raichu",
+            "Raichu",
+            "Raichu-GX"
+        ],
+        "name": "Pikachu",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Donnerschock",
+                "text": "Wirf 1 Münze. Bei „Kopf\" ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                "cost": "LC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "27",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/27.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/27_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_28",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Raichu BREAK"
+        ],
+        "name": "Raichu",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Donnerschock",
+                "text": "Wirf 1 Münze. Bei „Kopf\" ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                "cost": "LC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Elektroball",
+                "text": "",
+                "cost": "LLC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "28",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/28.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/28_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_29",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Electabuzz",
+        "evolvesInto": [
+            "Electivire",
+            "Electivire ex"
+        ],
+        "name": "Elektek",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Leichter Hieb",
+                "text": "",
+                "cost": "L",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Hinterhalt",
+                "text": "Wirf 1 Münze. Bei „Kopf\" fügt dieser Angriff 20 weitere Schadenspunkte zu.",
+                "cost": "LC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "29",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/29.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/29_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_30",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 120,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Electabuzz",
+        "name": "Elevoltek",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Tag-Team-Funken",
+                "text": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an deine Magbrant angelegt sind.",
+                "cost": "L",
+                "damage": "20+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Gigavolt",
+                "text": "Wirf 1 Münze. Bei „Kopf\" fügt dieser Angriff 30 weitere Schadenspunkte zu. Bei „Zahl\" ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                "cost": "LCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "30",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/30.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/30_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_31",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Plusle",
+        "name": "Plusle",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Positive Hand",
+                "text": "Lege 1 Basis-Energiekarte aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, ziehe 2 Karten.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Stromschweif",
+                "text": "Wirf 1 Münze. Bei „Kopf\" ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                "cost": "LC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "31",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/31.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/31_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_32",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Minun",
+        "name": "Minun",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Negative Ablage",
+                "text": "Nimm 2 Basis-Energiekarten von deinem Ablagestapel auf deine Hand.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Statischer Schock",
+                "text": "",
+                "cost": "L",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "32",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/32.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/32_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_33",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 120,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Thundurus",
+        "name": "Voltolos",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Wütender Donnerschlag",
+                "text": "Wenn an das Aktive Pokémon deines Gegners eine Pokémon-Ausrüstung angelegt ist, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+                "cost": "LC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Wuchtiger Einschlag",
+                "text": "Dieses Pokémon kann Wuchtiger Einschlag während deines nächsten Zuges nicht einsetzen.",
+                "cost": "LLC",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "33",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/33.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/33_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_34",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Dedenne",
+        "name": "Dedenne",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Zwango",
+                "text": "Durchsuche dein Deck nach bis zu 2 Basis-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Umkehrenergie",
+                "text": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der an das Aktive Pokémon deines Gegners angelegten Energien zu.",
+                "cost": "C",
+                "damage": "20x",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "34",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/34.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/34_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_35",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Drowzee",
+        "evolvesInto": [
+            "Hypno"
+        ],
+        "name": "Traumato",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Finsterer Vorschlag",
+                "text": "Immer wenn dein Gegner während seines nächsten Zuges 1 Münze wirft, wird das Ergebnis als „Zahl\" gewertet.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Psychoschuss",
+                "text": "",
+                "cost": "PP",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "35",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/35.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/35_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_36",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Drowzee",
+        "name": "Hypno",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Handkontrolle",
+                "text": "Dein Gegner deckt seine Handkarten auf. Wenn du darunter 1 Unterstützerkarte findest, kannst du deinen Gegner veranlassen, diese zu spielen. Wenn du das tust, triffst du alle Entscheidungen für diese Karte. (Diese Unterstützerkarte wird auf den Ablagestapel deines Gegners gelegt.)",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Hypnoschuss",
+                "text": "Das Aktive Pokémon deines Gegners schläft jetzt.",
+                "cost": "PPP",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "36",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/36.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/36_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_37",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jynx",
+        "name": "Rossana",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Hug",
+                "text": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+                "cost": "PCC",
+                "damage": "30",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Siegerkuss",
+                "text": "Einmal während deines Zuges <i>(vor deinem Angriff) </i>kannst du, wenn sich dieses Pokémon auf deiner Bank befindet, 10 Schadenspunkte bei deinem Aktiven Pokémon heilen."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "37",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/37.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/37_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_38",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Skorupi",
+        "evolvesInto": [
+            "Drapion"
+        ],
+        "name": "Pionskora",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Giftstachel",
+                "text": "Wirf 1 Münze. Bei „Kopf\" ist das Aktive Pokémon deines Gegners jetzt vergiftet.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Durchbohren",
+                "text": "",
+                "cost": "PCC",
+                "damage": "30",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "38",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/38.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/38_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_39",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 50,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Gothita",
+        "evolvesInto": [
+            "Gothorita"
+        ],
+        "name": "Mollimorba",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Hieb",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Konfusion",
+                "text": "Wirf 1 Münze. Bei „Kopf\" ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                "cost": "PC",
+                "damage": "10",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "39",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/39.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/39_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_40",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Gothita",
+        "evolvesInto": [
+            "Gothitelle"
+        ],
+        "name": "Hypnomorba",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Flüchtiger Glücksblick",
+                "text": "Schau dir die obersten 5 Karten des Decks deines Gegners an und lege sie in beliebiger Reihenfolge zurück auf sein Deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Klatscher",
+                "text": "",
+                "cost": "PC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "40",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/40.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/40_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_41",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 130,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Gothita",
+        "name": "Morbitesse",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Psycho-Offenlegung",
+                "text": "Dein Gegner deckt seine Handkarten auf.",
+                "cost": "PCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Teleportationsraum",
+                "text": "Einmal während deines Zuges <i>(vor deinem Angriff) </i>kannst du 1 beliebige Stadionkarte im Spiel auf den Ablagestapel legen. Wenn du das machst, nimm eine Stadionkarte mit anderem Namen aus deinem Ablagestapel und bringe diese ins Spiel."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "41",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/41.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/41_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_42",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Golett",
+        "evolvesInto": [
+            "Golurk"
+        ],
+        "name": "Golbit",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pfund",
+                "text": "",
+                "cost": "PC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Zertrümmerer",
+                "text": "Wirf 1 Münze. Bei „Kopf\" fügt dieser Angriff 30 weitere Schadenspunkte zu.",
+                "cost": "PCC",
+                "damage": "30+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "amount": "×2"
+            }
+        ],
+        "number": "42",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/42.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/42_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_43",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 130,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Golett",
+        "name": "Golgantes",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Abreißen",
+                "text": "Wenn eine Stadionkarte im Spiel ist, fügt dieser Angriff 60 weitere Schadenspunkte zu. Lege diese Stadionkarte auf den Ablagestapel.",
+                "cost": "PCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Golgantes-Hammer",
+                "text": "",
+                "cost": "PCCC",
+                "damage": "100",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "amount": "×2"
+            }
+        ],
+        "number": "43",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/43.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/43_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_44",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Machop",
+        "evolvesInto": [
+            "Machoke"
+        ],
+        "name": "Machollo",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Knöchelhieb",
+                "text": "",
+                "cost": "F",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "44",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/44.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/44_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_45",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Machop",
+        "evolvesInto": [
+            "Machamp",
+            "Machamp-GX"
+        ],
+        "name": "Maschock",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Niederprügler",
+                "text": "",
+                "cost": "FF",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "45",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/45.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/45_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_46",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 150,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Machop",
+        "evolvesInto": [
+            "Machamp BREAK"
+        ],
+        "name": "Machomei",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Machomei-Mühle",
+                "text": "Während des nächsten Zuges deines Gegners wird Schaden, der durch Angriffe des Verteidigenden Pokémon zugefügt wird, um 40 Schadenspunkte reduziert <i>(bevor Schwäche und Resistenz verrechnet werden).</i>",
+                "cost": "FFF",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Kampfgeist",
+                "text": "Jeder Angriff deiner fighting-Pokémon fügt dem Aktiven Pokémon deines Gegners 20 weitere Schadenspunkte zu <i>(bevor Schwäche und Resistenz verrechnet werden).</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "46",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/46.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/46_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_47",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Hitmonlee",
+        "name": "Kicklee",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Streckkick",
+                "text": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu. <i>(Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>",
+                "cost": "F",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Drehtritt",
+                "text": "",
+                "cost": "FF",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "47",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/47.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/47_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_48",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Hitmonchan",
+        "name": "Nockchan",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Patronenhieb",
+                "text": "Wirf 2 Münzen. Dieser Angriff fügt 20 weitere Schadenspunkte mal der Anzahl „Kopf\" zu.",
+                "cost": "CC",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Tempo-Cross",
+                "text": "",
+                "cost": "FCC",
+                "damage": "60",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "48",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/48.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/48_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_49",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Kapoera",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Schnellzieher",
+                "text": "Ziehe 1 Karte.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Helicoptero",
+                "text": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+                "cost": "FCC",
+                "damage": "40",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "49",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/49.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/49_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_50",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 100,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shroomish",
+        "name": "Kapilz",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Gigasauger",
+                "text": "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Aktiven Pokémon deines Gegners zugefügt hast.",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Himmelhieb",
+                "text": "Der Schaden dieses Angriffs wird durch Resistenz nicht verändert.",
+                "cost": "FFC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "50",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/50.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/50_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_51",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Makuhita",
+        "evolvesInto": [
+            "Hariyama"
+        ],
+        "name": "Makuhita",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Boxhieb",
+                "text": "",
+                "cost": "F",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Stärke",
+                "text": "",
+                "cost": "FCC",
+                "damage": "40",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "51",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/51.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/51_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_52",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 120,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Makuhita",
+        "name": "Hariyama",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Raketenklatscher",
+                "text": "",
+                "cost": "FCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Speckschicht",
+                "text": "Schaden, der diesem Pokémon durch Angriffe der fire- oder water- Pokémon deines Gegners zugefügt wird, wird um 30 Schadenspunkte reduziert <i>(nachdem Schwäche und Resistenz verrechnet wurden)</i>."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "52",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/52.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/52_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_53",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Trapinch",
+        "evolvesInto": [
+            "Vibrava"
+        ],
+        "name": "Knacklion",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Gipfelmampfer",
+                "text": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+                "cost": "F",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Lehmschelle",
+                "text": "",
+                "cost": "CC",
+                "damage": "10",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "53",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/53.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/53_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_54",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 180,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lucario-EX",
+        "evolvesInto": [
+            "M Lucario-EX"
+        ],
+        "name": "Lucario-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Wieselflinke Gerade",
+                "text": "Der Schaden dieses Angriffs wird durch Resistenz nicht verändert.",
+                "cost": "F",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Spindelschlag",
+                "text": "Du kannst so viele Karten ziehen, bis du 6 Karten auf der Hand hast.",
+                "cost": "FF",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Saltokick",
+                "text": "",
+                "cost": "FFF",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "54",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/54.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/54_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_55",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 220,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lucario-EX",
+        "name": "M Lucario-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Vorschnellende Faust",
+                "text": "Lege 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+                "cost": "FFF",
+                "damage": "140",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "55",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/55.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/55_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_56",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mienfoo",
+        "evolvesInto": [
+            "Mienshao"
+        ],
+        "name": "Lin-Fu",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Plumps",
+                "text": "",
+                "cost": "F",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Ausfall",
+                "text": "Wirf 1 Münze. Bei „Zahl\" hat dieser Angriff keine Auswirkungen.",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "56",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/56.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/56_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_57",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mienfoo",
+        "name": "Wie-Shu",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Aero-Kehre",
+                "text": "Nimm dieses Pokémon und alle daran angelegten Karten zurück auf deine Hand.",
+                "cost": "F",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Turmkick",
+                "text": "",
+                "cost": "CC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "57",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/57.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/57_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_58",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 120,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Landorus",
+        "name": "Demeteros",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Mächtiger Aufruf",
+                "text": "Lege 1 Basis-Energiekarte von deinem Ablagestapel an 1 Pokémon auf deiner Bank an.",
+                "cost": "F",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Sensensturz",
+                "text": "",
+                "cost": "FFC",
+                "damage": "90",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "58",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/58.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/58_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_59",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Pangoro"
+        ],
+        "name": "Pam-Pam",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Schiefe-Bahn-Entwicklung",
+                "text": "Wenn du mindestens 1 darkness-Pokémon auf deiner Bank hast, durchsuche dein Deck nach einer Karte, zu der sich dieses Pokémon entwickelt, und lege sie auf dieses Pokémon (dies zählt als Entwicklung dieses Pokémon). Mische anschließend dein Deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Konfrontieren",
+                "text": "",
+                "cost": "FCC",
+                "damage": "30",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "59",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/59.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/59_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_60",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Pangoro"
+        ],
+        "name": "Pam-Pam",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Kometenhieb",
+                "text": "Wirf 4 Münzen. Dieser Angriff fügt 10 Schadenspunkte mal der Anzahl „Kopf\" zu.",
+                "cost": "CC",
+                "damage": "10x",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "60",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/60.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/60_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_61",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Restored"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil de Mandíbula",
+        "evolvesInto": [
+            "Tyrantrum"
+        ],
+        "name": "Balgoras",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Nagen",
+                "text": "",
+                "cost": "FC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Knirscher",
+                "text": "Wirf 1 Münze. Lege bei „Kopf\" 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+                "cost": "FCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "61",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/61.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/61_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_62",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 150,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil de Mandíbula",
+        "name": "Monargoras",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Zerkauen",
+                "text": "Wenn an dem Aktiven Pokémon deines Gegners Spezial-Energie angelegt ist, fügt dieser Angriff 90 weitere Schadenspunkte zu.",
+                "cost": "FCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Gigastoß",
+                "text": "Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.",
+                "cost": "FFCC",
+                "damage": "150",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "62",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/62.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/62_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_63",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 70,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Hawlucha",
+        "name": "Resladero",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Flying Press",
+                "text": "Wenn das Aktive Pokémon deines Gegners kein Pokémon ex_atk ist, hat dieser Angriff keine Auswirkungen.",
+                "cost": "F",
+                "damage": "60",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Strahlende Geisteskraft",
+                "text": "Schaden der Angriffe dieses Pokémon wird durch Schwäche und Resistenz nicht verändert."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "63",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/63.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/63_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_64",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 130,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Hawlucha-EX",
+        "name": "Resladero-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Saltostampfer",
+                "text": "Wenn eine Stadionkarte im Spiel ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+                "cost": "FCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Gegenangriff",
+                "text": "Wenn dieses Pokémon dein Aktives Pokémon ist und durch einen gegnerischen Angriff Schaden erhält <i>(auch wenn dieses Pokémon dadurch kampfunfähig wird)</i>, lege 2 Schadensmarken auf das Angreifende Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "64",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/64.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/64_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_65",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 110,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Skorupi",
+        "name": "Piondragi",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Giftschock",
+                "text": "Wenn das Aktive Pokémon deines Gegners vergiftet ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+                "cost": "D",
+                "damage": "20+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Gifthauer",
+                "text": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                "cost": "DDCC",
+                "damage": "80",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "65",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/65.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/65_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_66",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Scrafty"
+        ],
+        "name": "Zurrokex",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Korkenzieherhieb",
+                "text": "",
+                "cost": "DD",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "66",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/66.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/66_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_67",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Irokex",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Fußkick",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Trommelfeuer-Kopfnuss",
+                "text": "Wirf 3 Münzen. Dieser Angriff fügt 50 Schadenspunkte mal der Anzahl „Kopf\" zu. Dieses Pokémon ist jetzt verwirrt.",
+                "cost": "DD",
+                "damage": "50x",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "67",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/67.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/67_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_68",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 120,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Pandagro",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Vermöbeln",
+                "text": "Du kannst 1 Itemkarte von deiner Hand auf den Ablagestapel legen. Wenn du das machst, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+                "cost": "DC",
+                "damage": "30+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Hammerarm",
+                "text": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
+                "cost": "DCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "68",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/68.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/68_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_69",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Clefable",
+            "Clefable ex"
+        ],
+        "name": "Piepi",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Mondschein",
+                "text": "Heile 30 Schadenspunkte bei diesem Pokémon.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Pfund",
+                "text": "",
+                "cost": "YC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "69",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/69.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/69_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_70",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Clefable",
+            "Clefable ex"
+        ],
+        "name": "Piepi",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Mondgewalt",
+                "text": "Während des nächsten Zuges deines Gegners wird Schaden, der durch Angriffe des Verteidigenden Pokémon zugefügt wird, um 10 Schadenspunkte reduziert <i>(bevor Schwäche und Resistenz verrechnet werden)</i>.",
+                "cost": "Y",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "70",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/70.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/70_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_71",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": "Pixi",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Spotlight",
+                "text": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Mondgewalt",
+                "text": "Während des nächsten Zuges deines Gegners wird Schaden, der durch Angriffe des Verteidigenden Pokémon zugefügt wird, um 30 Schadenspunkte reduziert <i>(bevor Schwäche und Resistenz verrechnet werden)</i>.",
+                "cost": "YC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "71",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/71.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/71_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Dark",
+                "amount": "--20"
+            }
+        ]
+    },
+    {
+        "id": "xy3_72",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Eevee",
+        "name": "Feelinara",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Ringelschleife",
+                "text": "Verschiebe 1 an das Aktive Pokémon deines Gegners angelegte Energie auf 1 Pokémon auf der Bank deines Gegners.",
+                "cost": "Y",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Widerhall",
+                "text": "Während deines nächsten Zuges fügt die Attacke Widerhall dieses Pokémon 50 weitere Schadenspunkte zu <i>(bevor Schwäche und Resistenz verrechnet werden)</i>.",
+                "cost": "YCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "72",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/72.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/72_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_73",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fairy"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Klefki",
+        "name": "Clavion",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Feenschloss",
+                "text": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen.",
+                "cost": "YC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Geheimschlüssel",
+                "text": "Die Resistenz jedes deiner fairy-Pokémon ist jetzt -40."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "73",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/73.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/73_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_74",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 180,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Dragonite-EX",
+        "name": "Dragoran-EX",
+        "rarity": "RareHoloEX",
+        "attacks": [
+            {
+                "name": "Schalldüse",
+                "text": "Du kannst 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel legen. Wenn du das machst, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+                "cost": "GGL",
+                "damage": "80+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Hereinplatzen",
+                "text": "Wenn du dieses Pokémon von deiner Hand spielst und auf deine Bank legst, kannst du beliebig viele Basis-Energien, die an deine Pokémon angelegt sind, auf dieses Pokémon verschieben. Wenn du das machst, tausche dieses Pokémon gegen dein Aktives Pokémon aus."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "74",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/74.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/74_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_75",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Trapinch",
+        "evolvesInto": [
+            "Flygon",
+            "Flygon ex",
+            "Flygon-GX"
+        ],
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Energielader",
+                "text": "Durchsuche dein Deck nach 2 Basis-Energiekarten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Schwingung",
+                "text": "",
+                "cost": "GF",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "75",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/75.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/75_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_76",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 130,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Trapinch",
+        "name": "Libelldra",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Regenbogenschauer",
+                "text": "Lege beliebig viele Basis-Energiekarten von deiner Hand nach Belieben an deine Pokémon an.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Sandfeger",
+                "text": "Heile 30 Schadenspunkte bei jedem deiner Pokémon, an das Energie angelegt ist.",
+                "cost": "GFC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "76",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/76.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/76_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_77",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 100,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Noivern BREAK"
+        ],
+        "name": "UHaFnir",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Überschallknall",
+                "text": "Dieser Angriff fügt jedem Pokémon deines Gegners 30 Schadenspunkte zu. <i>(Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>",
+                "cost": "PDC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Echo-Ortung",
+                "text": "Wirf 1 Münze, wenn diesem Pokémon durch Angriffe Schaden zugefügt wird. Bei „Kopf\" verhindere diesen Schaden."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "77",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/77.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/77_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_78",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lickitung",
+        "evolvesInto": [
+            "Lickilicky"
+        ],
+        "name": "Schlurp",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Ausfall",
+                "text": "Wirf 1 Münze. Bei „Zahl\" hat dieser Angriff keine Auswirkungen.",
+                "cost": "CCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "78",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/78.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/78_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_79",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 120,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lickitung",
+        "name": "Schlurplek",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Abschlag",
+                "text": "Nimm 1 zufällige Karte aus der verdeckten Hand deines Gegners und lege sie auf dessen Ablagestapel.",
+                "cost": "CCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Schlurstakkato",
+                "text": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl\" kommt. Dieser Angriff fügt 30 weitere Schadenspunkte mal der Anzahl „Kopf\" zu.",
+                "cost": "CCCC",
+                "damage": "60+",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "79",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/79.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/79_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_80",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 50,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Eevee",
+        "evolvesInto": [
+            "Espeon",
+            "Espeon ex",
+            "Espeon-GX",
+            "Flareon",
+            "Flareon ex",
+            "Flareon-GX",
+            "Glaceon",
+            "Glaceon ex",
+            "Glaceon-GX",
+            "Jolteon",
+            "Jolteon ex",
+            "Jolteon-GX",
+            "Leafeon",
+            "Leafeon ex",
+            "Leafeon-GX",
+            "Sylveon",
+            "Sylveon ex",
+            "Sylveon-GX",
+            "Umbreon",
+            "Umbreon ex",
+            "Umbreon-GX",
+            "Vaporeon",
+            "Vaporeon ex",
+            "Vaporeon-GX"
+        ],
+        "name": "Evoli",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Nagen",
+                "text": "",
+                "cost": "CC",
+                "damage": "10",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Energie-Evolution",
+                "text": "Wenn du 1 Basis-Energiekarte von deiner Hand an dieses Pokémon anlegst, kannst du dein Deck nach 1 Karte, die sich aus diesem Pokémon entwickelt und die denselben Energietyp wie diese Energiekarte hat, durchsuchen und sie auf dieses Pokémon legen. (Dies zählt als Entwicklung dieses Pokémon.) Mische anschließend dein Deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "80",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/80.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/80_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_81",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Slakoth",
+        "evolvesInto": [
+            "Vigoroth"
+        ],
+        "name": "Bummelz",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Großer Gähner",
+                "text": "Beide Aktiven Pokémon schlafen jetzt.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "81",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/81.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/81_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_82",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Slakoth",
+        "evolvesInto": [
+            "Slaking",
+            "Slaking ex"
+        ],
+        "name": "Muntier",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Kratzer",
+                "text": "",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Waghalsiger Sturmangriff",
+                "text": "Wirf 1 Münze. Bei „Zahl\" fügt sich dieses Pokémon selbst 20 Schadenspunkte zu.",
+                "cost": "CCC",
+                "damage": "70",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "82",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/82.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/82_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_83",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 150,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Slakoth",
+        "name": "Letarking",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Amnesie",
+                "text": "Wähle 1 Angriff des Aktiven Pokémon deines Gegners. Das Pokémon kann den gewählten Angriff während des nächsten Zuges deines Gegners nicht einsetzen.",
+                "cost": "CCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Keile",
+                "text": "Lege 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel.",
+                "cost": "CCCC",
+                "damage": "120",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "83",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/83.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/83_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_84",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Patrat",
+        "evolvesInto": [
+            "Watchog"
+        ],
+        "name": "Nagelotz",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Sicherheitscheck",
+                "text": "Sieh dir 1 deiner verdeckten Preiskarten an.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "84",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/84.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/84_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_85",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 80,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Patrat",
+        "name": "Kukmarda",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Itemkontrolle",
+                "text": "Dein Gegner deckt seine Handkarten auf. Wähle 1 Itemkarte aus, die du darunter findest. Dein Gegner mischt diese Karte zurück in sein Deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Gründlich Kauen",
+                "text": "Wirf 2 Münzen. Lege pro „Kopf\" 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "85",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/85.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/85_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_86",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 110,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Tornadus",
+        "name": "Boreos",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Runterdrücken",
+                "text": "Du kannst deinen Gegner dazu veranlassen, sein Aktives Pokémon gegen 1 Pokémon auf seiner Bank auszutauschen.",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Wirbelwurf",
+                "text": "Wenn du die gleiche Anzahl Karten auf der Hand hast wie dein Gegner, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "86",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/86.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/86_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_87",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 60,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "evolvesInto": [
+            "Noivern",
+            "Noivern ex",
+            "Noivern-GX"
+        ],
+        "name": "eF-eM",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Tackle",
+                "text": "",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Windstoß",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "87",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/87.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/87_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_88",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Kampfreporter",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "88",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/88.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/88_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_89",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Substituição de Energia",
+        "name": "Energie-Umschalter",
+        "rarity": "Uncommon",
+        "rules": [
+            "Verschiebe 1 an 1 deiner Pokémon angelegte Basis-Energie auf ein anderes deiner Pokémon."
+        ],
+        "number": "89",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/89.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/89_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_90",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Kampfhalle",
+        "rarity": "Uncommon",
+        "rules": [
+            "Die Angriffe jedes fighting-Pokémon im Spiel <i>(deiner und der deines Gegners) </i>fügen dem Aktiven Pokémon des Gegners 20 weitere Schadenspunkte zu, wenn es sich um ein Pokémon ex_atk handelt  <i>(bevor Schwäche und Resistenz verrechnet werden)</i>."
+        ],
+        "number": "90",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/90.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/90_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_91",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Fokusgurt",
+        "rarity": "Uncommon",
+        "rules": [
+            "Wenn das fighting-Pokémon, an das diese Karte angelegt ist, volle KP hat und durch Schaden eines gegnerischen Angriffs kampfunfähig würde, wird dieses Pokémon nicht kampfunfähig und behält stattdessen 10 KP. Lege diese Karte anschließend auf deinen Ablagestapel."
+        ],
+        "number": "91",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/91.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/91_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_92",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Fossilforscher",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "92",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/92.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/92_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_93",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cura Total",
+        "name": "Hyperheiler",
+        "rarity": "Uncommon",
+        "rules": [
+            "Alle Speziellen Zustände auf deinem Aktiven Pokémon verlieren ihre Wirkung."
+        ],
+        "number": "93",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/93.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/93_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_94",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil de Mandíbula",
+        "evolvesInto": [
+            "Tyrunt"
+        ],
+        "name": "Kieferfossil",
+        "rarity": "Uncommon",
+        "rules": [
+            "Schau dir die untersten 7 Karten deines Decks an. Falls du dort ein Balgoras findest, kannst du es deinem Gegner zeigen und auf deine Bank legen. Mische die anderen Karten anschließend in dein Deck."
+        ],
+        "number": "94",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/94.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/94_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_95",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Connie",
+        "rarity": "Uncommon",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "95",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/95.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/95_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_96",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Manutenção",
+        "name": "Wartung",
+        "rarity": "Uncommon",
+        "rules": [
+            "Mische 2 Karten von deiner Hand in dein Deck. (Wenn du keine 2 Karten in dein Deck mischen kannst, kannst du diese Karte nicht spielen.) Ziehe anschließend 1 Karte."
+        ],
+        "number": "96",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/96.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/96_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_97",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Gebirgsring",
+        "rarity": "Uncommon",
+        "rules": [
+            "Verhindere allen Schaden, der Pokémon auf der Bank durch Angriffe zugefügt würde <i>(deinen und denen deines Gegners).</i>"
+        ],
+        "number": "97",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/97.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/97_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_98",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil de Vela",
+        "evolvesInto": [
+            "Amaura"
+        ],
+        "name": "Flossenfossil",
+        "rarity": "Uncommon",
+        "rules": [
+            "Schau dir die untersten 7 Karten deines Decks an. Falls du dort ein Amarino findest, kannst du es deinem Gegner zeigen und auf deine Bank legen. Mische die anderen Karten anschließend in dein Deck."
+        ],
+        "number": "98",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/98.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/98_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_99",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Glänzender Mantel",
+        "rarity": "Uncommon",
+        "rules": [
+            "Das Pokémon, an das diese Karte angelegt ist, kann nicht von Speziellen Zuständen betroffen werden. (Alle Speziellen Zustände auf diesem Pokémon verlieren ihre Wirkung.)"
+        ],
+        "number": "99",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/99.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/99_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_100",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Super-recolhida",
+        "name": "Super-Anziehungskraft",
+        "rarity": "Uncommon",
+        "rules": [
+            "Wirf 1 Münze. Nimm bei „Kopf\" 1 deiner Pokémon und alle daran angelegten Karten zurück auf deine Hand."
+        ],
+        "number": "100",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/100.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/100_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_101",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Recuperador de Ferramentas",
+        "name": "Ausrüstungsgreifer",
+        "rarity": "Uncommon",
+        "rules": [
+            "Wähle bis zu 2 Pokémon-Ausrüstungen, die an deine Pokémon angelegt sind, und nimm sie auf deine Hand."
+        ],
+        "number": "101",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/101.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/101_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_102",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Trainingscenter",
+        "rarity": "Uncommon",
+        "rules": [
+            "Jedes Phase-1- und Phase-2-Pokémon im Spiel <i>(deine und die deines Gegners)</i> erhält +30 KP."
+        ],
+        "number": "102",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/102.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/102_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_103",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special Energy"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Kräuter-Energie",
+        "rarity": "Uncommon",
+        "rules": [
+            "\u0003Diese Karte kann nur an grass-Pokémon angelegt werden. Diese Karte liefert nur dann grass-Energie, während sie an ein grass-Pokémon angelegt ist.Wenn du diese Karte von deiner Hand an 1 deiner grass-Pokémon anlegst, heile 30 Schadenspunkte bei diesem Pokémon.(Lege diese Karte auf deinen Ablagestapel, wenn sie an eine andere Karte als ein grass-Pokémon angelegt ist.)"
+        ],
+        "number": "103",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/103.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/103_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_104",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special Energy"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Stärke-Energie",
+        "rarity": "Uncommon",
+        "rules": [
+            "\u0004Diese Karte kann nur an fighting-Pokémon angelegt werden. Diese Karte liefert nur dann fighting-Energie, wenn sie an ein fighting-Pokémon angelegt ist.Die Angriffe des fighting-Pokémon, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon deines Gegners 20 weitere Schadenspunkte zu <i>(bevor Schwäche und Resistenz verrechnet werden)</i>.(Lege diese Karte auf deinen Ablagestapel, wenn sie an eine andere Karte als ein fighting-Pokémon angelegt ist.)"
+        ],
+        "number": "104",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/104.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/104_hires.webp"
+        }
+    },
+    {
+        "id": "xy3_105",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 170,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Heracross-EX",
+        "evolvesInto": [
+            "M Heracross-EX"
+        ],
+        "name": "Skaraborn-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Schutzdruck",
+                "text": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert <i>(nachdem Schwäche und Resistenz verrechnet wurden)</i>.",
+                "cost": "GC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Gigakraft",
+                "text": "Du kannst mit diesem Angriff 40 weitere Schadenspunkte zufügen. Wenn du das machst, fügt dieses Pokémon sich selbst 20 Schadenspunkte zu.",
+                "cost": "GGC",
+                "damage": "80+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "105",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/105.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/105_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_106",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 180,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Seismitoad-EX",
+        "name": "Branawarz-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Vibro-Wumme",
+                "text": "Dein Gegner kann während seines nächsten Zuges keine Itemkarten von seiner Hand spielen.",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Granatenhammer",
+                "text": "Dieser Angriff fügt 2 Pokémon auf deiner Bank 30 Schadenspunkte zu. <i>(Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>",
+                "cost": "WWC",
+                "damage": "130",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "106",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/106.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/106_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_107",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 180,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lucario-EX",
+        "evolvesInto": [
+            "M Lucario-EX"
+        ],
+        "name": "Lucario-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Wieselflinke Gerade",
+                "text": "Der Schaden dieses Angriffs wird durch Resistenz nicht verändert.",
+                "cost": "F",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Spindelschlag",
+                "text": "Du kannst so viele Karten ziehen, bis du 6 Karten auf der Hand hast.",
+                "cost": "FF",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Saltokick",
+                "text": "",
+                "cost": "FFF",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "107",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/107.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/107_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_108",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "EX"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 180,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Dragonite-EX",
+        "name": "Dragoran-EX",
+        "rarity": "RareUltra",
+        "attacks": [
+            {
+                "name": "Schalldüse",
+                "text": "Du kannst 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel legen. Wenn du das machst, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+                "cost": "GGL",
+                "damage": "80+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Hereinplatzen",
+                "text": "Wenn du dieses Pokémon von deiner Hand spielst und auf deine Bank legst, kannst du beliebig viele Basis-Energien, die an deine Pokémon angelegt sind, auf dieses Pokémon verschieben. Wenn du das machst, tausche dieses Pokémon gegen dein Aktives Pokémon aus."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "amount": "×2"
+            }
+        ],
+        "number": "108",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/108.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/108_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_109",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Kampfreporter",
+        "rarity": "RareUltra",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "109",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/109.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/109_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_110",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Fossilforscher",
+        "rarity": "RareUltra",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "110",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/110.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/110_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_111",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "name": "Connie",
+        "rarity": "RareUltra",
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "111",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/111.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/111_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_112",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 220,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Heracross-EX",
+        "name": "M Skaraborn-EX",
+        "rarity": "RareSecret",
+        "attacks": [
+            {
+                "name": "Urknall-Horn",
+                "text": "Dieser Angriff fügt 180 Schadenspunkte minus 10 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu.",
+                "cost": "GGC",
+                "damage": "180â",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "112",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/112.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/112_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "xy3_113",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "EX",
+            "Mega"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 220,
+        "Release Date": "2014-08-13T17:00:00.0000000Z",
+        "Craftable Date": "2014-08-13 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lucario-EX",
+        "name": "M Lucario-EX",
+        "rarity": "RareSecret",
+        "attacks": [
+            {
+                "name": "Vorschnellende Faust",
+                "text": "Lege 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners.",
+                "cost": "FFF",
+                "damage": "140",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "113",
+        "regulationMark": "WIP",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/xy3/113.webp",
+            "large": "https://images.pokedata.ovh/de/xy3/113_hires.webp"
+        },
+        "resistances": []
+    }
+]

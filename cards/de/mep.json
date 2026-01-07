@@ -1,0 +1,1550 @@
+[
+    {
+        "id": "mebsp_1",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 160,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2025-09-25 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Chikorita",
+        "name": "Meganie",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Solarstrahl",
+                "text": "",
+                "cost": "GGCC",
+                "damage": "140",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Wildes Wachstum",
+                "text": "Jede an alle deine Pokémon angelegte Basis-grass-Energie liefert grassgrass-Energie. Der Effekt von Wildes Wachstum stapelt sich nicht."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "1",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/1.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/1_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_2",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 150,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2025-09-25 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sobble",
+        "name": "Intelleon",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Ausschalten",
+                "text": "Wähle 1 der Pokémon im Spiel mit den wenigsten verbleibenden KP <i>(1 deiner oder deines Gegners)</i>, außer diesem Pokémon, und es wird kampfunfähig.",
+                "cost": "W",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Wassertreffer",
+                "text": "Lege 1 Energie von diesem Pokémon auf deinen Ablagestapel.",
+                "cost": "W",
+                "damage": "110",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "2",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/2.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/2_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_3",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 140,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2025-09-25 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Abra",
+        "name": "Simsala",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Mächtige Hand",
+                "text": "Lege für jede Karte auf deiner Hand 2 Schadensmarken auf das Aktive Pokémon deines Gegners.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Psycho-Ziehen",
+                "text": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du diese Fähigkeit einsetzen. Ziehe 3 Karten."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "amount": "×2"
+            }
+        ],
+        "number": "3",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/3.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/3_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--30"
+            }
+        ]
+    },
+    {
+        "id": "mebsp_4",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 110,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2025-09-25 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Lunatone",
+        "name": "Lunastein",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Juwelenkraft",
+                "text": "",
+                "cost": "FF",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Lunarphase",
+                "text": "Einmal während deines Zuges, wenn du Sonnfel im Spiel hast, kannst du 1 Basis-fighting-Energiekarte aus deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Ziehe 3 Karten. Du kannst die Fähigkeit Lunarphase nur einmal pro Zug einsetzen."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "4",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/4.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/4_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_5",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 70,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2025-09-25 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Drifloon",
+        "evolvesInto": [
+            "Drifblim"
+        ],
+        "name": "Driftlon",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Ziehen",
+                "text": "Wirf 1 Münze. Wechsle bei Kopf 1 Pokémon von der Bank deines Gegners in die Aktive Position ein.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "amount": "×2"
+            }
+        ],
+        "number": "5",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/5.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/5_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--30"
+            }
+        ]
+    },
+    {
+        "id": "mebsp_6",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 110,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2025-09-25 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Drifloon",
+        "name": "Drifzepeli",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Schauriger Wind",
+                "text": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Ballonrückkehr",
+                "text": "Nimm dieses Pokémon und alle angelegten Karten auf deine Hand.",
+                "cost": "PP",
+                "damage": "110",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "amount": "×2"
+            }
+        ],
+        "number": "6",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/6.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/6_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--30"
+            }
+        ]
+    },
+    {
+        "id": "mebsp_7",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2025-09-25 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Psyduck",
+        "evolvesInto": [
+            "Golduck"
+        ],
+        "name": "Enton",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Ramme",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Feuchtigkeit",
+                "text": "Pokémon im Spiel <i>(deine und die deines Gegners)</i> verlieren jede Fähigkeit, die vom Pokémon, das sie einsetzt, erfordert, sich selbst kampfunfähig zu machen."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "7",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/7.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/7_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_8",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 120,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2025-09-25 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Psyduck",
+        "evolvesInto": [
+            "Golduck BREAK"
+        ],
+        "name": "Entoron",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Hydropumpe",
+                "text": "Diese Attacke fügt für jede an dieses Pokémon angelegte water-Energie 20 Schadenspunkte mehr zu.",
+                "cost": "CCC",
+                "damage": "60+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Feuchtigkeit",
+                "text": "Pokémon im Spiel <i>(deine und die deines Gegners)</i> verlieren jede Fähigkeit, die vom Pokémon, das sie einsetzt, erfordert, sich selbst kampfunfähig zu machen."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "amount": "×2"
+            }
+        ],
+        "number": "8",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/8.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/8_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_9",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 140,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2026-03-25 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Abra",
+        "name": "Simsala",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Mächtige Hand",
+                "text": "Lege für jede Karte auf deiner Hand 2 Schadensmarken auf das Aktive Pokémon deines Gegners.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Psycho-Ziehen",
+                "text": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du diese Fähigkeit einsetzen. Ziehe 3 Karten."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "amount": "×2"
+            }
+        ],
+        "number": "9",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/9.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/9_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--30"
+            }
+        ]
+    },
+    {
+        "id": "mebsp_10",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 80,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": "2026-03-25 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Riolu",
+        "evolvesInto": [
+            "Lucario",
+            "Lucario ex",
+            "Lucario-GX",
+            "Mega Lucario ex"
+        ],
+        "name": "Riolu",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Beschleunigter Stich",
+                "text": "Während deines nächsten Zuges kann dieses Pokémon Beschleunigter Stich nicht einsetzen.",
+                "cost": "F",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "10",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/10.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/10_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_11",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 280,
+        "Release Date": "2025-10-09T17:00:00.0000000Z",
+        "Craftable Date": "2025-10-09 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mega Latias ex",
+        "name": "Mega-Latias-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Beharken",
+                "text": "Du kannst dieses Pokémon gegen 1 Pokémon auf deiner Bank austauschen.",
+                "cost": "C",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Illusorischer Impuls",
+                "text": "Lege alle Energien von diesem Pokémon auf deinen Ablagestapel.",
+                "cost": "RPC",
+                "damage": "300",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "",
+                "amount": "×"
+            }
+        ],
+        "number": "11",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/11.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/11_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_12",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 340,
+        "Release Date": "2025-11-06T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-06 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Riolu",
+        "name": "Mega-Lucario-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Aura-Hieb",
+                "text": "Lege bis zu 3 Basis-fighting-Energiekarten aus deinem Ablagestapel beliebig an die Pokémon auf deiner Bank an.",
+                "cost": "F",
+                "damage": "130",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Mega-Mut",
+                "text": "Während deines nächsten Zuges kann dieses Pokémon Mega-Mut nicht einsetzen.",
+                "cost": "FF",
+                "damage": "270",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "amount": "×2"
+            }
+        ],
+        "number": "12",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/12.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/12_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_13",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 380,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bulbasaur",
+        "name": "Mega-Bisaflor-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Dschungelhalde",
+                "text": "Heile 30 Schadenspunkte bei diesem Pokémon.",
+                "cost": "GGGG",
+                "damage": "240",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Solartransfer",
+                "text": "Beliebig oft während deines Zuges kannst du diese Fähigkeit einsetzen. Verschiebe 1 Basis-grass-Energie von 1 deiner Pokémon auf 1 anderes deiner Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "amount": "×2"
+            }
+        ],
+        "number": "13",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/13.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/13_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_14",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 140,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Charcadet",
+        "name": "Azugladis",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Infernalischer Schlitzer",
+                "text": "Lege 4 Basis-fire-Energiekarten aus deiner Hand auf deinen Ablagestapel. Wenn du auf diese Weise nicht 4 Karten auf deinen Ablagestapel legen kannst, hat diese Attacke keine Auswirkungen.",
+                "cost": "R",
+                "damage": "220",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "14",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/14.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/14_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_15",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 130,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zacian",
+        "name": "Zacian",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Limitbruch",
+                "text": "Wenn dein Gegner 3 oder weniger verbleibende Preiskarten hat, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+                "cost": "PC",
+                "damage": "50+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "15",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/15.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/15_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_16",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 150,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Trapinch",
+        "name": "Libelldra",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Schneidender Wind",
+                "text": "",
+                "cost": "FF",
+                "damage": "130",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Sandschwingen",
+                "text": "\u0003Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du diese Fähigkeit einsetzen. Du kannst diese Fähigkeit auch einsetzen, wenn dieses Pokémon in der Aktiven Position ist und durch Schaden einer Attacke von Pokémon deines Gegners kampfunfähig wird. Lege die obersten 2 Karten des Decks deines Gegners auf seinen Ablagestapel."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "16",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/16.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/16_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_17",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 140,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Toxel",
+        "name": "Riffex",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Sanfter Hieb",
+                "text": "",
+                "cost": "DDC",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Unheilvolle Spannung",
+                "text": "Einmal während deines Zuges kannst du diese Fähigkeit einsetzen. Durchsuche dein Deck nach 1 Basis-darkness-Energiekarte und lege sie an 1 darkness-Pokémon auf deiner Bank an. Mische anschließend dein Deck. Wenn du auf diese Weise Energie an ein Pokémon angelegt hast, lege 2 Schadensmarken auf jenes Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "17",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/17.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/17_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_18",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 60,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cottonee",
+        "evolvesInto": [
+            "Whimsicott",
+            "Whimsicott ex",
+            "Whimsicott-GX"
+        ],
+        "name": "Waumboll",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Sammeln",
+                "text": "Ziehe 1 Karte.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "18",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/18.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/18_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_19",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 90,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Cottonee",
+        "name": "Elfun",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Heilender Flausch",
+                "text": "Heile allen Schaden bei 1 Pokémon auf deiner Bank.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Kehrtwende",
+                "text": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+                "cost": "P",
+                "damage": "50",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "amount": "×2"
+            }
+        ],
+        "number": "19",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/19.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/19_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_20",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 70,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sneasel",
+        "evolvesInto": [
+            "Weavile",
+            "Weavile-GX"
+        ],
+        "name": "Sniebel",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Schaufelkrallen",
+                "text": "",
+                "cost": "D",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Kratzer",
+                "text": "",
+                "cost": "DD",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "20",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/20.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/20_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_21",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 90,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sneasel",
+        "name": "Snibunna",
+        "rarity": "RareHolo",
+        "attacks": [
+            {
+                "name": "Vergeltungskralle",
+                "text": "Wenn dieses Pokémon 50 oder weniger verbleibende KP hat, fügt diese Attacke 170 Schadenspunkte mehr zu.",
+                "cost": "DD",
+                "damage": "20+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Zerschneider",
+                "text": "",
+                "cost": "DD",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "amount": "×2"
+            }
+        ],
+        "number": "21",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/21.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/21_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_22",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 70,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2026-05-13 19:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Charcadet",
+        "evolvesInto": [
+            "Armarouge",
+            "Armarouge ex",
+            "Ceruledge",
+            "Ceruledge ex"
+        ],
+        "name": "Knarbon",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Kraftsammler",
+                "text": "Durchsuche dein Deck nach bis zu 2 Basis-Energiekarten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck.",
+                "cost": "R",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Hacker",
+                "text": "",
+                "cost": "R",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "22",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/22.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/22_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_23",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 360,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2026-05-13 19:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Charmander",
+        "name": "Mega-Glurak X-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Inferno X",
+                "text": "Lege beliebig viele fire-Energien von deinen Pokémon auf deinen Ablagestapel, und diese Attacke fügt für jede Karte, die du auf diese Weise auf den Ablagestapel gelegt hast, 90 Schadenspunkte zu.",
+                "cost": "RR",
+                "damage": "90Ã",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "23",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/23.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/23_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_24",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 190,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2026-05-13 19:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Oricorio ex",
+        "name": "Choreogel-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Feuerflügel",
+                "text": "",
+                "cost": "RRC",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Begeisterter Turbo",
+                "text": "Beliebig oft während deines Zuges, wenn du mindestens 1 fire-Mega-Entwicklungs-Pokémon-{ex} im Spiel hast, kannst du diese Fähigkeit einsetzen. Lege 1 Basis-fire-Energiekarte aus deiner Hand an 1 fire-Pokémon auf deiner Bank an."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "amount": "×2"
+            }
+        ],
+        "number": "24",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/24.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/24_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_25",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 300,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": "2025-11-13 18:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mega Kangaskhan ex",
+        "name": "Mega-Kangama-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Schnellfeuerkombo",
+                "text": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 50 Schadenspunkte mehr pro Kopf zu.",
+                "cost": "CCC",
+                "damage": "200+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Besorgung machen",
+                "text": "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du diese Fähigkeit einsetzen. Ziehe 2 Karten. Du kannst die Fähigkeit Besorgung machen nur einmal pro Zug einsetzen."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "25",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/25.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/25_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_26",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 90,
+        "Release Date": "2025-10-23T17:00:00.0000000Z",
+        "Craftable Date": "2026-04-23 19:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Meloetta",
+        "name": "Meloetta",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Beruhigende Melodie",
+                "text": "Heile 120 Schadenspunkte bei 1 psychic-Pokémon auf deiner Bank.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Magischer Schuss",
+                "text": "",
+                "cost": "PC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "amount": "×2"
+            }
+        ],
+        "number": "26",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/26.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/26_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "amount": "--30"
+            }
+        ]
+    },
+    {
+        "id": "mebsp_27",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 100,
+        "Release Date": "2025-10-23T17:00:00.0000000Z",
+        "Craftable Date": "2026-04-23 19:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Gastly",
+        "evolvesInto": [
+            "Gengar",
+            "Gengar ex",
+            "Mega Gengar ex"
+        ],
+        "name": "Alpollo",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Spukschuss",
+                "text": "",
+                "cost": "D",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "amount": "×2"
+            }
+        ],
+        "number": "27",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/27.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/27_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "mebsp_28",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2025-11-13T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": "Feierliche Fanfare",
+        "rarity": "Rare",
+        "rules": [
+            "Einmal während des Zuges jedes Spielers kann jener Spieler 10 Schadenspunkte bei jedem seiner Pokémon heilen. Wenn ein Spieler auf diese Weise Schaden geheilt hat, endet sein Zug."
+        ],
+        "number": "28",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/de/mebsp/28.webp",
+            "large": "https://images.pokedata.ovh/de/mebsp/28_hires.webp"
+        }
+    }
+]
