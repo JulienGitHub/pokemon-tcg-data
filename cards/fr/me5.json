@@ -1,0 +1,6126 @@
+[
+    {
+        "id": "me5-1",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 110,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Tropius",
+        "name": "Tropius",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Arôme Fruité",
+                "text": "Regardez les 6 cartes du dessus de votre deck. Vous pouvez montrer le nombre voulu de Pokémon que vous y trouvez, puis les ajouter à votre main. Mélangez les autres cartes avec votre deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Lance-Soleil",
+                "text": "",
+                "cost": "GC",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "1",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/1.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/1_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-2",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Grubbin",
+        "evolvesInto": [
+            "Charjabug"
+        ],
+        "name": "Larvibule",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Sécrétion",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+                "cost": "C",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "2",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/2.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/2_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-3",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fomantis",
+        "evolvesInto": [
+            "Lurantis",
+            "Lurantis ex",
+            "Lurantis-GX"
+        ],
+        "name": "Mimantis",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Attaque Imprudente",
+                "text": "Ce Pokémon s'inflige aussi 10 dégâts.",
+                "cost": "G",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "3",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/3.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/3_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-4",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 260,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fomantis",
+        "name": "Floramantis-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Lame Animée",
+                "text": "Si ce Pokémon a été soigné pendant ce tour, cette attaque inflige 200 dégâts supplémentaires.",
+                "cost": "G",
+                "damage": "60+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Feuille Garde",
+                "text": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 50 dégâts de moins provenant des attaques <i>(après application de la Faiblesse et de la Résistance)</i>.",
+                "cost": "GC",
+                "damage": "140",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "4",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/4.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/4_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-5",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 30,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Poltchageist",
+        "evolvesInto": [
+            "Sinistcha",
+            "Sinistcha ex"
+        ],
+        "name": "Poltchageist",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Chute Furtive",
+                "text": "Placez un marqueur de dégâts sur le Pokémon Actif de votre adversaire.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Cachette en Douce",
+                "text": "Évitez tous les effets des attaques et des talents des Pokémon de votre adversaire infligés à ce Pokémon. <i>(Les dégâts ne sont pas un effet.)</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "5",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/5.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/5_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-6",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 60,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Poltchageist",
+        "name": "Théffroyable",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Pirouette Matcha",
+                "text": "Si vous avez au moins 6 Pokémon ayant le talent Cachette en Douce dans votre pile de défausse, placez 4 marqueurs de dégâts sur chacun des Pokémon de votre adversaire.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Cachette en Douce",
+                "text": "Évitez tous les effets des attaques et des talents des Pokémon de votre adversaire infligés à ce Pokémon. <i>(Les dégâts ne sont pas un effet.)</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "6",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/6.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/6_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-7",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Heatran",
+        "name": "Heatran",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Roussi",
+                "text": "Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+                "cost": "R",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Mur de Lave",
+                "text": "Pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon Brûlés.",
+                "cost": "RRC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "number": "7",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/7.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/7_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-8",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 350,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fennekin",
+        "name": "Méga-Goupelin-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Portail Passe-Passe",
+                "text": "Regardez les 9 cartes du dessus de votre deck. Vous pouvez placer sur votre Banc le nombre voulu de Pokémon que vous y trouvez. Mélangez les autres cartes avec votre deck.",
+                "cost": "R",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Lueur Sinistre",
+                "text": "Le Pokémon Actif de votre adversaire est maintenant Brûlé et Confus.",
+                "cost": "RCC",
+                "damage": "200",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "number": "8",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/8.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/8_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-9",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sizzlipede",
+        "evolvesInto": [
+            "Centiskorch"
+        ],
+        "name": "Grillepattes",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Feu Contrôlé",
+                "text": "Défaussez la carte du dessus du deck de votre adversaire.",
+                "cost": "R",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Horde d'Insectes",
+                "text": "Montrez les 7 cartes du dessous de votre deck. Cette attaque inflige 50 dégâts pour chaque Pokémon que vous y trouvez ayant l'attaque Horde d'Insectes. Mélangez ensuite les Pokémon montrés avec votre deck. Défaussez les autres cartes.",
+                "cost": "CCC",
+                "damage": "50x",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "number": "9",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/9.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/9_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-10",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sizzlipede",
+        "name": "Scolocendre",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Feu Contrôlé",
+                "text": "Défaussez les 2 cartes du dessus du deck de votre adversaire.",
+                "cost": "R",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Charge Énergétique",
+                "text": "Ce Pokémon s'inflige aussi 30 dégâts.",
+                "cost": "RCCC",
+                "damage": "160",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "number": "10",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/10.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/10_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-11",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 80,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Charcadet",
+        "evolvesInto": [
+            "Armarouge",
+            "Armarouge ex",
+            "Ceruledge",
+            "Ceruledge ex"
+        ],
+        "name": "Charbambin",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Coup de Poing Ultime",
+                "text": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+                "cost": "R",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "number": "11",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/11.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/11_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-12",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Charcadet",
+        "name": "Carmadura",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Légion de Flammes",
+                "text": "Cette attaque inflige 40 dégâts supplémentaires pour chacun de vos Pokémon de Banc auxquels au moins une Énergie fire est attachée.",
+                "cost": "R",
+                "damage": "40+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "number": "12",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/12.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/12_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-13",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Goldeen",
+        "evolvesInto": [
+            "Seaking"
+        ],
+        "name": "Poissirène",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Transpercement",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "13",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/13.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/13_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-14",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 110,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Goldeen",
+        "name": "Poissoroy",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Hydro-Jet",
+                "text": "Cette attaque inflige 30 dégâts à l'un des Pokémon de votre adversaire pour chaque Énergie water attachée à ce Pokémon. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "CCC",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "14",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/14.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/14_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-15",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 130,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Wailmer",
+        "evolvesInto": [
+            "Wailord",
+            "Wailord ex"
+        ],
+        "name": "Wailmer",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pistolet à O",
+                "text": "",
+                "cost": "WW",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Grosse Vague",
+                "text": "",
+                "cost": "WWW",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "15",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/15.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/15_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-16",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 380,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Wailmer",
+        "name": "Wailord-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Surf",
+                "text": "",
+                "cost": "WWW",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Écroulement",
+                "text": "Ce Pokémon est maintenant Endormi.",
+                "cost": "WWWWW",
+                "damage": "270",
+                "convertedEnergyCost": 5
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "16",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/16.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/16_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-17",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 100,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Relicanth",
+        "name": "Relicanth",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Dérouillée Fossile",
+                "text": "Cette attaque inflige 30 dégâts supplémentaires pour chacun de vos Pokémon de Banc ayant « Ancien » dans leur nom.",
+                "cost": "C",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "17",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/17.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/17_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-18",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Popplio",
+        "evolvesInto": [
+            "Brionne"
+        ],
+        "name": "Otaquin",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Écras'Face",
+                "text": "",
+                "cost": "W",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "18",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/18.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/18_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-19",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Popplio",
+        "evolvesInto": [
+            "Primarina",
+            "Primarina-GX"
+        ],
+        "name": "Otarlette",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Mégaphone",
+                "text": "",
+                "cost": "W",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "19",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/19.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/19_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-20",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 150,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Popplio",
+        "name": "Oratoria",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Retour Aquatique",
+                "text": "Mélangez avec votre deck ce Pokémon et toutes les cartes qui lui sont attachées.",
+                "cost": "WC",
+                "damage": "120",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Mélodie Fortifiante",
+                "text": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer l'un de vos Pokémon, vous pouvez utiliser ce talent. Soignez tous les dégâts de l'un de vos Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "20",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/20.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/20_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-21",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 80,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Finizen",
+        "evolvesInto": [
+            "Palafin",
+            "Palafin ex"
+        ],
+        "name": "Dofin",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Aileron Siphon",
+                "text": "Soignez 20 dégâts de ce Pokémon.",
+                "cost": "WW",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "21",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/21.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/21_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-22",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 150,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Finizen",
+        "name": "Superdofin",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Poing Justice",
+                "text": "S'il reste exactement une carte Récompense à votre adversaire, cette attaque inflige 200 dégâts supplémentaires.",
+                "cost": "WW",
+                "damage": "80+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "22",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/22.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/22_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-23",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Electrike",
+        "evolvesInto": [
+            "Manectric",
+            "Mega Manectric ex"
+        ],
+        "name": "Dynavolt",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Collecte",
+                "text": "Piochez une carte.",
+                "cost": "L",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Charge",
+                "text": "",
+                "cost": "LL",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "23",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/23.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/23_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-24",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 120,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Electrike",
+        "name": "Élecsprint",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Barrière Aveuglante",
+                "text": "Pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon Évolutifs.",
+                "cost": "LL",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Tranchant Sonique",
+                "text": "Les dégâts de cette attaque ne sont affectés par aucun effet en action sur le Pokémon Actif de votre adversaire.",
+                "cost": "LLL",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "24",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/24.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/24_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-25",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 100,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Grubbin",
+        "evolvesInto": [
+            "Vikavolt",
+            "Vikavolt-GX"
+        ],
+        "name": "Chrysapile",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Force Poigne",
+                "text": "",
+                "cost": "L",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Collision",
+                "text": "",
+                "cost": "LL",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "25",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/25.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/25_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-26",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 160,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Grubbin",
+        "name": "Lucanon",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Plongeon Rapide",
+                "text": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "L",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Giga Canon",
+                "text": "Si aucune Énergie lightning Voltaïque n'est attachée à ce Pokémon, cette attaque ne fait rien.",
+                "cost": "LL",
+                "damage": "260",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "26",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/26.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/26_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-27",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 270,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mega Zeraora ex",
+        "name": "Méga-Zeraora-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Poing Foudroyant",
+                "text": "Cette attaque inflige 60 dégâts pour chaque Énergie lightning attachée à ce Pokémon.",
+                "cost": "L",
+                "damage": "60x",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Zepto Tour",
+                "text": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+                "cost": "LLL",
+                "damage": "150",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "27",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/27.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/27_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-28",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 120,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Miraidon",
+        "name": "Miraidon",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Fatal-Foudre",
+                "text": "Ce Pokémon s'inflige aussi 30 dégâts.",
+                "cost": "LL",
+                "damage": "90",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Câble Photonique",
+                "text": "Si ce Pokémon est sur le Poste Actif et est mis K.O. par les dégâts d'une attaque de l'un des Pokémon de votre adversaire, déplacez jusqu'à 2 cartes Énergie lightning de base de ce Pokémon vers l'un de vos Pokémon de Banc."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "28",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/28.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/28_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-29",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Slowpoke",
+        "evolvesInto": [
+            "Mega Slowbro ex",
+            "Slowbro",
+            "Slowking",
+            "Slowking ex"
+        ],
+        "name": "Ramoloss",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Balance Tout",
+                "text": "Vous pouvez défausser le nombre voulu de cartes de votre main.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Coup d'Boule",
+                "text": "",
+                "cost": "CC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "29",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/29.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/29_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-30",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 130,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Slowpoke",
+        "name": "Flagadoss",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "À Fond",
+                "text": "Si vous n'avez aucune carte dans votre main, cette attaque inflige 160 dégâts supplémentaires.",
+                "cost": "P",
+                "damage": "50+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Psykoud'Boul",
+                "text": "",
+                "cost": "CCC",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "30",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/30.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/30_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-31",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 330,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Slowpoke",
+        "name": "Méga-Flagadoss-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Tournade",
+                "text": "Pendant le prochain tour de votre adversaire, si ce Pokémon subit les dégâts d'une attaque <i>(même si ce Pokémon est mis K.O.)</i>, placez 12 marqueurs de dégâts sur le Pokémon Attaquant.",
+                "cost": "PPP",
+                "damage": "180",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "31",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/31.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/31_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-32",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 100,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Jynx",
+        "name": "Lippoutou",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Bisou Intense",
+                "text": "À la fin du prochain tour de votre adversaire, défaussez le Pokémon Défenseur et toutes les cartes qui lui sont attachées.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Choc Mental",
+                "text": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+                "cost": "PC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "32",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/32.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/32_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-33",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 50,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shuppet",
+        "evolvesInto": [
+            "Banette",
+            "Banette ex",
+            "Banette-GX"
+        ],
+        "name": "Polichombr",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Suspension",
+                "text": "",
+                "cost": "P",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Cachette en Douce",
+                "text": "Évitez tous les effets des attaques et des talents des Pokémon de votre adversaire infligés à ce Pokémon. <i>(Les dégâts ne sont pas un effet.)</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "33",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/33.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/33_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-34",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 80,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Shuppet",
+        "name": "Branette",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Poupée Piocheuse",
+                "text": "Vous pouvez chercher dans votre deck une carte, puis l'ajouter à votre main. Mélangez ensuite votre deck.",
+                "cost": "P",
+                "damage": "80",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Cachette en Douce",
+                "text": "Évitez tous les effets des attaques et des talents des Pokémon de votre adversaire infligés à ce Pokémon. <i>(Les dégâts ne sont pas un effet.)</i>"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "34",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/34.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/34_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-35",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 60,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Spiritomb",
+        "name": "Spiritomb",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Fin Spirite",
+                "text": "Si vous avez au moins 13 Pokémon ayant le talent Cachette en Douce dans votre pile de défausse, choisissez 2 des Pokémon de votre adversaire et quadruplez le nombre de marqueurs de dégâts sur chacun d'eux.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "35",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/35.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/35_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-36",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Litwick",
+        "evolvesInto": [
+            "Lampent"
+        ],
+        "name": "Funécire",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Feu Follet",
+                "text": "",
+                "cost": "P",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "36",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/36.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/36_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-37",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 90,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Litwick",
+        "evolvesInto": [
+            "Chandelure",
+            "Mega Chandelure ex"
+        ],
+        "name": "Mélancolux",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Propagation de Lumière",
+                "text": "Cherchez dans votre deck jusqu'à 3 Mélancolux, puis placez-les sur votre Banc. Mélangez ensuite votre deck.",
+                "cost": "P",
+                "damage": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "37",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/37.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/37_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-38",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 350,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Litwick",
+        "name": "Méga-Lugulabre-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Labyrinthe Fantôme",
+                "text": "Cette attaque inflige 50 dégâts supplémentaires pour chaque colorless dans le Coût de Retraite du Pokémon Actif de votre adversaire.",
+                "cost": "PP",
+                "damage": "130+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Flamme Entravante",
+                "text": "Le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté de colorless."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "38",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/38.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/38_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-39",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Dhelmise",
+        "name": "Sinistrail",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Ancre Vengeresse",
+                "text": "Si vous avez au moins 4 Pokémon ayant le talent Cachette en Douce dans votre pile de défausse, cette attaque inflige 140 dégâts supplémentaires.",
+                "cost": "P",
+                "damage": "30+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "39",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/39.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/39_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-40",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 90,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Marshadow",
+        "name": "Marshadow",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Nœud Sombre",
+                "text": "Cette attaque inflige 30 dégâts pour chaque colorless dans le Coût de Retraite du Pokémon Actif de votre adversaire.",
+                "cost": "P",
+                "damage": "30x",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "40",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/40.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/40_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-41",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 150,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mankey",
+        "name": "Courrousinge",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Coup Spectral",
+                "text": "Placez 5 marqueurs de dégâts sur l'un des Pokémon de Banc de votre adversaire.",
+                "cost": "PP",
+                "damage": "100",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Corps Solide",
+                "text": "Si ce Pokémon doit être mis K.O. par les dégâts d'une attaque, lancez une pièce. Si c'est face, ce Pokémon n'est pas mis K.O. et il lui reste 10 PV."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "41",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/41.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/41_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-42",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 50,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mankey",
+        "evolvesInto": [
+            "Primeape"
+        ],
+        "name": "Férosinge",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Balayage",
+                "text": "",
+                "cost": "C",
+                "damage": "20",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "number": "42",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/42.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/42_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-43",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 110,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mankey",
+        "evolvesInto": [
+            "Annihilape",
+            "Annihilape ex"
+        ],
+        "name": "Colossinge",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Poing Tire-Bouchon",
+                "text": "",
+                "cost": "CC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "number": "43",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/43.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/43_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-44",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 100,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Crânio Arcaico",
+        "evolvesInto": [
+            "Rampardos",
+            "Rampardos ex"
+        ],
+        "name": "Kranidos",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Recul",
+                "text": "Envoyez le Pokémon Actif de votre adversaire sur le Banc. <i>(Votre adversaire choisit le nouveau Pokémon Actif.)</i>",
+                "cost": "FF",
+                "damage": "70",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "44",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/44.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/44_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-45",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 330,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Crânio Arcaico",
+        "name": "Charkos-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Marteau Tumultueux",
+                "text": "Pendant votre prochain tour, les attaques utilisées par ce Pokémon infligent 150 dégâts supplémentaires au Pokémon Actif de votre adversaire <i>(avant application de la Faiblesse et de la Résistance)</i>.",
+                "cost": "FF",
+                "damage": "150",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Coup d'Boule Destructeur",
+                "text": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez utiliser ce talent. Lancez une pièce. Si c'est face, défaussez une Énergie du Pokémon Actif de votre adversaire."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "45",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/45.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/45_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-46",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Drilbur",
+        "evolvesInto": [
+            "Excadrill",
+            "Excadrill ex",
+            "Mega Excadrill ex"
+        ],
+        "name": "Rototaupe",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Appel à la Famille",
+                "text": "Cherchez dans votre deck jusqu'à 2 Pokémon de base, puis placez-les sur votre Banc. Mélangez ensuite votre deck.",
+                "cost": "C",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Creusogriffes",
+                "text": "",
+                "cost": "CCC",
+                "damage": "50",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "46",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/46.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/46_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-47",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 130,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Koraidon",
+        "name": "Koraidon",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Griffe de Combat",
+                "text": "Si le Pokémon Actif de votre adversaire est un Pokémon Évolutif, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "F",
+                "damage": "30+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Impact de Gaïa",
+                "text": "Défaussez toutes les Énergies de ce Pokémon.",
+                "cost": "FFC",
+                "damage": "190",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "number": "47",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/47.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/47_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-48",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 280,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Mega Darkrai ex",
+        "name": "Méga-Darkrai-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Raid Crépusculaire",
+                "text": "Si au moins un marqueur de dégâts est placé sur vos Pokémon de Banc, cette attaque inflige 110 dégâts supplémentaires.",
+                "cost": "DD",
+                "damage": "110+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Œil Abyssal",
+                "text": "Si le Pokémon Actif de votre adversaire est affecté par un État Spécial, il est mis K.O.",
+                "cost": "DDD",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "48",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/48.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/48_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-49",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Vullaby",
+        "evolvesInto": [
+            "Mandibuzz",
+            "Mandibuzz ex"
+        ],
+        "name": "Vostourno",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Battement",
+                "text": "",
+                "cost": "D",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Tornade",
+                "text": "",
+                "cost": "DC",
+                "damage": "20",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "49",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/49.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/49_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-50",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 120,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Vullaby",
+        "evolvesInto": [
+            "Mandibuzz BREAK"
+        ],
+        "name": "Vaututrice",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Sniper Osseux",
+                "text": "Cette attaque inflige 70 dégâts à l'un des Pokémon de votre adversaire auxquels au moins une Énergie spéciale est attachée. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "D",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Vent Impitoyable",
+                "text": "",
+                "cost": "DDC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "50",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/50.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/50_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-51",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 60,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Inkay",
+        "evolvesInto": [
+            "Malamar"
+        ],
+        "name": "Sepiatop",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Acquisition",
+                "text": "Cherchez dans votre deck une carte Objet, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+                "cost": "D",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Attaque Tournante",
+                "text": "",
+                "cost": "DD",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "51",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/51.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/51_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-52",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 120,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Inkay",
+        "name": "Sepiatroce",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Affolement",
+                "text": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+                "cost": "D",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Écrasement Cérébral",
+                "text": "Si le Pokémon Actif de votre adversaire n'est pas Confus, cette attaque ne fait rien.",
+                "cost": "D",
+                "damage": "130",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "52",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/52.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/52_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-53",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Nickit",
+        "evolvesInto": [
+            "Thievul"
+        ],
+        "name": "Goupilou",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Ronge",
+                "text": "",
+                "cost": "D",
+                "damage": "10",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Ruade",
+                "text": "",
+                "cost": "DC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "53",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/53.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/53_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-54",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 100,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Nickit",
+        "name": "Roublenard",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Vol de Compétence",
+                "text": "Si vous n'avez aucune carte dans votre main, choisissez une attaque de l'un des Pokémon en jeu de votre adversaire et utilisez-la en tant que cette attaque.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Croc Aiguisé",
+                "text": "",
+                "cost": "DCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "54",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/54.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/54_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-55",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 180,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Morpeko ex",
+        "name": "Morpeko-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Pioche Roulette",
+                "text": "Mélangez votre main avec votre deck. Ensuite, piochez 6 cartes.",
+                "cost": "D",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Explosion Affamée",
+                "text": "Cette attaque inflige 40 dégâts supplémentaires pour chaque marqueur de dégâts sur ce Pokémon.",
+                "cost": "DD",
+                "damage": "40+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "55",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/55.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/55_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-56",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 130,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zarude",
+        "name": "Zarude",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Soulève Corne",
+                "text": "Cette attaque inflige aussi 30 dégâts à l'un de vos Pokémon de Banc. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>",
+                "cost": "D",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Fouet Sombre",
+                "text": "Si au moins une Énergie darkness Sombre est attachée à vos Pokémon de Banc, cette attaque inflige 70 dégâts supplémentaires.",
+                "cost": "DDD",
+                "damage": "100+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "56",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/56.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/56_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-57",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Maschiff",
+        "evolvesInto": [
+            "Mabosstiff",
+            "Mabosstiff ex"
+        ],
+        "name": "Grondogue",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Morsure",
+                "text": "",
+                "cost": "DD",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "57",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/57.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/57_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-58",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Maschiff",
+        "name": "Dogrino",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Morsure",
+                "text": "",
+                "cost": "DD",
+                "damage": "60",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Coup d'Boule Plongeant",
+                "text": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 100 dégâts supplémentaires provenant des attaques <i>(après application de la Faiblesse et de la Résistance).</i>",
+                "cost": "DDD",
+                "damage": "210",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "58",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/58.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/58_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-59",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 90,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Chi-Yu",
+        "name": "Yuyu",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Jalousie Tourbillonnante",
+                "text": "Si ce Pokémon a au moins 2 marqueurs de dégâts, cette attaque inflige 90 dégâts supplémentaires. Les dégâts de cette attaque ne sont pas affectés par la Faiblesse.",
+                "cost": "D",
+                "damage": "20+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "59",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/59.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/59_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-60",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 120,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Skarmory",
+        "name": "Airmure",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Lame d'Acier",
+                "text": "Défaussez jusqu'à 2 cartes Énergie metal de base de votre main. Cette attaque inflige 40 dégâts pour chaque carte défaussée de cette façon.",
+                "cost": "M",
+                "damage": "40x",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "60",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/60.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/60_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-61",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 100,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Armadura Arcaico",
+        "evolvesInto": [
+            "Bastiodon"
+        ],
+        "name": "Dinoclier",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Pulvérisation",
+                "text": "Défaussez une Énergie du Pokémon Actif de votre adversaire.",
+                "cost": "MC",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "61",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/61.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/61_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-62",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 160,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Armadura Arcaico",
+        "name": "Bastiodon",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Enfoncement",
+                "text": "",
+                "cost": "MMC",
+                "damage": "160",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Rempart Antique",
+                "text": "Tant que ce Pokémon est sur votre Banc, évitez tous les dégâts infligés à chacun de vos Pokémon par les attaques des Pokémon de votre adversaire auxquels 2 Énergies ou moins sont attachées."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "62",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/62.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/62_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-63",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 80,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bronzor",
+        "evolvesInto": [
+            "Bronzong"
+        ],
+        "name": "Archéomire",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Attaque Miroir",
+                "text": "Si le Pokémon Actif de votre adversaire est un Pokémon metal, cette attaque inflige 30 dégâts supplémentaires.",
+                "cost": "M",
+                "damage": "10+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "63",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/63.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/63_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-64",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 130,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bronzor",
+        "evolvesInto": [
+            "Bronzong BREAK"
+        ],
+        "name": "Archéodong",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Gifle Douce",
+                "text": "",
+                "cost": "M",
+                "damage": "40",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Bloc Métal",
+                "text": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 100 dégâts de moins provenant des attaques de Pokémon Évolutifs <i>(après application de la Faiblesse et de la Résistance)</i>.",
+                "cost": "MMC",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "64",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/64.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/64_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-65",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 340,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Drilbur",
+        "name": "Méga-Minotaupe-ex",
+        "rarity": "DoubleRare",
+        "attacks": [
+            {
+                "name": "Sape Souterraine",
+                "text": "Défaussez les 2 cartes du dessus du deck de votre adversaire.",
+                "cost": "MM",
+                "damage": "90",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Perçage Maximum",
+                "text": "Si au moins 2 Énergies supplémentaires sont attachées à ce Pokémon <i>(en plus du coût de cette attaque)</i>, cette attaque inflige 130 dégâts supplémentaires.",
+                "cost": "MMM",
+                "damage": "200+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "65",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/65.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/65_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-66",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pikipek",
+        "evolvesInto": [
+            "Trumbeak"
+        ],
+        "name": "Picassaut",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Entaille Double",
+                "text": "Lancez 2 pièces. Cette attaque inflige 10 dégâts pour chaque côté face.",
+                "cost": "C",
+                "damage": "10x",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "66",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/66.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/66_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-67",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 90,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pikipek",
+        "evolvesInto": [
+            "Toucannon"
+        ],
+        "name": "Piclairon",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Vol",
+                "text": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et effets provenant d'attaques infligés à ce Pokémon.",
+                "cost": "C",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "67",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/67.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/67_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-68",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 150,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Pikipek",
+        "name": "Bazoucan",
+        "rarity": "Uncommon",
+        "attacks": [
+            {
+                "name": "Rondo Plumeux",
+                "text": "Cette attaque inflige 20 dégâts supplémentaires pour chacun des Pokémon de Banc <i>(les vôtres et ceux de votre adversaire)</i>.",
+                "cost": "C",
+                "damage": "60+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Pioche Aérienne",
+                "text": "Une fois pendant votre tour, vous pouvez utiliser ce talent. Piochez une carte."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "68",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/68.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/68_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-69",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 110,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Tipo Nulo",
+        "evolvesInto": [
+            "Silvally",
+            "Silvally-GX"
+        ],
+        "name": "Type:0",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Lame Redoutable",
+                "text": "",
+                "cost": "CC",
+                "damage": "40",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "69",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/69.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/69_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-70",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Tipo Nulo",
+        "name": "Silvallié",
+        "rarity": "Rare",
+        "attacks": [
+            {
+                "name": "Lame d'Air",
+                "text": "Défaussez une Énergie de ce Pokémon.",
+                "cost": "CCC",
+                "damage": "130",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Appel à un Ami",
+                "text": "Une fois pendant votre tour, si vous n'avez aucune carte dans votre main, vous pouvez utiliser ce talent. Cherchez dans votre deck une carte Supporter, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "70",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/70.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/70_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-71",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 100,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bombirdier",
+        "name": "Lestombaile",
+        "rarity": "Common",
+        "attacks": [
+            {
+                "name": "Livraison Difficile",
+                "text": "Lancez 2 pièces. Si vous obtenez 2 côtés face, cherchez dans votre deck un Pokémon, puis placez-le sur votre Banc. Mélangez ensuite votre deck.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Ailes Vives",
+                "text": "",
+                "cost": "CCC",
+                "damage": "100",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "71",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/71.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/71_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-72",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Item-Pokemon"
+        ],
+        "types": [],
+        "hp": 60,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Armadura Arcaico",
+        "evolvesInto": [
+            "Shieldon"
+        ],
+        "name": "Fossile Armure Ancien",
+        "rarity": "Common",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "[Ability] Armure Protectrice",
+                "text": "Tant que ce Pokémon est sur le Poste Actif, tous vos Pokémon subissent 10 dégâts de moins provenant des attaques des Pokémon de votre adversaire <i>(après application de la Faiblesse et de la Résistance)</i>."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "",
+                "value": "×"
+            }
+        ],
+        "number": "72",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/72.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/72_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-73",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Item-Pokemon"
+        ],
+        "types": [],
+        "hp": 60,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Fóssil Crânio Arcaico",
+        "evolvesInto": [
+            "Cranidos"
+        ],
+        "name": "Fossile Crâne Ancien",
+        "rarity": "Common",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "[Ability] Crâne Épineux",
+                "text": "Si ce Pokémon est sur le Poste Actif et qu'il subit les dégâts d'une attaque de l'un des Pokémon de votre adversaire <i>(même si ce Pokémon est mis K.O.)</i>, placez 3 marqueurs de dégâts sur le Pokémon Attaquant."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "",
+                "value": "×"
+            }
+        ],
+        "number": "73",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [],
+        "convertedRetreatCost": 0,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/73.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/73_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-74",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Badge Rebelote",
+        "rarity": "Uncommon",
+        "rules": [
+            "Une fois pendant votre tour, après avoir lancé au moins une pièce pour une attaque du Pokémon colorless auquel cette carte est attachée, vous pouvez ignorer le résultat de ces lancers de pièce et lancer ces pièces à nouveau."
+        ],
+        "number": "74",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/74.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/74_hires.webp"
+        }
+    },
+    {
+        "id": "me5-75",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Sino Sombrio",
+        "name": "Cloche Ténébreuse",
+        "rarity": "Uncommon",
+        "rules": [
+            "Les deux Pokémon non-darkness Actifs sont maintenant Confus."
+        ],
+        "number": "75",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/75.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/75_hires.webp"
+        }
+    },
+    {
+        "id": "me5-76",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Carrière Fossile",
+        "rarity": "Uncommon",
+        "rules": [
+            "Une fois pendant le tour de chaque personne, cette personne-là peut chercher dans son deck jusqu'à 2 cartes Objet ayant « Ancien » dans leur nom et les placer sur son Banc. Cette personne mélange ensuite son deck."
+        ],
+        "number": "76",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/76.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/76_hires.webp"
+        }
+    },
+    {
+        "id": "me5-77",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Combat Final de Gladio",
+        "rarity": "Uncommon",
+        "rules": [
+            "\u0003Vous ne pouvez utiliser cette carte que si c'est votre dernière carte en main.Pendant ce tour, les attaques utilisées par vos Pokémon n'ayant pas d'encadré <i>Règle</i> infligent 80 dégâts supplémentaires au Pokémon Actif de votre adversaire <i>(avant application de la Faiblesse et de la Résistance)</i>. <i>(Les Pokémon-{ex}, Pokémon-v_atk, etc. ont des encadrés</i> Règle<i>.)</i>"
+        ],
+        "number": "77",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/77.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/77_hires.webp"
+        }
+    },
+    {
+        "id": "me5-78",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Albia",
+        "rarity": "Uncommon",
+        "rules": [
+            "Défaussez jusqu'à 2 Pokémon n'ayant pas d'encadré <i>Règle</i> de votre main, puis piochez 3 cartes pour chaque carte défaussée de cette façon. <i>(Les Pokémon-{ex}, Pokémon-v_atk, etc. ont des encadrés</i> Règle<i>.)</i>"
+        ],
+        "number": "78",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/78.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/78_hires.webp"
+        }
+    },
+    {
+        "id": "me5-79",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Bridjet",
+        "rarity": "Uncommon",
+        "rules": [
+            "Piochez une carte pour chacun des Pokémon-{ex} Méga-Évolution en jeu de votre adversaire."
+        ],
+        "number": "79",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/79.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/79_hires.webp"
+        }
+    },
+    {
+        "id": "me5-80",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter",
+            "Trainer-Owned"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Vitalité d'Ondine",
+        "rarity": "Uncommon",
+        "rules": [
+            "Cherchez dans votre deck jusqu'à 4 cartes Énergie water de base, puis attachez-les à l'un de vos Pokémon. Mélangez ensuite votre deck. Votre tour se termine."
+        ],
+        "number": "80",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/80.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/80_hires.webp"
+        }
+    },
+    {
+        "id": "me5-81",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Sbire du Clan Dérouillard",
+        "rarity": "Uncommon",
+        "rules": [
+            "Vous ne pouvez utiliser cette carte que si au moins l'un de vos Pokémon a été mis K.O. pendant le dernier tour de votre adversaire.Défaussez une Énergie de l'un des Pokémon de votre adversaire."
+        ],
+        "number": "81",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/81.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/81_hires.webp"
+        }
+    },
+    {
+        "id": "me5-82",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Bombe Géniale",
+        "rarity": "Uncommon",
+        "rules": [
+            "\u0003Si le Pokémon auquel cette carte est attachée n'est pas un Pokémon-{ex} Méga-Évolution, qu'il est sur le Poste Actif et qu'il subit au moins 240 dégâts d'une attaque de l'un des Pokémon-{ex} Méga-Évolution de votre adversaire <i>(même si ce Pokémon est mis K.O.)</i>, placez 12 marqueurs de dégâts sur le Pokémon Attaquant. Si vous avez placé au moins un marqueur de dégâts de cette façon, défaussez cette carte."
+        ],
+        "number": "82",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/82.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/82_hires.webp"
+        }
+    },
+    {
+        "id": "me5-83",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special Energy"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Énergie {D} Sombre",
+        "rarity": "Rare",
+        "rules": [
+            "Tant que cette carte est attachée à un Pokémon, elle fournit une Énergie darkness. Tant que le Pokémon darkness auquel cette carte est attachée est sur votre Banc, évitez tous les dégâts qui lui sont infligés par les attaques des Pokémon de votre adversaire."
+        ],
+        "number": "83",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/83.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/83_hires.webp"
+        }
+    },
+    {
+        "id": "me5-84",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special Energy"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2026-07-16 19:00:00",
+        "Craftable": 1,
+        "name": "Énergie {L} Voltaïque",
+        "rarity": "Rare",
+        "rules": [
+            "Tant que cette carte est attachée à un Pokémon, elle fournit une Énergie lightning. Les attaques utilisées par le Pokémon lightning auquel cette carte est attachée infligent 20 dégâts supplémentaires au Pokémon Actif de votre adversaire <i>(avant application de la Faiblesse et de la Résistance)</i>."
+        ],
+        "number": "84",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/84.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/84_hires.webp"
+        }
+    },
+    {
+        "id": "me5-85",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Fomantis",
+        "evolvesInto": [
+            "Lurantis",
+            "Lurantis ex",
+            "Lurantis-GX"
+        ],
+        "name": "Mimantis",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Attaque Imprudente",
+                "text": "Ce Pokémon s'inflige aussi 10 dégâts.",
+                "cost": "G",
+                "damage": "30",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "85",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/85.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/85_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-86",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Charcadet",
+        "name": "Carmadura",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Légion de Flammes",
+                "text": "Cette attaque inflige 40 dégâts supplémentaires pour chacun de vos Pokémon de Banc auxquels au moins une Énergie fire est attachée.",
+                "cost": "R",
+                "damage": "40+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "number": "86",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/86.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/86_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-87",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 70,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Goldeen",
+        "evolvesInto": [
+            "Seaking"
+        ],
+        "name": "Poissirène",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Transpercement",
+                "text": "",
+                "cost": "CC",
+                "damage": "30",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "87",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/87.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/87_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-88",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 150,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Popplio",
+        "name": "Oratoria",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Retour Aquatique",
+                "text": "Mélangez avec votre deck ce Pokémon et toutes les cartes qui lui sont attachées.",
+                "cost": "WC",
+                "damage": "120",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Mélodie Fortifiante",
+                "text": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer l'un de vos Pokémon, vous pouvez utiliser ce talent. Soignez tous les dégâts de l'un de vos Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "88",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/88.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/88_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-89",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 120,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Electrike",
+        "name": "Élecsprint",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Barrière Aveuglante",
+                "text": "Pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon Évolutifs.",
+                "cost": "LL",
+                "damage": "50",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Tranchant Sonique",
+                "text": "Les dégâts de cette attaque ne sont affectés par aucun effet en action sur le Pokémon Actif de votre adversaire.",
+                "cost": "LLL",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "89",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/89.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/89_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-90",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 130,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Slowpoke",
+        "name": "Flagadoss",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "À Fond",
+                "text": "Si vous n'avez aucune carte dans votre main, cette attaque inflige 160 dégâts supplémentaires.",
+                "cost": "P",
+                "damage": "50+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Psykoud'Boul",
+                "text": "",
+                "cost": "CCC",
+                "damage": "110",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "90",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/90.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/90_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-91",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Dhelmise",
+        "name": "Sinistrail",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Ancre Vengeresse",
+                "text": "Si vous avez au moins 4 Pokémon ayant le talent Cachette en Douce dans votre pile de défausse, cette attaque inflige 140 dégâts supplémentaires.",
+                "cost": "P",
+                "damage": "30+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "91",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/91.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/91_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-92",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 100,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Nickit",
+        "name": "Roublenard",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Vol de Compétence",
+                "text": "Si vous n'avez aucune carte dans votre main, choisissez une attaque de l'un des Pokémon en jeu de votre adversaire et utilisez-la en tant que cette attaque.",
+                "cost": "CC",
+                "damage": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Croc Aiguisé",
+                "text": "",
+                "cost": "DCC",
+                "damage": "80",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "92",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/92.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/92_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-93",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 160,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Fóssil Armadura Arcaico",
+        "name": "Bastiodon",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Enfoncement",
+                "text": "",
+                "cost": "MMC",
+                "damage": "160",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Rempart Antique",
+                "text": "Tant que ce Pokémon est sur votre Banc, évitez tous les dégâts infligés à chacun de vos Pokémon par les attaques des Pokémon de votre adversaire auxquels 2 Énergies ou moins sont attachées."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "93",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/93.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/93_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-94",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 150,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Pikipek",
+        "name": "Bazoucan",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Rondo Plumeux",
+                "text": "Cette attaque inflige 20 dégâts supplémentaires pour chacun des Pokémon de Banc <i>(les vôtres et ceux de votre adversaire)</i>.",
+                "cost": "C",
+                "damage": "60+",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Pioche Aérienne",
+                "text": "Une fois pendant votre tour, vous pouvez utiliser ce talent. Piochez une carte."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "94",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/94.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/94_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-95",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 140,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Tipo Nulo",
+        "name": "Silvallié",
+        "rarity": "IllustrationRare",
+        "attacks": [
+            {
+                "name": "Lame d'Air",
+                "text": "Défaussez une Énergie de ce Pokémon.",
+                "cost": "CCC",
+                "damage": "130",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Appel à un Ami",
+                "text": "Une fois pendant votre tour, si vous n'avez aucune carte dans votre main, vous pouvez utiliser ce talent. Cherchez dans votre deck une carte Supporter, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "95",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/95.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/95_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-96",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 260,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Fomantis",
+        "name": "Floramantis-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Lame Animée",
+                "text": "Si ce Pokémon a été soigné pendant ce tour, cette attaque inflige 200 dégâts supplémentaires.",
+                "cost": "G",
+                "damage": "60+",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Feuille Garde",
+                "text": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 50 dégâts de moins provenant des attaques <i>(après application de la Faiblesse et de la Résistance)</i>.",
+                "cost": "GC",
+                "damage": "140",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "96",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/96.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/96_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-97",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 380,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Wailmer",
+        "name": "Wailord-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Surf",
+                "text": "",
+                "cost": "WWW",
+                "damage": "120",
+                "convertedEnergyCost": 3
+            },
+            {
+                "name": "Écroulement",
+                "text": "Ce Pokémon est maintenant Endormi.",
+                "cost": "WWWWW",
+                "damage": "270",
+                "convertedEnergyCost": 5
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "number": "97",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/97.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/97_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-98",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 270,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Mega Zeraora ex",
+        "name": "Méga-Zeraora-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Poing Foudroyant",
+                "text": "Cette attaque inflige 60 dégâts pour chaque Énergie lightning attachée à ce Pokémon.",
+                "cost": "L",
+                "damage": "60x",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Zepto Tour",
+                "text": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+                "cost": "LLL",
+                "damage": "150",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "98",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/98.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/98_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-99",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 350,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Litwick",
+        "name": "Méga-Lugulabre-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Labyrinthe Fantôme",
+                "text": "Cette attaque inflige 50 dégâts supplémentaires pour chaque colorless dans le Coût de Retraite du Pokémon Actif de votre adversaire.",
+                "cost": "PP",
+                "damage": "130+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Flamme Entravante",
+                "text": "Le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté de colorless."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "99",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/99.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/99_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-100",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 330,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Fóssil Crânio Arcaico",
+        "name": "Charkos-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Marteau Tumultueux",
+                "text": "Pendant votre prochain tour, les attaques utilisées par ce Pokémon infligent 150 dégâts supplémentaires au Pokémon Actif de votre adversaire <i>(avant application de la Faiblesse et de la Résistance)</i>.",
+                "cost": "FF",
+                "damage": "150",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Coup d'Boule Destructeur",
+                "text": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez utiliser ce talent. Lancez une pièce. Si c'est face, défaussez une Énergie du Pokémon Actif de votre adversaire."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "100",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/100.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/100_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-101",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 280,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Mega Darkrai ex",
+        "name": "Méga-Darkrai-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Raid Crépusculaire",
+                "text": "Si au moins un marqueur de dégâts est placé sur vos Pokémon de Banc, cette attaque inflige 110 dégâts supplémentaires.",
+                "cost": "DD",
+                "damage": "110+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Œil Abyssal",
+                "text": "Si le Pokémon Actif de votre adversaire est affecté par un État Spécial, il est mis K.O.",
+                "cost": "DDD",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "101",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/101.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/101_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-102",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 180,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Morpeko ex",
+        "name": "Morpeko-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Pioche Roulette",
+                "text": "Mélangez votre main avec votre deck. Ensuite, piochez 6 cartes.",
+                "cost": "D",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Explosion Affamée",
+                "text": "Cette attaque inflige 40 dégâts supplémentaires pour chaque marqueur de dégâts sur ce Pokémon.",
+                "cost": "DD",
+                "damage": "40+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "102",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/102.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/102_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-103",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 340,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Drilbur",
+        "name": "Méga-Minotaupe-ex",
+        "rarity": "UltraRare",
+        "attacks": [
+            {
+                "name": "Sape Souterraine",
+                "text": "Défaussez les 2 cartes du dessus du deck de votre adversaire.",
+                "cost": "MM",
+                "damage": "90",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Perçage Maximum",
+                "text": "Si au moins 2 Énergies supplémentaires sont attachées à ce Pokémon <i>(en plus du coût de cette attaque)</i>, cette attaque inflige 130 dégâts supplémentaires.",
+                "cost": "MMM",
+                "damage": "200+",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "number": "103",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/103.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/103_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-104",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "name": "Bracelet Vaillant",
+        "rarity": "UltraRare",
+        "rules": [
+            "Si le Pokémon auquel cette carte est attachée n'a pas d'encadré <i>Règle</i>, les attaques qu'il utilise infligent 30 dégâts supplémentaires au Pokémon-{ex} Actif de votre adversaire <i>(avant application de la Faiblesse et de la Résistance)</i>. <i>(Les Pokémon-{ex}, Pokémon-v_atk, etc. ont des encadrés</i> Règle<i>.)</i>"
+        ],
+        "number": "104",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/104.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/104_hires.webp"
+        }
+    },
+    {
+        "id": "me5-105",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Martelo Esmagador",
+        "name": "Maillet Écrasant",
+        "rarity": "UltraRare",
+        "rules": [
+            "Lancez une pièce. Si c'est face, défaussez une Énergie de l'un des Pokémon de votre adversaire."
+        ],
+        "number": "105",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/105.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/105_hires.webp"
+        }
+    },
+    {
+        "id": "me5-106",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Sino Sombrio",
+        "name": "Cloche Ténébreuse",
+        "rarity": "UltraRare",
+        "rules": [
+            "Les deux Pokémon non-darkness Actifs sont maintenant Confus."
+        ],
+        "number": "106",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/106.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/106_hires.webp"
+        }
+    },
+    {
+        "id": "me5-107",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Substituição de Energia",
+        "name": "Échange d'Énergie",
+        "rarity": "UltraRare",
+        "rules": [
+            "Déplacez une Énergie de base de l'un de vos Pokémon vers un autre de vos Pokémon."
+        ],
+        "number": "107",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/107.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/107_hires.webp"
+        }
+    },
+    {
+        "id": "me5-108",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "name": "Combat Final de Gladio",
+        "rarity": "UltraRare",
+        "rules": [
+            "\u0003Vous ne pouvez utiliser cette carte que si c'est votre dernière carte en main.Pendant ce tour, les attaques utilisées par vos Pokémon n'ayant pas d'encadré <i>Règle</i> infligent 80 dégâts supplémentaires au Pokémon Actif de votre adversaire <i>(avant application de la Faiblesse et de la Résistance)</i>. <i>(Les Pokémon-{ex}, Pokémon-v_atk, etc. ont des encadrés</i> Règle<i>.)</i>"
+        ],
+        "number": "108",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/108.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/108_hires.webp"
+        }
+    },
+    {
+        "id": "me5-109",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "name": "Albia",
+        "rarity": "UltraRare",
+        "rules": [
+            "Défaussez jusqu'à 2 Pokémon n'ayant pas d'encadré <i>Règle</i> de votre main, puis piochez 3 cartes pour chaque carte défaussée de cette façon. <i>(Les Pokémon-{ex}, Pokémon-v_atk, etc. ont des encadrés</i> Règle<i>.)</i>"
+        ],
+        "number": "109",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/109.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/109_hires.webp"
+        }
+    },
+    {
+        "id": "me5-110",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Defensor Férreo",
+        "name": "Défense de Fer",
+        "rarity": "UltraRare",
+        "rules": [
+            "Pendant le prochain tour de votre adversaire, tous vos Pokémon metal subissent 30 dégâts de moins provenant des attaques des Pokémon de votre adversaire <i>(après application de la Faiblesse et de la Résistance)</i>. <i>(Cela comprend les nouveaux Pokémon qui sont mis en jeu.)</i>"
+        ],
+        "number": "110",
+        "regulationMark": "I",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/110.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/110_hires.webp"
+        }
+    },
+    {
+        "id": "me5-111",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter",
+            "Trainer-Owned"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "name": "Vitalité d'Ondine",
+        "rarity": "UltraRare",
+        "rules": [
+            "Cherchez dans votre deck jusqu'à 4 cartes Énergie water de base, puis attachez-les à l'un de vos Pokémon. Mélangez ensuite votre deck. Votre tour se termine."
+        ],
+        "number": "111",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/111.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/111_hires.webp"
+        }
+    },
+    {
+        "id": "me5-112",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "name": "Sbire du Clan Dérouillard",
+        "rarity": "UltraRare",
+        "rules": [
+            "Vous ne pouvez utiliser cette carte que si au moins l'un de vos Pokémon a été mis K.O. pendant le dernier tour de votre adversaire.Défaussez une Énergie de l'un des Pokémon de votre adversaire."
+        ],
+        "number": "112",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/112.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/112_hires.webp"
+        }
+    },
+    {
+        "id": "me5-113",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Tool"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "name": "Bombe Géniale",
+        "rarity": "UltraRare",
+        "rules": [
+            "\u0003Si le Pokémon auquel cette carte est attachée n'est pas un Pokémon-{ex} Méga-Évolution, qu'il est sur le Poste Actif et qu'il subit au moins 240 dégâts d'une attaque de l'un des Pokémon-{ex} Méga-Évolution de votre adversaire <i>(même si ce Pokémon est mis K.O.)</i>, placez 12 marqueurs de dégâts sur le Pokémon Attaquant. Si vous avez placé au moins un marqueur de dégâts de cette façon, défaussez cette carte."
+        ],
+        "number": "113",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/113.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/113_hires.webp"
+        }
+    },
+    {
+        "id": "me5-114",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 270,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Mega Zeraora ex",
+        "name": "Méga-Zeraora-ex",
+        "rarity": "SpecialIllustrationRare",
+        "attacks": [
+            {
+                "name": "Poing Foudroyant",
+                "text": "Cette attaque inflige 60 dégâts pour chaque Énergie lightning attachée à ce Pokémon.",
+                "cost": "L",
+                "damage": "60x",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Zepto Tour",
+                "text": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+                "cost": "LLL",
+                "damage": "150",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "number": "114",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/114.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/114_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-115",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 350,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Litwick",
+        "name": "Méga-Lugulabre-ex",
+        "rarity": "SpecialIllustrationRare",
+        "attacks": [
+            {
+                "name": "Labyrinthe Fantôme",
+                "text": "Cette attaque inflige 50 dégâts supplémentaires pour chaque colorless dans le Coût de Retraite du Pokémon Actif de votre adversaire.",
+                "cost": "PP",
+                "damage": "130+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ability] Flamme Entravante",
+                "text": "Le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté de colorless."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dark",
+                "value": "×2"
+            }
+        ],
+        "number": "115",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/115.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/115_hires.webp"
+        },
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ]
+    },
+    {
+        "id": "me5-116",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 280,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Mega Darkrai ex",
+        "name": "Méga-Darkrai-ex",
+        "rarity": "SpecialIllustrationRare",
+        "attacks": [
+            {
+                "name": "Raid Crépusculaire",
+                "text": "Si au moins un marqueur de dégâts est placé sur vos Pokémon de Banc, cette attaque inflige 110 dégâts supplémentaires.",
+                "cost": "DD",
+                "damage": "110+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Œil Abyssal",
+                "text": "Si le Pokémon Actif de votre adversaire est affecté par un État Spécial, il est mis K.O.",
+                "cost": "DDD",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "116",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/116.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/116_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-117",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 180,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Morpeko ex",
+        "name": "Morpeko-ex",
+        "rarity": "SpecialIllustrationRare",
+        "attacks": [
+            {
+                "name": "Pioche Roulette",
+                "text": "Mélangez votre main avec votre deck. Ensuite, piochez 6 cartes.",
+                "cost": "D",
+                "damage": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "name": "Explosion Affamée",
+                "text": "Cette attaque inflige 40 dégâts supplémentaires pour chaque marqueur de dégâts sur ce Pokémon.",
+                "cost": "DD",
+                "damage": "40+",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "117",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/117.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/117_hires.webp"
+        },
+        "resistances": []
+    },
+    {
+        "id": "me5-118",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "name": "Combat Final de Gladio",
+        "rarity": "SpecialIllustrationRare",
+        "rules": [
+            "\u0003Vous ne pouvez utiliser cette carte que si c'est votre dernière carte en main.Pendant ce tour, les attaques utilisées par vos Pokémon n'ayant pas d'encadré <i>Règle</i> infligent 80 dégâts supplémentaires au Pokémon Actif de votre adversaire <i>(avant application de la Faiblesse et de la Résistance)</i>. <i>(Les Pokémon-{ex}, Pokémon-v_atk, etc. ont des encadrés</i> Règle<i>.)</i>"
+        ],
+        "number": "118",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/118.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/118_hires.webp"
+        }
+    },
+    {
+        "id": "me5-119",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "name": "Albia",
+        "rarity": "SpecialIllustrationRare",
+        "rules": [
+            "Défaussez jusqu'à 2 Pokémon n'ayant pas d'encadré <i>Règle</i> de votre main, puis piochez 3 cartes pour chaque carte défaussée de cette façon. <i>(Les Pokémon-{ex}, Pokémon-v_atk, etc. ont des encadrés</i> Règle<i>.)</i>"
+        ],
+        "number": "119",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/119.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/119_hires.webp"
+        }
+    },
+    {
+        "id": "me5-120",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "ex",
+            "Mega Evolution ex"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 280,
+        "Release Date": "2026-07-16T17:00:00.0000000Z",
+        "Craftable Date": "2027-01-16 18:00:00",
+        "Craftable": 0,
+        "baseEvolution": "Mega Darkrai ex",
+        "name": "Méga-Darkrai-ex",
+        "rarity": "MegaHyperRare",
+        "attacks": [
+            {
+                "name": "Raid Crépusculaire",
+                "text": "Si au moins un marqueur de dégâts est placé sur vos Pokémon de Banc, cette attaque inflige 110 dégâts supplémentaires.",
+                "cost": "DD",
+                "damage": "110+",
+                "convertedEnergyCost": 2
+            },
+            {
+                "name": "Œil Abyssal",
+                "text": "Si le Pokémon Actif de votre adversaire est affecté par un État Spécial, il est mis K.O.",
+                "cost": "DDD",
+                "damage": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "number": "120",
+        "regulationMark": "J",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "images": {
+            "small": "https://images.pokedata.ovh/fr/me5/120.webp",
+            "large": "https://images.pokedata.ovh/fr/me5/120_hires.webp"
+        },
+        "resistances": []
+    }
+]
